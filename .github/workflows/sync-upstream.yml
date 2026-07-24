@@ -1,0 +1,176 @@
+name: Sync new-grad fork from upstream (dev)
+
+on:
+  schedule:
+    - cron: "*/20 * * * *" # every 20 minutes (GitHub throttles scheduled runs on forks)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout fork
+        uses: actions/checkout@v4
+        with:
+          ref: dev
+          fetch-depth: 0
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Check if upstream dev has changes
+        id: check-for-upstream-changes
+        run: |
+          git remote get-url upstream >/dev/null 2>&1 && \
+            git remote set-url upstream https://github.com/SimplifyJobs/New-Grad-Positions.git || \
+            git remote add upstream https://github.com/SimplifyJobs/New-Grad-Positions.git
+
+          git fetch upstream dev
+
+          if git diff --quiet "origin/dev" "upstream/dev" 2>/dev/null; then
+            echo "skip=true" >> $GITHUB_OUTPUT
+            echo "No changes detected on upstream/dev"
+          else
+            echo "skip=false" >> $GITHUB_OUTPUT
+            echo "Changes detected on upstream/dev, proceeding with sync"
+          fi
+
+      - name: Sync dev from upstream to origin
+        if: steps.check-for-upstream-changes.outputs.skip != 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          mkdir -p changes
+
+          git checkout dev
+
+          BEFORE_SHA=$(git rev-parse HEAD)
+
+          # Merge upstream changes into local dev
+          if git merge "upstream/dev" --no-edit; then
+            echo "Successfully merged upstream/dev into dev"
+          else
+            echo "Merge conflict detected in dev, resolving by accepting upstream"
+            git checkout --theirs .
+            git add .
+            git commit -m "Resolve merge conflicts by accepting upstream changes"
+          fi
+
+          AFTER_SHA=$(git rev-parse HEAD)
+
+          # Record commit list and file changes introduced by the sync
+          git log --oneline "${BEFORE_SHA}..${AFTER_SHA}" > "changes/commits-dev.txt" || true
+          git diff --name-status "${BEFORE_SHA}..${AFTER_SHA}" > "changes/files-dev.txt" || true
+          git diff "${BEFORE_SHA}..${AFTER_SHA}" > "changes/patch-dev.patch" || true
+
+          # Push to origin using the token
+          git push "https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git" dev
+
+      - name: Upload change artifacts
+        if: steps.check-for-upstream-changes.outputs.skip != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: upstream-sync-changes
+          path: changes/
+
+      - name: Check for README.md changes
+        if: steps.check-for-upstream-changes.outputs.skip != 'true'
+        id: check-readme
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p email
+
+          HAS_README_CHANGES=false
+
+          if [ -f changes/patch-dev.patch ] && grep -q "^+++.*README\.md" changes/patch-dev.patch; then
+            if grep -A 1000 "^+++.*README\.md" changes/patch-dev.patch | grep -q "^+"; then
+              echo "README.md changes with added/modified lines detected"
+              HAS_README_CHANGES=true
+            fi
+          fi
+
+          if [ "$HAS_README_CHANGES" = "true" ]; then
+            echo "has_readme_changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_readme_changes=false" >> $GITHUB_OUTPUT
+            echo "No README.md additions/changes detected"
+          fi
+
+      - name: Call Python script for new opportunities
+        if: steps.check-for-upstream-changes.outputs.skip != 'true' && steps.check-readme.outputs.has_readme_changes == 'true'
+        run: |
+          python3 new_opps.py
+
+      - name: Upload email body artifact
+        if: steps.check-for-upstream-changes.outputs.skip != 'true' && steps.check-readme.outputs.has_readme_changes == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: email-body
+          path: email/body.txt
+
+      - name: Check if there are new jobs
+        if: steps.check-for-upstream-changes.outputs.skip != 'true' && steps.check-readme.outputs.has_readme_changes == 'true'
+        id: newlines
+        shell: bash
+        run: |
+          if [ -f "email/body.txt" ] && grep -q "🏢 COMPANY:" email/body.txt; then
+            echo "has_new=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_new=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Load email body into env
+        if: steps.check-for-upstream-changes.outputs.skip != 'true' && steps.check-readme.outputs.has_readme_changes == 'true' && steps.newlines.outputs.has_new == 'true'
+        shell: bash
+        run: |
+          EMAIL_BODY="$(cat email/body.txt)"
+          {
+            echo "EMAIL_BODY<<EOF"
+            echo "$EMAIL_BODY"
+            echo "EOF"
+          } >> "$GITHUB_ENV"
+
+      - name: Prepare email recipients
+        if: steps.check-for-upstream-changes.outputs.skip != 'true' && steps.check-readme.outputs.has_readme_changes == 'true' && steps.newlines.outputs.has_new == 'true'
+        shell: bash
+        run: |
+          RECIPIENTS="${{ secrets.MAIL_USERNAME }}"
+          if [ -n "${{ secrets.MAIL_ADDITIONAL_RECIPIENTS }}" ]; then
+            RECIPIENTS="${RECIPIENTS},${{ secrets.MAIL_ADDITIONAL_RECIPIENTS }}"
+          fi
+          echo "RECIPIENTS=${RECIPIENTS}" >> $GITHUB_ENV
+
+      - name: Send email with changes (SMTP)
+        if: steps.check-for-upstream-changes.outputs.skip != 'true' && steps.check-readme.outputs.has_readme_changes == 'true' && steps.newlines.outputs.has_new == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: New Grad Job Posted
+          to: ${{ env.RECIPIENTS }}
+          from: ${{ secrets.MAIL_USERNAME }}
+          ignore_cert: true
+          convert_markdown: false
+          body: ${{ env.EMAIL_BODY }}
+
+      - name: Print email body (for logs)
+        if: always() && steps.check-for-upstream-changes.outputs.skip != 'true' && steps.check-readme.outputs.has_readme_changes == 'true'
+        shell: bash
+        run: |
+          echo "Email body:" && cat email/body.txt
+
+      - name: Skip message
+        if: steps.check-for-upstream-changes.outputs.skip == 'true'
+        run: |
+          echo "No upstream changes detected. Skipping sync workflow."
