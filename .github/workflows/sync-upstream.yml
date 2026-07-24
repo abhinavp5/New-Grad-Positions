@@ -17,7 +17,7 @@ jobs:
         with:
           ref: dev
           fetch-depth: 0
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Configure git
         run: |
@@ -70,8 +70,8 @@ jobs:
           git diff --name-status "${BEFORE_SHA}..${AFTER_SHA}" > "changes/files-dev.txt" || true
           git diff "${BEFORE_SHA}..${AFTER_SHA}" > "changes/patch-dev.patch" || true
 
-          # Push to origin using the token
-          git push "https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git" dev
+          # Push to origin using the built-in token
+          git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" dev
 
       - name: Upload change artifacts
         if: steps.check-for-upstream-changes.outputs.skip != 'true'
