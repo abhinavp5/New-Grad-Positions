@@ -1,23 +1,5 @@
 [
     {
-        "date_updated": 1764604549,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/affirm/jobs/7485068003",
-        "company_name": "Affirm",
-        "title": "Software Engineer, Early Career",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "3d6d6af9-2d80-47cd-bab7-3de78427877d",
-        "date_posted": 1764604549,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
@@ -223599,7 +223581,7 @@
         "company_name": "RTX",
         "id": "ecd42cd9-2e5c-4b58-b00e-c37e33d6691a",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778193687,
         "date_posted": 1778191810,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-I--Onsite-_01834725",
@@ -320784,7 +320766,7 @@
         "company_name": "UT Southwestern Medical Center",
         "id": "abaa5e9d-c0a5-4c3e-bb1c-fc4e14df83ff",
         "title": "Application Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784154399,
         "date_posted": 1784153479,
         "url": "https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=958075",
@@ -350160,7 +350142,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "e133aaa9-69a5-45e5-bfa0-3e9b9d241c2b",
         "title": "Business Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1785278881,
         "date_posted": 1785196800,
         "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Business-Intelligence-Analyst_R0000385342",
@@ -352193,5 +352175,61 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Express",
+        "id": "3b22e93e-4d46-491f-9ba6-12c83ea4bb48",
+        "title": "Data Engineer 1 - Global Servicing Technology",
+        "active": true,
+        "date_updated": 1785335491,
+        "date_posted": 1785334236,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011091",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "9fc66465-c638-4a10-a6cc-877f7f9e1966",
+        "title": "AI Tool Developer Engineer",
+        "active": true,
+        "date_updated": 1785338101,
+        "date_posted": 1784592000,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/AI-Tool-Developer-Engineer_R5047870-2",
+        "locations": [
+            "Schenectady, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CLEAResult",
+        "id": "4657472e-a2eb-4524-81f8-d95bef5db1d7",
+        "title": "QuickBase Developer",
+        "active": true,
+        "date_updated": 1785338216,
+        "date_posted": 1785196800,
+        "url": "https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Portland-OR---2000-SW-1st-Avenue/QuickBase-Developer_R0017884",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/CLEAResult",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
