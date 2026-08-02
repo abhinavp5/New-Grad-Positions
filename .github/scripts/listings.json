@@ -37,214 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Honeywell",
-        "id": "b168f0fc-6dcf-4196-845e-0f252db359df",
-        "title": "Application Engineer 1",
-        "active": false,
-        "date_updated": 1764899793,
-        "date_posted": 1764899793,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/130386",
-        "locations": [
-            "Mason, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PredictX",
-        "id": "69d59049-3a20-4fac-9777-15ed9d265e10",
-        "title": "UK Business Intelligence Analyst-Travel & Expense",
-        "active": true,
-        "date_updated": 1764901051,
-        "date_posted": 1764901051,
-        "url": "https://jobs.lever.co/pibenchmark/67c5bdb8-d019-43ff-a6de-cca1917058d8/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/PredictX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "JP Morgan Chase",
-        "id": "6b5999a7-7351-4ec2-8d4f-7b5244f23c0b",
-        "title": "Quant Analytics Associate-Regulatory Operations",
-        "active": false,
-        "date_updated": 1764900464,
-        "date_posted": 1764900464,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210689130",
-        "locations": [
-            "Plano, TX",
-            "Columbus, OH",
-            "Wilmington, DE"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "CVS Health",
-        "id": "079255b0-a4ee-4676-8be8-254bd15a9195",
-        "title": "Senior Analyst - Digital Product",
-        "active": false,
-        "date_updated": 1764901330,
-        "date_posted": 1764901330,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Sr-Analyst-Digital-Product_R0633593",
-        "locations": [
-            "Texas"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Qualcomm",
-        "id": "ecb90437-b2b5-4046-b904-8be4d9b7ae95",
-        "title": "Software Engineer - Software Engineering",
-        "active": false,
-        "date_updated": 1764901112,
-        "date_posted": 1764901112,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446715747376",
-        "locations": [
-            "Boulder, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualcomm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Certara",
-        "id": "343d3f17-456f-4741-9ad5-1696c7fae3d3",
-        "title": "Scientific Documentation & Clinical Data Management Assistant",
-        "active": false,
-        "date_updated": 1764900621,
-        "date_posted": 1764900621,
-        "url": "https://careers.certara.com/jobs/2352?lang=en-us&icims=1",
-        "locations": [
-            "Sheffield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Certara",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Peraton",
-        "id": "7e2f770f-2bc7-43e2-baf9-584aca080954",
-        "title": "Assembly Screening Technician",
-        "active": false,
-        "date_updated": 1764904867,
-        "date_posted": 1764904867,
-        "url": "https://careers-peraton.icims.com/jobs/161889/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Topeka, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Peraton",
-        "id": "73324729-9908-4012-b7e9-3f04f6aac17e",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1764904945,
-        "date_posted": 1764904945,
-        "url": "https://careers-peraton.icims.com/jobs/161341/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Aurora, CO",
-            "Tacoma, WA",
-            "San Antonio, TX",
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CVS Health",
-        "id": "4a06dafe-9ac1-4818-aeb0-40e68e4b9fb7",
-        "title": "Data Science Analyst - Consumer Engagement",
-        "active": false,
-        "date_updated": 1764904007,
-        "date_posted": 1764904007,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Science-Analyst---Consumer-Engagement_R0782175",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/CVS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "765e341b-9747-4e92-8ccd-e8116ac94e33",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1764906099,
-        "date_posted": 1764906099,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042023",
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Oracle",
-        "id": "b763482b-4ab0-4924-9a07-daaf263b2d14",
-        "title": "Undergrad Software Engineer - C/C++ - Oracle Cloud Infrastructure",
-        "active": false,
-        "date_updated": 1764905947,
-        "date_posted": 1764905947,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/318307",
-        "locations": [
-            "Santa Clara, CA",
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "AeroVironment",
         "id": "bdccbe05-12c2-49b7-bcd7-46da93417c7d",
@@ -36746,24 +36538,6 @@
         "url": "https://jobs.lever.co/appen/425ffbbf-f35f-4295-8bb7-78ddb8696ffe/apply",
         "locations": [
             "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/CrowdGen-By-Appen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CrowdGen by Appen",
-        "id": "f676a220-8ba5-4c08-a8f6-7bb00f3a0645",
-        "title": "Project Jigglypuff Transcription - English-United States",
-        "active": false,
-        "date_updated": 1768296511,
-        "date_posted": 1764901408,
-        "url": "https://jobs.lever.co/appen/88569e5a-56e4-4acc-bbd9-32d936ee8142/apply",
-        "locations": [
-            "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/CrowdGen-By-Appen",
         "is_visible": true,
@@ -144651,7 +144425,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -144671,7 +144445,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -232866,7 +232640,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": false,
+        "active": true,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -249988,7 +249762,7 @@
         "company_name": "Avnet",
         "id": "98570ec2-f696-4929-b59d-0b2f68c8389c",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351529,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -250468,7 +250242,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -256885,7 +256659,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -340371,7 +340145,7 @@
         "company_name": "Unlimited Technology",
         "id": "32f21e48-1321-43c2-92dc-dcff125c923a",
         "title": "Security Installation Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784962879,
         "date_posted": 1784817608,
         "url": "https://job-boards.greenhouse.io/unlimitedtechnology/jobs/5366016008",
@@ -345497,7 +345271,7 @@
         "company_name": "Goldman Sachs",
         "id": "5b04af22-9b48-42f3-8c74-8b62dff65252",
         "title": "Corporate Planning & Management-Senior Analyst-Quantitative Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1785288997,
         "date_posted": 1785276668,
         "url": "https://higher.gs.com/roles/180216",
@@ -349420,7 +349194,7 @@
         "company_name": "Advanced Technology Services",
         "id": "1f77b613-c5a5-4a28-9d44-e43f4b43e7be",
         "title": "Calibration Metrology Technician 1",
-        "active": false,
+        "active": true,
         "date_updated": 1785450945,
         "date_posted": 1785364141,
         "url": "https://job-boards.greenhouse.io/advancedtechnologyservices/jobs/4700158006",
@@ -351662,7 +351436,7 @@
         "company_name": "MatX",
         "id": "06710278-be3c-4322-8d77-9e54c5450777",
         "title": "Rust Software-Silicon Co-verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785574032,
         "date_posted": 1776129356,
         "url": "https://job-boards.greenhouse.io/matx/jobs/5187495008",
@@ -354257,7 +354031,7 @@
         "company_name": "Astrion",
         "id": "eb591748-22ed-4f31-98e9-aa687e03d478",
         "title": "Space Based Interceptor",
-        "active": true,
+        "active": false,
         "date_updated": 1785622681,
         "date_posted": 1782943402,
         "url": "https://careers.astrion.us/jobs/23998?icims=1",
@@ -354741,7 +354515,7 @@
         "company_name": "Bowman Consulting Group",
         "id": "ddd71bb6-fb98-4faa-a7d0-2014e086dd68",
         "title": "Survey Instrument Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1785623401,
         "date_posted": 1785575430,
         "url": "https://careers.bowman.com/jobs/10738?icims=1",
@@ -354780,7 +354554,7 @@
         "company_name": "Universal Health Services",
         "id": "6543f42c-7d9e-42f2-8ed5-5778e092ad0b",
         "title": "Adolescent PHP Clinician",
-        "active": true,
+        "active": false,
         "date_updated": 1785623401,
         "date_posted": 1785575309,
         "url": "https://jobs.uhsinc.com/jobs/361863?icims=1",
@@ -354854,6 +354628,153 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ManTech",
+        "id": "76c3f204-9af7-4adb-8e3a-577de865f6cf",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1785632661,
+        "date_posted": 1785632432,
+        "url": "https://mantech.avature.net/en_US/careers/JobDetail/61501",
+        "locations": [
+            "Crane, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/ManTech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ManTech",
+        "id": "24ae7074-86a9-461d-8e0c-23403a03e275",
+        "title": "Junior Artificial Intelligence/Machine Learning Strategist",
+        "active": true,
+        "date_updated": 1785632619,
+        "date_posted": 1785632407,
+        "url": "https://mantech.avature.net/en_US/careers/JobDetail/64287",
+        "locations": [
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/ManTech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ManTech",
+        "id": "cb369351-882d-41be-9e85-42d3312f503a",
+        "title": "Associate Computer Network Operations Developer",
+        "active": true,
+        "date_updated": 1785632548,
+        "date_posted": 1785632383,
+        "url": "https://mantech.avature.net/en_US/careers/JobDetail/64786",
+        "locations": [
+            "Fort Meade, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/ManTech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Associate's",
+            "Incomplete"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ManTech",
+        "id": "86247036-93b7-4e67-9fd5-4b5eb0573583",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1785632425,
+        "date_posted": 1785632356,
+        "url": "https://mantech.avature.net/en_US/careers/JobDetail/65051",
+        "locations": [
+            "Fort Meade, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/ManTech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ManTech",
+        "id": "678077f9-ae48-457f-8a21-5b51072d2d48",
+        "title": "Associate CNO Developer",
+        "active": true,
+        "date_updated": 1785632425,
+        "date_posted": 1785632384,
+        "url": "https://mantech.avature.net/en_US/careers/JobDetail/64788",
+        "locations": [
+            "Fort Meade, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/ManTech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ManTech",
+        "id": "e8a83f95-a91b-4658-ad2b-d5a105fe51e9",
+        "title": "Launch Vehicle Software Developer - 5th Space Launch Squadron",
+        "active": true,
+        "date_updated": 1785632425,
+        "date_posted": 1785632254,
+        "url": "https://mantech.avature.net/en_US/careers/JobDetail/65190",
+        "locations": [
+            "Cape Canaveral, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ManTech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Garmin",
+        "id": "aaaa8a89-4a65-414d-ad5f-46e681c28716",
+        "title": "Software Engineer 1 - Aviation Web Development",
+        "active": true,
+        "date_updated": 1785632941,
+        "date_posted": 1785579711,
+        "url": "https://careers.garmin.com/jobs/17742?icims=1",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Garmin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
