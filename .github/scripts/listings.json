@@ -38,42 +38,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Intuit",
-        "id": "deeed02e-607f-42d1-966c-f4bb0b272d06",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1765007255,
-        "date_posted": 1765007255,
-        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89210463680",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Applied Materials",
-        "id": "2c02bf48-4ead-45d3-b6b7-58378725f4b4",
-        "title": "Automation Software Engineer",
-        "active": false,
-        "date_updated": 1765015508,
-        "date_posted": 1765015508,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Automation-Software-Engineer--New-College-Grad--Bachelor-s--Austin--TX-_R2519059",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "ServiceNow",
         "id": "91f1caab-c43e-464f-ab06-81a9a9760b86",
         "title": "Software Engineer",
@@ -142725,7 +142689,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -142745,7 +142709,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -187295,7 +187259,7 @@
         "company_name": "Illumina",
         "id": "77be5914-87b0-4f12-a256-1f3cb47aedbf",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776348601,
         "date_posted": 1776348304,
         "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/England---Cambridge/Software-Engineer-1_42598-JOB-1",
@@ -190509,7 +190473,7 @@
         "company_name": "Intel",
         "id": "6a9037a8-cfc4-43f5-841f-202346e3bfb4",
         "title": "Image Processing Engineer - C++/Linux",
-        "active": true,
+        "active": false,
         "date_updated": 1776474773,
         "date_posted": 1776474487,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Image-Processing-Engineer--C---Linux-_JR0282835",
@@ -230922,7 +230886,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -248044,7 +248008,7 @@
         "company_name": "Avnet",
         "id": "98570ec2-f696-4929-b59d-0b2f68c8389c",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351529,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -248524,7 +248488,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -253276,7 +253240,7 @@
         "company_name": "EOS IT Solutions",
         "id": "855cf417-5df9-460c-b32b-283c5e2350b6",
         "title": "Graduate Data Centre Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780564254,
         "date_posted": 1780564005,
         "url": "https://eosits.com/company/careers/?gh_jid=8578282002",
@@ -282645,7 +282609,7 @@
         "company_name": "JP Morgan Chase",
         "id": "1e8378b2-574b-4e1d-8d67-146c3e3ac31a",
         "title": "Asset & Wealth Management Chief Data Office - Data Management - IPB Platform Modernization",
-        "active": true,
+        "active": false,
         "date_updated": 1782291782,
         "date_posted": 1780063734,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210752265",
@@ -291165,7 +291129,7 @@
         "company_name": "Trane Technologies",
         "id": "4126dfc9-f400-4a64-a3e7-1373338d3289",
         "title": "Application Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1782960522,
         "date_posted": 1782956029,
         "url": "https://careers.tranetechnologies.com/global/en/job/JR-8943",
@@ -300895,7 +300859,7 @@
         "company_name": "GE Healthcare",
         "id": "0d4fe4d8-2a3c-4bae-ab91-fcfa10a631c4",
         "title": "Field Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1783472992,
         "date_posted": 1783472744,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/El-Paso/Field-Engineer-1_R4043144-2",
@@ -301133,7 +301097,7 @@
         "company_name": "BNY",
         "id": "8b288ebd-9f41-4a86-85d7-7220a98e4bb8",
         "title": "Specialist 2 - Client Processing - Loans Administrator and Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1783503042,
         "date_posted": 1783346729,
         "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/74771",
@@ -302008,7 +301972,7 @@
         "company_name": "Intel",
         "id": "2806a6de-285b-409b-a826-2addd6b3abf3",
         "title": "Physical Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783549692,
         "date_posted": 1783548665,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Massachusetts-Beaver-Brook/Physical-Design-Engineer_JR0285374",
@@ -307388,7 +307352,7 @@
         "company_name": "GE Healthcare",
         "id": "211d5160-dd5b-403d-aa71-3b6dd6378ee9",
         "title": "Field Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1783762313,
         "date_posted": 1783555200,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1_R4042917-1",
@@ -310509,7 +310473,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -312450,7 +312414,7 @@
         "company_name": "Ferrovial",
         "id": "5164ca1e-9a08-4913-8e3c-322ddd5352b6",
         "title": "Traffic and Revenue Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784110111,
         "date_posted": 1783987200,
         "url": "https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Dallas/Traffic---Revenue-Engineer_JR18294",
@@ -313210,7 +313174,7 @@
         "company_name": "GE Healthcare",
         "id": "0e92bb3d-c986-47f9-90d0-4f78d7789bd9",
         "title": "Imaging Field Service Engineer X-ray - CT - SC",
-        "active": true,
+        "active": false,
         "date_updated": 1784153985,
         "date_posted": 1784073600,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Imaging-Field-Service-Engineer-X-ray--CT---SC_R4043595-1",
@@ -314573,7 +314537,7 @@
         "company_name": "Becton Dickinson",
         "id": "4567b973-6e0b-4ea2-a3bd-676bcc5ef747",
         "title": "Automation Service Technician \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1784203753,
         "date_posted": 1783814400,
         "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA---Wisconsin---Milwaukee/Automation-Service-Technician--Milwaukee-Chicago-Area_R-550373",
@@ -318787,7 +318751,7 @@
         "company_name": "Primetals Technologies",
         "id": "5b9a3bf3-98a4-4993-9d9b-54fcaca9802a",
         "title": "Operations Specialist - Monitoring Center",
-        "active": false,
+        "active": true,
         "date_updated": 1784537500,
         "date_posted": 1784153421,
         "url": "https://mhicareers.com/job/Orlando-Operations-Specialist,-Monitoring-Center-FL-32809/1415503233/?ats=successfactors",
@@ -325927,7 +325891,7 @@
         "company_name": "Akamai Technologies",
         "id": "09196c2e-4267-4ca4-b899-14fa16e52c59",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784662880,
         "date_posted": 1784642910,
         "url": "https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2668",
@@ -327046,7 +327010,7 @@
         "company_name": "Markel Group",
         "id": "163dc031-ef89-45df-ac7b-23c2a0d3af34",
         "title": "Data Processor",
-        "active": true,
+        "active": false,
         "date_updated": 1784677753,
         "date_posted": 1784592000,
         "url": "https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Bedford-TX/Data-Processor---State-National_R0023382",
@@ -330875,7 +330839,7 @@
         "company_name": "Busek",
         "id": "6d2e947c-c257-4536-9690-f3d6e22371f5",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784788110,
         "date_posted": 1784787204,
         "url": "https://busek.applytojob.com/apply/lwufjJR4I4/Data-Analyst",
@@ -330915,7 +330879,7 @@
         "company_name": "CrackaJack Digital Solutions LLC",
         "id": "511d9576-3972-49cf-a949-a84c117895f1",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1784788066,
         "date_posted": 1784787181,
         "url": "https://crackajackdigitalsolutionsllc.applytojob.com/apply/KpZktL66FY/Software-Developer-Multiple-Openings",
@@ -331033,7 +330997,7 @@
         "company_name": "Pegatron Technologies LLC",
         "id": "42adbeae-5304-418d-aa90-6022836e2020",
         "title": "Test Engineer - AI Infrastructure and Server Testing - Hardware Validation & Performance Testing",
-        "active": true,
+        "active": false,
         "date_updated": 1784789562,
         "date_posted": 1784787714,
         "url": "https://pegatrontechnologiesllc.applytojob.com/apply/PGNGTgapVq/Test-Engineer",
@@ -331071,7 +331035,7 @@
         "company_name": "WME Express",
         "id": "509444c8-4bb2-4288-a37f-73d890160eed",
         "title": "Video Data Capture Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1784789171,
         "date_posted": 1784787572,
         "url": "https://wmeexpress.applytojob.com/apply/Ezjwk7IKyx/Vehicle-Field-Data-Collection-Technician",
@@ -331089,7 +331053,7 @@
         "company_name": "The Archetype Strategy",
         "id": "a2780050-63a0-49db-aabf-8cca3fbcfa1e",
         "title": "Data Center Technician - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1784788465,
         "date_posted": 1784787359,
         "url": "https://archetypestrategy.applytojob.com/apply/vFBboTquIW/Datacenter-Technician",
@@ -331107,7 +331071,7 @@
         "company_name": "The Archetype Strategy",
         "id": "05bfc5bc-8451-423a-8a1f-c8c995640628",
         "title": "Data Center Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784788467,
         "date_posted": 1784787356,
         "url": "https://archetypestrategy.applytojob.com/apply/nk9yYbRgFC/Datacenter-Technician",
@@ -331165,7 +331129,7 @@
         "company_name": "Innoflight LLC",
         "id": "1d712e1a-d25e-498f-b325-75f7329ccd57",
         "title": "Hardware Integration & Test Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784788299,
         "date_posted": 1784787290,
         "url": "https://innoflightinc.applytojob.com/apply/wkGSQg7HNk/Hardware-Integration-Test-Engineer-I",
@@ -331207,7 +331171,7 @@
         "company_name": "Digital Foundry, Inc.",
         "id": "58675663-1619-413f-b473-3a52d0da40bb",
         "title": "Software Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1784788219,
         "date_posted": 1784787250,
         "url": "https://digitalfoundry.applytojob.com/apply/AImbCdvOV4/Software-Engineer-Associate",
@@ -331289,7 +331253,7 @@
         "company_name": "IntelliPro Group Inc.",
         "id": "1cc61e60-75a5-4692-b6d9-72ceabb5cc0b",
         "title": "Product Marketing Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1784791636,
         "date_posted": 1784788216,
         "url": "https://intellipro.applytojob.com/apply/jKzmNDa3dX/Product-Marketing-Manager",
@@ -331353,7 +331317,7 @@
         "company_name": "Sunbird Software Inc.",
         "id": "6c2d559a-c15a-44a8-83ca-b2334187426b",
         "title": "Sunbird Software Inc Product Support Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784791535,
         "date_posted": 1784788202,
         "url": "https://sunbirdsoftwareinc.applytojob.com/apply/wsB1TcU0Gf/Product-Support-Engineer",
@@ -331374,7 +331338,7 @@
         "company_name": "Sunbird Software Inc.",
         "id": "5ffc89cf-42df-49a7-bd5c-59a9a9d50f7c",
         "title": "Software Support Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784791549,
         "date_posted": 1784788205,
         "url": "https://sunbirdsoftwareinc.applytojob.com/apply/YEyTkwbnWT/Software-Support-Engineer",
@@ -331395,7 +331359,7 @@
         "company_name": "Pegatron Technologies LLC",
         "id": "4f97919a-e2f3-42e7-a1e7-6b964079b369",
         "title": "Electronic Engineer - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1784791323,
         "date_posted": 1784787714,
         "url": "https://pegatrontechnologiesllc.applytojob.com/apply/Kz0NqBOqy0/Electronic-Engineer",
@@ -331436,7 +331400,7 @@
         "company_name": "Ponca City Development Authority",
         "id": "3f58a799-897f-4638-ad3e-aeeec9ddcea8",
         "title": "Lab Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784791015,
         "date_posted": 1784788123,
         "url": "https://poncaworks.applytojob.com/apply/p30S8cjBIG/Lab-Technician",
@@ -331494,7 +331458,7 @@
         "company_name": "AtomTech Inc.",
         "id": "4b95aaff-dff0-4304-8d95-74f9709a2146",
         "title": "Service Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784790179,
         "date_posted": 1784787866,
         "url": "https://atomdesignservicesllc.applytojob.com/apply/ZDWb4OCmES/Service-Technician",
@@ -331512,7 +331476,7 @@
         "company_name": "The Archetype Strategy",
         "id": "85b0fc42-9066-4ad0-b948-a47851825f6a",
         "title": "Data Center Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784790075,
         "date_posted": 1784787357,
         "url": "https://archetypestrategy.applytojob.com/apply/rvyxBfRidr/Datacenter-Technician",
@@ -331530,7 +331494,7 @@
         "company_name": "The Archetype Strategy",
         "id": "68c4dd88-c8d3-4396-b1e3-e303dc3177c4",
         "title": "Data Center Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784790096,
         "date_posted": 1784787359,
         "url": "https://archetypestrategy.applytojob.com/apply/zlLqwP22fD/Datacenter-Technician",
@@ -331548,7 +331512,7 @@
         "company_name": "The Archetype Strategy",
         "id": "352e138a-5a5d-4dda-9d78-462813cb2518",
         "title": "Data Center Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784790102,
         "date_posted": 1784787357,
         "url": "https://archetypestrategy.applytojob.com/apply/M0qi5JEVWO/Datacenter-Technician",
@@ -331606,7 +331570,7 @@
         "company_name": "Sunbird Software Inc.",
         "id": "19801474-82c2-4250-9502-3c2a38069ae9",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784792219,
         "date_posted": 1784788198,
         "url": "https://sunbirdsoftwareinc.applytojob.com/apply/2lbEU8vwlb/DCIM-Data-Analyst",
@@ -331647,7 +331611,7 @@
         "company_name": "Foxconn",
         "id": "0330f1fd-370b-49fb-a262-9b46dcdf324d",
         "title": "Electronics Repair Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784792084,
         "date_posted": 1784788151,
         "url": "https://foxconnqedge.applytojob.com/apply/9Ggj4JeXqQ/Repair-Engineer-2-A-Group-MLBRSHoustonTX",
@@ -331728,7 +331692,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "03a80408-3fdc-4795-a4b5-eae66d9d2956",
         "title": "Junior Data Engineer - Faculty Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1784796827,
         "date_posted": 1781360155,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Junior-Data-Engineer--Faculty-Specialist-_JR104102",
@@ -339667,7 +339631,7 @@
         "company_name": "RTX",
         "id": "c29f5fe7-d092-4635-aa51-5160b768cd11",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785163978,
         "date_posted": 1785110400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-DULLES-710--22110-Pacific-Blvd--BLDG-10/Software-Engineer-I--On-Site-_01860803",
@@ -342793,7 +342757,7 @@
         "company_name": "RTX",
         "id": "eade91a6-60d5-49dd-8a45-35003ed22533",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785281003,
         "date_posted": 1785196800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-DULLES-710--22110-Pacific-Blvd--BLDG-10/Software-Engineer-I--On-Site--_01862276",
@@ -343246,7 +343210,7 @@
         "company_name": "RTX",
         "id": "d8f84d42-30b7-4a74-b193-a2adde5bac7e",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785280253,
         "date_posted": 1785196800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I--On-Site-_01862626",
@@ -343930,7 +343894,7 @@
         "company_name": "Fidelity Investments",
         "id": "405b9ad2-32a7-4811-9fc5-d6d4c4992b8c",
         "title": "Leap Systems Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1785318231,
         "date_posted": 1783029971,
         "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Leap-Systems-Analyst_2132117",
@@ -344642,7 +344606,7 @@
         "company_name": "GE Healthcare",
         "id": "0ea4d18f-2790-404b-a61e-8a07c46a5523",
         "title": "Engineering Development Program",
-        "active": false,
+        "active": true,
         "date_updated": 1785364136,
         "date_posted": 1784505600,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program_R4043922-1",
@@ -345353,7 +345317,7 @@
         "company_name": "Charles Schwab",
         "id": "7f3bad1a-4bcb-4ea0-a626-5c2e1358b0d8",
         "title": "Trading Operations Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1785363482,
         "date_posted": 1785363012,
         "url": "https://career-schwab.icims.com/jobs/124553/job?mobile=true&needsRedirect=false",
@@ -351636,7 +351600,7 @@
         "company_name": "Simile",
         "id": "3a60192e-943e-4660-ab0f-76da14e6542b",
         "title": "Evaluations - Member of Technical Staff",
-        "active": true,
+        "active": false,
         "date_updated": 1785614952,
         "date_posted": 1784596483,
         "url": "https://jobs.ashbyhq.com/simile/33d75074-c23b-4a1f-bfdb-129bcc5be662/application?embed=true",
@@ -355980,6 +355944,694 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Mamoru",
+        "id": "1bf54fa2-518a-4e31-8a8d-c9a3d4d82fe4",
+        "title": "Execution Trader",
+        "active": true,
+        "date_updated": 1785747061,
+        "date_posted": 1784874101,
+        "url": "https://mamoru.applytojob.com/apply/KQBgttHAvF/Execution-Trader-Blockchain-Markets-Toronto-CA",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/f0fcca1a-8d79-4b7e-8418-3962ce9188ab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "53efd4af-54a6-411e-a939-031cead7e3c1",
+        "title": "Security Engineer New Grad - Threat Detection and Response",
+        "active": true,
+        "date_updated": 1785748932,
+        "date_posted": 1785748598,
+        "url": "https://jobs.bytedance.com/en/position/7668614787018393909/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "906a54ba-479e-4593-8fae-3ac47867717b",
+        "title": "Software Engineer AI Agent Infrastructure - Security Engineering",
+        "active": true,
+        "date_updated": 1785748926,
+        "date_posted": 1785748596,
+        "url": "https://jobs.bytedance.com/en/position/7667976924430633269/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "e568e4b0-521c-46fd-9755-b2d6ee6b85f3",
+        "title": "Backend Software Engineer Graduate - Platform",
+        "active": true,
+        "date_updated": 1785748681,
+        "date_posted": 1785748598,
+        "url": "https://jobs.bytedance.com/en/position/7667269919588321541/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "d7b7af97-f9b0-4faf-84d3-6c33874a3f86",
+        "title": "Software Engineer New Grad - Traffic Infrastructure",
+        "active": true,
+        "date_updated": 1785748910,
+        "date_posted": 1785748599,
+        "url": "https://jobs.bytedance.com/en/position/7665849950984194309/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "8cad0fcf-e891-4637-91ed-259c291121f3",
+        "title": "Software Engineer New Grad - AI Infrastructure-Compute Efficiency & Scheduling",
+        "active": true,
+        "date_updated": 1785748906,
+        "date_posted": 1785748605,
+        "url": "https://jobs.bytedance.com/en/position/7668799020705679669/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "eeae9e48-e67c-41d3-9962-8fc290fdc2a8",
+        "title": "Computer Vision Research Engineer Graduate",
+        "active": true,
+        "date_updated": 1785748891,
+        "date_posted": 1785748596,
+        "url": "https://jobs.bytedance.com/en/position/7668433722454935861/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "b2ed4463-96d0-44cd-b1c5-604bcce870ad",
+        "title": "Research Scientist New Grad - Distributed NoSQL Database Systems",
+        "active": true,
+        "date_updated": 1785748888,
+        "date_posted": 1785748595,
+        "url": "https://jobs.bytedance.com/en/position/7668365143156721973/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "b88a3852-64cb-44cf-ad65-71ede8a595e4",
+        "title": "Research Scientist New Grad - Infrastructure System Lab",
+        "active": true,
+        "date_updated": 1785748880,
+        "date_posted": 1785748598,
+        "url": "https://jobs.bytedance.com/en/position/7665108869591140613/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "85fa984a-bc83-4a85-867c-8fec70ac00f1",
+        "title": "Research Scientist New Grad - Multi-modal Agentic Databases",
+        "active": true,
+        "date_updated": 1785748881,
+        "date_posted": 1785748599,
+        "url": "https://jobs.bytedance.com/en/position/7665104241446652213/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "566a98e3-cad9-4eb0-b7a7-ee9879c926e5",
+        "title": "Software Engineer Graduate - AI Infrastructure - Compute Efficiency & Scheduling",
+        "active": true,
+        "date_updated": 1785748681,
+        "date_posted": 1785748594,
+        "url": "https://jobs.bytedance.com/en/position/7668799019359357237/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "1b859931-1544-478a-bc10-f4d7d0521089",
+        "title": "Software Engineer Graduate - AI Infrastructure Compute",
+        "active": true,
+        "date_updated": 1785748681,
+        "date_posted": 1785748598,
+        "url": "https://jobs.bytedance.com/en/position/7667334059728341253/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "369c0634-aaf9-46d8-b511-63b4e92cba0a",
+        "title": "Research Scientist New Grad - Computational Imaging",
+        "active": true,
+        "date_updated": 1785748878,
+        "date_posted": 1785748599,
+        "url": "https://jobs.bytedance.com/en/position/7665836153219959093/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "4ae93ef5-d293-43c9-8bb7-53f4c2e97749",
+        "title": "Software Engineer New Grad - AI Infra Compute",
+        "active": true,
+        "date_updated": 1785748875,
+        "date_posted": 1785748598,
+        "url": "https://jobs.bytedance.com/en/position/7667303429264115973/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "3b526ad3-6e20-4a4a-8cba-275f04112f47",
+        "title": "Research Scientist Graduate - AI Infra Compute",
+        "active": true,
+        "date_updated": 1785748681,
+        "date_posted": 1785748597,
+        "url": "https://jobs.bytedance.com/en/position/7667334521286035765/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "c1f8fe81-6b8b-4d12-b133-c8b19cbe336d",
+        "title": "Artificial Intelligence Software Engineer - Development Infrastructure",
+        "active": true,
+        "date_updated": 1785748872,
+        "date_posted": 1785748596,
+        "url": "https://jobs.bytedance.com/en/position/7667901772678302005/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "7ffeb3ff-36cb-4a84-be96-de9c169871f8",
+        "title": "Backend Software Engineer Graduate - Platform",
+        "active": true,
+        "date_updated": 1785748681,
+        "date_posted": 1785748597,
+        "url": "https://jobs.bytedance.com/en/position/7667267464923171077/detail",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "89cf07d7-dea8-45c0-bd63-f03870bf2088",
+        "title": "Backend and Infrastructure Software Engineer New Grad - Dev Infra",
+        "active": true,
+        "date_updated": 1785748871,
+        "date_posted": 1785748596,
+        "url": "https://jobs.bytedance.com/en/position/7667894766036322565/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "7c78b644-a242-4bdb-b125-4624e558f892",
+        "title": "Research Graduate - AI Infra Compute",
+        "active": true,
+        "date_updated": 1785748681,
+        "date_posted": 1785748597,
+        "url": "https://jobs.bytedance.com/en/position/7667304540048787765/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "03ff98d0-9bb1-4b91-a11f-1ed8b3777519",
+        "title": "Test Software Engineer Graduate - Research and Development Middle Platform",
+        "active": true,
+        "date_updated": 1785748681,
+        "date_posted": 1785748599,
+        "url": "https://jobs.bytedance.com/en/position/7664894974764828981/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "191c8efe-2180-4233-88f6-7be916d9f4cf",
+        "title": "Research Scientist New Grad - AI for Infrastructure",
+        "active": true,
+        "date_updated": 1785748865,
+        "date_posted": 1785748599,
+        "url": "https://jobs.bytedance.com/en/position/7667291055662811445/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "eb8b9ba6-d180-4ed1-9bcc-b814710b5758",
+        "title": "Research Scientist Graduate - Distributed NoSQL Database Systems",
+        "active": true,
+        "date_updated": 1785748681,
+        "date_posted": 1785748596,
+        "url": "https://jobs.bytedance.com/en/position/7668365756950137141/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "McGill St Laurent",
+        "id": "2a331c9f-173e-4872-adff-409655fc1097",
+        "title": "Sales & Trading Analyst - Carbon Derivatives",
+        "active": true,
+        "date_updated": 1785747429,
+        "date_posted": 1785737516,
+        "url": "https://mcgillstlaurentb8.applytojob.com/apply/RsDWUtPDnx/Sales-Trading-Analyst-Carbon-Derivatives",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/e63b3590-66b6-4bcf-9beb-5f23191fb348",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Maven Securities",
+        "id": "107894e4-62fe-4224-9de7-48fddd445c6c",
+        "title": "Quantitative Researcher New Grad",
+        "active": true,
+        "date_updated": 1785749957,
+        "date_posted": 1785749241,
+        "url": "https://job-boards.greenhouse.io/emergingtalent/jobs/8048830",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Maven-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Maven Securities",
+        "id": "830d601a-f246-424f-8b08-23956510de08",
+        "title": "Developer New Grad",
+        "active": true,
+        "date_updated": 1785749956,
+        "date_posted": 1785749241,
+        "url": "https://job-boards.greenhouse.io/emergingtalent/jobs/8048802",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Maven-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "1d8ef6ff-9176-44e2-bc80-a46b75516ff9",
+        "title": "Machine Learning Engineer Graduate - Ads Creative",
+        "active": true,
+        "date_updated": 1785749042,
+        "date_posted": 1785748882,
+        "url": "https://lifeattiktok.com/search/7668681119759616309",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PureFacts Financial Solutions",
+        "id": "44f16e23-7fb5-499d-9635-1f61b6ef7662",
+        "title": "Lead Data Engineer",
+        "active": true,
+        "date_updated": 1785749642,
+        "date_posted": 1785277253,
+        "url": "https://ats.rippling.com/purefacts_jobs/jobs/139cf84b-50cd-48b6-8202-bc2a6a55abe2",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/a41fe9b2-a425-413a-9ae1-9eb62c5770c4",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Artera Technologies",
+        "id": "43282669-26b4-424d-a58e-152780651ad6",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1785749402,
+        "date_posted": 1784845360,
+        "url": "https://arteratechnologies.applytojob.com/apply/CrjaEaiAxp/Software-Engineers",
+        "locations": [
+            "Annapolis Junction, MD",
+            "Fort Meade, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/45101013-b9cb-4cd6-97ac-ec48b48a416e",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WebFX",
+        "id": "574e852e-989d-48b9-8021-918f8c60736c",
+        "title": "Junior Business Data Analyst",
+        "active": true,
+        "date_updated": 1785750073,
+        "date_posted": 1784788084,
+        "url": "https://fxcareers.applytojob.com/apply/7BQ85Q56Ap/Jr-Business-Data-Analyst-Top-5-Employer-In-PA",
+        "locations": [
+            "Harrisburg, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/952645e9-bb1d-4691-b9ba-639f5c2c6bec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "CornerStone Partners",
+        "id": "6cd649ed-1841-4c85-a1ae-1f2c5e2d51cb",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1785750662,
+        "date_posted": 1784787438,
+        "url": "https://csptest2025.applytojob.com/apply/aG9Ig6dqgR/Investment-Analyst-2027-Start",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/9187fd37-56b5-4aff-abec-684f54a10add",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Geo Owl",
+        "id": "476e726d-bfa3-4da0-bdb9-b2bd233304dc",
+        "title": "Full Motion Video Analyst - Intelligence Analyst",
+        "active": true,
+        "date_updated": 1785749648,
+        "date_posted": 1784787201,
+        "url": "https://geoowl.applytojob.com/apply/Hte2eg8GXu/EntryLevel-Full-Motion-Video-FMV-Intelligence-Analyst",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/625f0005-141f-4191-89d4-7f86f6446231",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Trofholz Technologies",
+        "id": "7bc175ad-5c87-4be7-95ef-a1925b2036dc",
+        "title": "Electronic Security Technician",
+        "active": true,
+        "date_updated": 1785751971,
+        "date_posted": 1785277371,
+        "url": "https://trofholztechnologies.applytojob.com/apply/JyYpd2PZZZ/Electronic-Security-ESS-Installation-Technician",
+        "locations": [
+            "Lexington, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/2633bcfb-8705-49a9-9ece-c3df12185316",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pegatron Technologies LLC",
+        "id": "83f09b87-84af-401b-9993-d309c59fce8e",
+        "title": "Field Application Engineer",
+        "active": true,
+        "date_updated": 1785751386,
+        "date_posted": 1784787714,
+        "url": "https://pegatrontechnologiesllc.applytojob.com/apply/a6BrFwMUss/Field-Application-Engineer",
+        "locations": [
+            "Georgetown, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/75f77020-12dc-4b27-9c4b-5988bb07af9d",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Southern States, LLC",
+        "id": "9d908eec-cb2d-4437-9cb1-47aea6e0c308",
+        "title": "Application Engineer 1 - Psd",
+        "active": true,
+        "date_updated": 1785752907,
+        "date_posted": 1784787274,
+        "url": "https://southernstatesllc.applytojob.com/apply/VJCWCfg1U0/Application-Engineer-I-PSD",
+        "locations": [
+            "Hampton, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/79cecfd5-09ee-419a-a1c6-83f25d94163a",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
         ]
     }
 ]
