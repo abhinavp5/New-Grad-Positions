@@ -37,25 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "0d3eac40-8a94-4556-b1c6-e4f84688dc0d",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1765053095,
-        "date_posted": 1765053095,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042186",
-        "locations": [
-            "Edinburgh, UK",
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Applied Materials",
         "id": "47fc687b-6741-4fa8-9a46-447a520ded58",
@@ -14370,24 +14351,6 @@
             "Groton, CT"
         ],
         "company_url": "https://simplify.jobs/c/OneBlood",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "iHeartMedia",
-        "id": "96a7551e-121f-4976-9d7c-40c177dc23a8",
-        "title": "Audio Video Engineer - NYC",
-        "active": false,
-        "date_updated": 1766248992,
-        "date_posted": 1765055919,
-        "url": "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/job/New-York-NY-55th-St/Audio-Video-Engineer---NYC_Req36490-4",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/IHeartMedia",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -85140,26 +85103,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Northeastern University",
-        "id": "575bc022-0978-4066-9dc1-4b338fdb564e",
-        "title": "Postdoctoral Research Associate - Human Data Interaction/Data Visualization - The Roux Institute",
-        "active": false,
-        "date_updated": 1770894782,
-        "date_posted": 1765051489,
-        "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Portland-ME/Postdoctoral-Research-Associate---Human-Data-Interaction-Data-Visualization----The-Roux-Institute--Portland--Maine_R127738",
-        "locations": [
-            "Portland, ME"
-        ],
-        "company_url": "https://simplify.jobs/c/Northeastern-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -277438,7 +277381,7 @@
         "company_name": "Peraton",
         "id": "240a7035-37a2-46df-807a-e4b98a6e2d7f",
         "title": "Java Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781908562,
         "date_posted": 1781906794,
         "url": "https://careers-peraton.icims.com/jobs/167686/job?mobile=true&needsRedirect=false",
@@ -300658,7 +300601,7 @@
         "company_name": "GE Healthcare",
         "id": "0d4fe4d8-2a3c-4bae-ab91-fcfa10a631c4",
         "title": "Field Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1783472992,
         "date_posted": 1783472744,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/El-Paso/Field-Engineer-1_R4043144-2",
@@ -344405,7 +344348,7 @@
         "company_name": "GE Healthcare",
         "id": "0ea4d18f-2790-404b-a61e-8a07c46a5523",
         "title": "Engineering Development Program",
-        "active": true,
+        "active": false,
         "date_updated": 1785364136,
         "date_posted": 1784505600,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program_R4043922-1",
@@ -350993,7 +350936,7 @@
         "company_name": "Cadence Design Systems",
         "id": "1b8fb29b-402c-4497-8740-e4c955b1a30c",
         "title": "Senior Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785611120,
         "date_posted": 1784073600,
         "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Sr-Application-Engineer_R55578",
