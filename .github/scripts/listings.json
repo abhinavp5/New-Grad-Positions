@@ -37,135 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Fermilab",
-        "id": "fe378e10-306c-4e88-b331-ddee2b81add2",
-        "title": "Compact Muon Solenoid Postdoctoral Research Associate",
-        "active": false,
-        "date_updated": 1765271288,
-        "date_posted": 1765271288,
-        "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/CMS-Postdoc--2026-number-1-of-2-_R_009151",
-        "locations": [
-            "Batavia, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Fermilab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Deutsche Bank",
-        "id": "6f6db197-c4a0-4105-af58-973c3e5c434e",
-        "title": "Corporate Bank Technology - Payments Initiation - Java Engineer",
-        "active": false,
-        "date_updated": 1765273656,
-        "date_posted": 1765273656,
-        "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Cary-3000-CentreGreen-Way/Corporate-Bank-Technology---Payments-Initiation---Java-Engineer---Associate_R0414615-3",
-        "locations": [
-            "Morrisville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Deutsche-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cadence Design Systems",
-        "id": "fb26dd40-8917-45b8-b4b8-7d1f3398c046",
-        "title": "Software Development Engineer",
-        "active": false,
-        "date_updated": 1765275811,
-        "date_posted": 1765275811,
-        "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/Burlington-MA/Software-Development-Engineer--SDA--New-College-Grad-2026-_R52042",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "QBE Insurance",
-        "id": "acb7fcc3-5228-4b54-9433-49cc2bfd8b8c",
-        "title": "Software Engineering Associate",
-        "active": false,
-        "date_updated": 1765275415,
-        "date_posted": 1765275415,
-        "url": "https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/PHL---ThreeNEO/Software-Engineering-Associate_347265",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/QBE-Insurance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Freeform",
-        "id": "b9b45c23-1024-4631-b390-9c8aeb92814f",
-        "title": "Software Engineer \u2013 New Grad Summer 2026",
-        "active": false,
-        "date_updated": 1765277006,
-        "date_posted": 1765277006,
-        "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7551045003",
-        "locations": [
-            "West Athens, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/FreeformFuture",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Horizon media",
-        "id": "58bee9c2-16b8-405f-b808-99db75ea28df",
-        "title": "Associate Data Science",
-        "active": false,
-        "date_updated": 1765276720,
-        "date_posted": 1765276720,
-        "url": "https://horizonmedia.wd1.myworkdayjobs.com/en-US/CareerOpportunities/job/New-York-New-York/Associate--Data-Science_R0016354",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/783568f2-87b3-4222-8741-7766d21bf8a7",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Equifax",
-        "id": "a4539cbf-3643-4984-86d7-d40d6e1a8089",
-        "title": "Product Support Engineer - Google Cloud Platform",
-        "active": false,
-        "date_updated": 1765276365,
-        "date_posted": 1765276365,
-        "url": "https://equifax.wd5.myworkdayjobs.com/external/job/CAN---Ontario---Toronto/Product-Support-Engineer---Google-Cloud-Platform_J00173249",
-        "locations": [
-            "Montreal, QC, Canada",
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Equifax",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Huntington Bancshares",
         "id": "fdeb52b4-9dac-49b8-bac3-5da0cc772f2a",
@@ -286,24 +157,6 @@
             "Hopkins, MN"
         ],
         "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "KBR",
-        "id": "e63dd4dc-f092-424b-99fd-07d3dd04e33a",
-        "title": "Associate Tool & Gage Technician",
-        "active": false,
-        "date_updated": 1765279758,
-        "date_posted": 1765279758,
-        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Phoenix-Arizona/Associate-Tool---Gage-Technician_R2116271",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/KBR",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -21070,24 +20923,6 @@
             "San Antonio, TX"
         ],
         "company_url": "https://simplify.jobs/c/NCR-Atleos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Loft",
-        "id": "6db76919-8a6e-4e69-b533-376cafce6a0c",
-        "title": "Analyst \u2013 Customer Insights",
-        "active": false,
-        "date_updated": 1765462273,
-        "date_posted": 1765273534,
-        "url": "https://knitwellgroup.wd1.myworkdayjobs.com/US_Corporate_Jobs/job/Times-Square-Tower-ANN-New-York-NY-10036/Analyst--Customer-Insights_R-2019782",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Loft",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -137463,7 +137298,7 @@
         "company_name": "University of Arkansas",
         "id": "d004a30f-6408-4997-bf70-b4e49e9e1520",
         "title": "Cosmos Extra Help Assistant 2",
-        "active": true,
+        "active": false,
         "date_updated": 1773786842,
         "date_posted": 1773786842,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Extra-Help-Assistant-II_R0082222",
@@ -141009,7 +140844,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -141029,7 +140864,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -232284,7 +232119,7 @@
         "company_name": "Armstrong World Industries",
         "id": "ed19f872-2df2-4edd-bc93-b25c9b47b76c",
         "title": "Manufacturing Solutions Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1779829562,
         "date_posted": 1777500502,
         "url": "https://jobs.armstrong.com/job/Salt-Lake-City-Manufacturing-Solutions-Specialist-Job-Utah/1386739100/?ats=successfactors",
@@ -243993,7 +243828,7 @@
         "company_name": "Brink",
         "id": "a999a49c-402d-44ce-b35b-d60c89144761",
         "title": "ATM Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1780274470,
         "date_posted": 1780131751,
         "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Baton-Rouge-LA/ATM-Technician_R72782",
@@ -293197,7 +293032,7 @@
         "company_name": "Visa",
         "id": "3bd0ee22-015a-46b2-bd09-a7d1297b6963",
         "title": "Software Engineer / Site Reliability Engineer - Linux",
-        "active": false,
+        "active": true,
         "date_updated": 1783041317,
         "date_posted": 1783041100,
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Basingstoke-United-Kingdom/Software-Engineer_REF076350W",
@@ -299137,7 +298972,7 @@
         "company_name": "Hilbert",
         "id": "786414d8-5fda-439b-81fc-9534536d2589",
         "title": "Mathematician - Foundation Team",
-        "active": false,
+        "active": true,
         "date_updated": 1783473121,
         "date_posted": 1783472997,
         "url": "https://jobs.ashbyhq.com/hilberts/adbe0102-fa3e-484f-98c8-bf02dd478945/application",
@@ -308793,7 +308628,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -310341,7 +310176,7 @@
         "company_name": "Kantar",
         "id": "565ebd9c-eba4-4093-a5c3-0465aa0ae021",
         "title": "Product Manager Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1784078433,
         "date_posted": 1783987200,
         "url": "https://kantar.wd3.myworkdayjobs.com/kantar/job/New-York-World-Trade-Center/Associate-Product-Manager_R101614",
@@ -327320,7 +327155,7 @@
         "company_name": "Quantum",
         "id": "e5892aa7-3c5f-4ce8-81b1-9c90e2a80f59",
         "title": "Graduate Commercial Insights Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1784712079,
         "date_posted": 1784711755,
         "url": "https://jobs.ashbyhq.com/quantum/24e8d551-3081-4356-a2ce-13235537e88d/application?embed=true",
@@ -331105,7 +330940,7 @@
         "company_name": "Intel",
         "id": "a2e0c276-1954-40a3-968b-6f2a7ce70e0f",
         "title": "Product Development Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784808412,
         "date_posted": 1781949573,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Product-Development-Engineer_JR0284027-1",
@@ -349269,7 +349104,7 @@
         "company_name": "Avoca AI",
         "id": "ab74e0cc-190b-478a-989a-8a787c93a3d3",
         "title": "Staff Software Engineer - Product",
-        "active": true,
+        "active": false,
         "date_updated": 1785598741,
         "date_posted": 1782482875,
         "url": "https://jobs.ashbyhq.com/avoca/4623d891-0c58-45e6-b20a-6d16cf5606ec/application?embed=true",
@@ -350182,7 +350017,7 @@
         "company_name": "Cruise Planners",
         "id": "8e39caee-5981-4592-85be-242f01506e38",
         "title": "Data & AI Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1785619455,
         "date_posted": 1785191052,
         "url": "https://ats.rippling.com/cruiseplanners/jobs/e6ae477d-6a3c-45aa-ade1-21414fe119f9",
@@ -352938,7 +352773,7 @@
         "company_name": "Ludlum Measurement, Inc (VPI Technology, ADIT, Eljen, WTM, Protean Instr)",
         "id": "74cd9509-accc-467b-8bda-e05f70b0b588",
         "title": "Calibrator",
-        "active": false,
+        "active": true,
         "date_updated": 1785738601,
         "date_posted": 1785737786,
         "url": "https://vpitechnology.applytojob.com/apply/h864JPWnOQ/Calibrator",
@@ -355106,7 +354941,7 @@
         "company_name": "Flex",
         "id": "848e3b57-00ff-482b-8861-3277b38d7a16",
         "title": "Panel Wire Prep",
-        "active": false,
+        "active": true,
         "date_updated": 1785762167,
         "date_posted": 1785456000,
         "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-CA-Fontana/Panel-Wire-Prep_WD226621-2",
@@ -360043,7 +359878,7 @@
         "company_name": "Leidos",
         "id": "282184ef-e3f4-409a-acca-effa7c167079",
         "title": "Geospatial Linguist - Korean Toponymist",
-        "active": true,
+        "active": false,
         "date_updated": 1785921380,
         "date_posted": 1782956493,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Korean-Toponymist---TS-SCI-Required_R-00185905-1",
@@ -360176,7 +360011,7 @@
         "company_name": "National Water Services",
         "id": "6454e048-65b8-4604-91ff-93abbdf12ae0",
         "title": "Field Technician - Quick Side Hustle",
-        "active": true,
+        "active": false,
         "date_updated": 1785923434,
         "date_posted": 1784596629,
         "url": "https://ats.rippling.com/nws/jobs/965be1de-09f6-4ddd-a826-e08e31537862",
@@ -360273,7 +360108,7 @@
         "company_name": "Dyson",
         "id": "592c0e7e-bacc-425b-97fc-cb52442a2cc8",
         "title": "Sales and Service Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1785924683,
         "date_posted": 1781341055,
         "url": "https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/United-States---King-of-Prussia-Service-Center/Sales-and-Service-Technician_JR36820",
@@ -361544,7 +361379,7 @@
         "company_name": "Cardamom Health",
         "id": "bd4c053d-d33c-4640-9df6-f7d7eeda0c1a",
         "title": "Epic Analyst - Entry-Level",
-        "active": true,
+        "active": false,
         "date_updated": 1785969549,
         "date_posted": 1785968285,
         "url": "https://ats.rippling.com/cardamom/jobs/88a6a9c8-c775-4ea4-bb4c-667d4a535359",
@@ -361759,7 +361594,7 @@
         "company_name": "RTX",
         "id": "b6432861-452d-4557-8e45-cb460d615629",
         "title": "Software Safety Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785969018,
         "date_posted": 1785888000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Safety-Engineer_01863205-1",
@@ -362624,5 +362459,145 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "83f74b03-7867-438c-a96c-7e8670b1ddae",
+        "title": "Data Center Technician - DCC Communities",
+        "active": true,
+        "date_updated": 1786007701,
+        "date_posted": 1786007522,
+        "url": "https://amazon.jobs/en/jobs/10485823/data-center-technician-dcc-communities",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Talan",
+        "id": "2e27f110-f834-46ae-86da-ce17d2c202d2",
+        "title": "Economic and Data Analyst",
+        "active": true,
+        "date_updated": 1786007341,
+        "date_posted": 1786007230,
+        "url": "https://jobs.smartrecruiters.com/Talan/744000141860370",
+        "locations": [
+            "London, UK",
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Talan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Barclays",
+        "id": "8a717ae4-e44a-4ade-ae84-abbc3d27e232",
+        "title": "AI Engineer - Private Bank and Wealth Management",
+        "active": true,
+        "date_updated": 1786009681,
+        "date_posted": 1785974400,
+        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/AI-Engineer_JR-0000113698-1",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Barclays",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cohere",
+        "id": "84c60471-c6d0-43de-9f00-63407856c63e",
+        "title": "Data Annotation Specialist - Simplified Chinese / Mandarin",
+        "active": true,
+        "date_updated": 1786009681,
+        "date_posted": 1772579859,
+        "url": "https://jobs.ashbyhq.com/cohere/34533921-d731-4529-89e7-cf4939055a20/application?embed=true",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Toronto, ON, Canada",
+            "Calgary, AB, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Cohere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "61b9c823-c168-4748-9d94-8ae5a407a3da",
+        "title": "AI Native Software Engineer",
+        "active": true,
+        "date_updated": 1786010822,
+        "date_posted": 1784160000,
+        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/AI-Native-Software-Engineering_R00343768-1",
+        "locations": [
+            "London, UK",
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "d99e79b4-f18b-4a9e-b735-a92318ea73e9",
+        "title": "Tech Lead Software Engineer - AI & Agent - TikTok Ecosystem & Platform",
+        "active": true,
+        "date_updated": 1786012741,
+        "date_posted": 1781503888,
+        "url": "https://lifeattiktok.com/search/7647672631889873205",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Emerald AI",
+        "id": "c8f7dd03-3fba-4f1d-850e-76adc3a00557",
+        "title": "Distributed Systems Engineer - Backend/Distributed Systems",
+        "active": true,
+        "date_updated": 1786012236,
+        "date_posted": 1781168790,
+        "url": "https://jobs.ashbyhq.com/emerald-ai/ca65afd7-4b42-45ac-9e17-ea88f07240af/application?embed=true",
+        "locations": [
+            "Boston, MA",
+            "Washington, DC",
+            "SF",
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Emerald-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
