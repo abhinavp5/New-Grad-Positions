@@ -57,42 +57,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "17fdf2bc-9646-4c21-8ff9-937c38ab536d",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1765642372,
-        "date_posted": 1765642372,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043151",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "blend360",
-        "id": "bda3c7a5-122a-4370-b324-b42acce48864",
-        "title": "Junior Data Scientist",
-        "active": false,
-        "date_updated": 1765642015,
-        "date_posted": 1765642015,
-        "url": "https://jobs.smartrecruiters.com/Blend360/744000098779875",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/ca86fdf5-6866-42d6-ab98-efbef6cf7861",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "cc472a6b-34f0-4cd5-b992-1f41dc7b19a6",
         "title": "Trading Assistant",
         "active": false,
@@ -11784,24 +11748,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Freudenberg Group",
-        "id": "4531b2b3-7525-4f2b-93fd-7f98054ea9b4",
-        "title": "Test Lab Technician",
-        "active": false,
-        "date_updated": 1765644660,
-        "date_posted": 1765644660,
-        "url": "https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Northfield-NH/Test-Lab-Technician_R_00092592-1",
-        "locations": [
-            "Concord, NH"
-        ],
-        "company_url": "https://simplify.jobs/c/Freudenberg-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Pfizer",
         "id": "e4dd0561-d460-4d68-b553-8ef1ab1305e8",
@@ -11835,26 +11781,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "PennState University",
-        "id": "45a31df6-b9dd-4a07-bd12-0ea40d5ad34c",
-        "title": "Electrical / Computer Engineering Research & Development Engineer",
-        "active": false,
-        "date_updated": 1765642299,
-        "date_posted": 1765642299,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Electrical---Computer-Engineering--Research---Development-Engineer_REQ_0000072093-2",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -252697,7 +252623,7 @@
         "company_name": "MiTek",
         "id": "5c0366e3-a45c-4800-a602-ce3f215f68e3",
         "title": "Supply Chain Data Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781130285,
         "date_posted": 1781129259,
         "url": "https://mii.wd5.myworkdayjobs.com/MiTek/job/StCharles-MO-USA/Supply-Chain-Data-Analyst-I_R06378",
@@ -299763,7 +299689,7 @@
         "company_name": "Airtable",
         "id": "d749acf3-cb33-4d12-9e83-8a25445497c3",
         "title": "Demo Engineer - Pre-Sales Solutions Consulting",
-        "active": true,
+        "active": false,
         "date_updated": 1783983422,
         "date_posted": 1780093318,
         "url": "https://job-boards.greenhouse.io/airtable/jobs/8423374002",
@@ -306745,7 +306671,7 @@
         "company_name": "Flutter",
         "id": "3ef1001a-8493-47b7-a825-60788905f60e",
         "title": "Associate Trading Operations Executive - Exchange",
-        "active": true,
+        "active": false,
         "date_updated": 1784297346,
         "date_posted": 1784246400,
         "url": "https://flutterbe.wd3.myworkdayjobs.com/FlutterUKI_External/job/Dublin-Ireland/Associate-Trading-Operations-Executive---Exchange_JR139760-1",
@@ -354715,7 +354641,7 @@
         "company_name": "RTX",
         "id": "ee07e080-9a86-42c4-ba6c-ccfde60a22ac",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786027110,
         "date_posted": 1785974400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Program-Protection-Software-Engineer-I--Onsite-_01864768",
@@ -355065,7 +354991,7 @@
         "company_name": "L3Harris Technologies",
         "id": "963773db-5832-45f9-a6d4-23d5cfe8c0fb",
         "title": "Test Engineering Associate - Integration and Test Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786054976,
         "date_posted": 1786053899,
         "url": "https://jobs.l3harris.com/job/Fort-Wayne-Sr_-Associate,-Integration-and-Test-Engineering-(Fort-Wayne,-IN)-IN-46818/1416712300/?ats=successfactors",
@@ -358053,7 +357979,7 @@
         "company_name": "Booz Allen",
         "id": "fb32d8c1-90d9-4e21-85fa-e0b10b5d15a5",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786142536,
         "date_posted": 1786060800,
         "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246665",
