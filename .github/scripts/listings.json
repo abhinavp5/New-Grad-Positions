@@ -11567,24 +11567,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "NBCUniversal",
-        "id": "2c7914b0-309a-4cf2-87e5-545923ec3781",
-        "title": "Associate Engineer - Ride & Show Engineering - AVP','UK Project",
-        "active": false,
-        "date_updated": 1765795840,
-        "date_posted": 1765795840,
-        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000094177066",
-        "locations": [
-            "Bedford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/NBCUniversal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "The Boeing Company",
         "id": "3616f8b2-17da-4478-b31d-35503346b871",
         "title": "Systems Engineer",
@@ -308777,7 +308759,7 @@
         "company_name": "EquipmentShare",
         "id": "a7443f83-839a-450e-9e64-6b80b7aae12a",
         "title": "Telematics Installer",
-        "active": true,
+        "active": false,
         "date_updated": 1784587864,
         "date_posted": 1784586841,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8072035",
@@ -354531,7 +354513,7 @@
         "company_name": "L3Harris Technologies",
         "id": "7a9a8488-ebdf-443f-be57-b5d15352b5ab",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786054284,
         "date_posted": 1786053911,
         "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineer-UT-84116/1416808900/?ats=successfactors",
@@ -355416,7 +355398,7 @@
         "company_name": "Charles Schwab",
         "id": "be69266d-de7c-4e87-a808-b1fe8fbb5cf7",
         "title": "Mutual Funds Trading Operations Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1786065287,
         "date_posted": 1786065096,
         "url": "https://career-schwab.icims.com/jobs/124846/job?mobile=true&needsRedirect=false",
@@ -364918,5 +364900,45 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Abbott",
+        "id": "656014ab-4409-4e99-a202-5cf3956fd828",
+        "title": "Associate Software Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1786532221,
+        "date_posted": 1786060800,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Irving/Associate-Software-Engineer_31158107-1",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lilt",
+        "id": "454f3e0f-d45d-4812-8e2b-341136a7977f",
+        "title": "AI Training Contributor - French",
+        "active": true,
+        "date_updated": 1786533841,
+        "date_posted": 1783328911,
+        "url": "https://jobs.ashbyhq.com/lilt-production/1819d958-1eb4-4f5c-b5f2-eba8c1a9da55/application?embed=true",
+        "locations": [
+            "Remote in Canada",
+            "Qu\u00e9bec City, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Lilt",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
