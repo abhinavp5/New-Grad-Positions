@@ -127714,7 +127714,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -127734,7 +127734,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -274587,7 +274587,7 @@
         "company_name": "Palo Alto Networks",
         "id": "d02026d4-2f71-4409-b31d-8f9903fd4492",
         "title": "Staff Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782944642,
         "date_posted": 1782943822,
         "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Staff-Software-Engineer_JR-013408",
@@ -284735,7 +284735,7 @@
         "company_name": "May Mobility",
         "id": "aa6d79af-df63-4d05-aa2e-58da9758728d",
         "title": "Senior Autonomy Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783463041,
         "date_posted": 1782944226,
         "url": "https://job-boards.greenhouse.io/maymobility/jobs/8611992002",
@@ -303787,7 +303787,7 @@
         "company_name": "Halliburton",
         "id": "336657f4-8f7f-47c5-a96f-73135c82762f",
         "title": "Logging Geologist-Surface Data Logging - II",
-        "active": true,
+        "active": false,
         "date_updated": 1784557925,
         "date_posted": 1784556661,
         "url": "https://jobs.halliburton.com/job/Aberdeen-Aberdeen-Logging-Geologist-SDL,-II-ABE-AB21-0GN/1410445400/?ats=successfactors",
@@ -349306,7 +349306,7 @@
         "company_name": "GE Vernova",
         "id": "a0f06fc3-af94-489d-a5e7-ccd8016556d3",
         "title": "Electronics Assembler 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786022154,
         "date_posted": 1784246400,
         "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rostraver/Electronics-Assembler-1_R5047282-3",
@@ -359292,7 +359292,7 @@
         "company_name": "Qualcomm",
         "id": "cdd3e444-64a2-4501-8ca6-b90db2dd9ccb",
         "title": "Silicon Lab Support Technician - Support Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786487222,
         "date_posted": 1786486978,
         "url": "https://qualcomm.eightfold.ai/careers/job/446720371742",
@@ -366907,7 +366907,7 @@
         "company_name": "Channel Partners",
         "id": "f0c55b8e-0fe4-4504-a747-d948c8a06bfd",
         "title": "Dedicated Meta Technician Expert",
-        "active": true,
+        "active": false,
         "date_updated": 1786681801,
         "date_posted": 1786680632,
         "url": "https://careers-channelpartners.icims.com/jobs/49549/job?mobile=true&needsRedirect=false",
@@ -367227,7 +367227,7 @@
         "company_name": "Invenergy",
         "id": "5603bb21-2506-46bb-90cf-2cc47b3c471e",
         "title": "Analyst \u2013 Applied AI",
-        "active": true,
+        "active": false,
         "date_updated": 1786686301,
         "date_posted": 1786665600,
         "url": "https://invenergyllc.wd1.myworkdayjobs.com/en-US/invenergycareers/job/Chicago-IL/Analyst--Applied-AI_R11094-1",
@@ -369591,5 +369591,65 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "e7bf8164-6dba-40c2-bfc3-38f601c320fc",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1786757150,
+        "date_posted": 1786665600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01867125",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "29edc090-b552-4025-b423-23528dab82bb",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1786757149,
+        "date_posted": 1786665600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01866775",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "0438421d-e6a6-445d-8186-059bcb69347d",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1786757156,
+        "date_posted": 1786665600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineer-I--Onsite-_01867438",
+        "locations": [
+            "Fullerton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
