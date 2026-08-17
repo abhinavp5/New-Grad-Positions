@@ -124585,7 +124585,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -124605,7 +124605,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -304756,7 +304756,7 @@
         "company_name": "RTX",
         "id": "c6409814-af4d-437d-a442-515001dd0af8",
         "title": "Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784612701,
         "date_posted": 1783167197,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-BUCKLEY-SFB-CUST--18500-E-6th-Ave--BUCKLEY-SFB-External-Site/Intelligence-Analyst_01838558",
@@ -355725,7 +355725,7 @@
         "company_name": "Draper",
         "id": "1994f987-3341-46ce-b5ea-7bebc8cc27e5",
         "title": "Digital ASIC Implementation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786487401,
         "date_posted": 1786406400,
         "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Digital-ASIC-Implementation-Engineer_JR001645-1",
@@ -355888,7 +355888,7 @@
         "company_name": "Loblaw Companies",
         "id": "ac800644-9bfe-4199-a02b-e42fa2e1d163",
         "title": "Data Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786487637,
         "date_posted": 1786406400,
         "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Data-Engineer-I_R2000691512",
@@ -360982,7 +360982,7 @@
         "company_name": "Quantum",
         "id": "cb243aa3-0969-4c76-a554-9495b06509f9",
         "title": "Graduate Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786659481,
         "date_posted": 1786659472,
         "url": "https://jobs.ashbyhq.com/quantum/4e81ce91-ecf2-4be2-8aba-bf3e80d1f8b6/application?embed=true",
@@ -367020,5 +367020,145 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "61daacb8-5db1-4ec7-8473-706c85ee08f5",
+        "title": "Data Scientist Graduate - E-Commerce Governance",
+        "active": true,
+        "date_updated": 1786973042,
+        "date_posted": 1786972911,
+        "url": "https://lifeattiktok.com/search/7674027218993154357",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "a4647510-ce85-43c7-af8c-50d890fbd299",
+        "title": "Machine Learning Engineer Graduate - E-Commerce Governance",
+        "active": true,
+        "date_updated": 1786973042,
+        "date_posted": 1786972915,
+        "url": "https://lifeattiktok.com/search/7674025781001062709",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "4d762004-fbe7-46b2-bdcf-3c4e02d54b87",
+        "title": "Machine Learning Engineer Graduate - E-Commerce Governance",
+        "active": true,
+        "date_updated": 1786973042,
+        "date_posted": 1786972919,
+        "url": "https://lifeattiktok.com/search/7674023327725373701",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ASSYST",
+        "id": "a8e9e244-d0b5-4ee1-a683-4b3d2d6ee8f6",
+        "title": "Junior .NET Developer",
+        "active": true,
+        "date_updated": 1786972861,
+        "date_posted": 1786972846,
+        "url": "https://job-boards.greenhouse.io/assystinc/jobs/4371586009",
+        "locations": [
+            "Sterling, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/ASSYST",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "4a623f52-ac3e-4809-bbff-79d93ef3ec63",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1786972742,
+        "date_posted": 1786972666,
+        "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-(Herndon,-VA)-VA-20171/1419939200/?ats=successfactors",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Dynamics Information Technology",
+        "id": "333d668e-a703-465a-adfe-71773ba80e9b",
+        "title": "Data Quality Monitoring Engineer",
+        "active": true,
+        "date_updated": 1786974841,
+        "date_posted": 1786924800,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NE-Offutt-AFB/Data-Quality-Monitoring-Engineer_RQ226071-2",
+        "locations": [
+            "Offutt AFB, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Bosch Home Comfort",
+        "id": "bce15e51-43fd-48b2-b19d-13cf407e97f0",
+        "title": "Graduate Product Owner",
+        "active": true,
+        "date_updated": 1786974482,
+        "date_posted": 1786974479,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143746494",
+        "locations": [
+            "Worcester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch-Home-Comfort",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
