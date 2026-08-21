@@ -55,168 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lennar Corporation",
-        "id": "66c1d2cd-e866-4009-a4be-702a64b8c839",
-        "title": "Systems Analyst 1",
-        "active": false,
-        "date_updated": 1766533366,
-        "date_posted": 1766533366,
-        "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Irving-TX-Job-Posting-Location/Systems-Analyst-I_R25_0000005022",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Lennar-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "2c479fae-e944-43d3-ae6b-308094d0016c",
-        "title": "Engineer 1 - Digital Design",
-        "active": false,
-        "date_updated": 1766533558,
-        "date_posted": 1766533558,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/NY---Hauppauge/Engineer-I---Digital-Design_R2503-25",
-        "locations": [
-            "Long Island, New York"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cox",
-        "id": "b8e628e9-ab02-4860-9fed-01f07705a157",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1766717265,
-        "date_posted": 1766536019,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Software-Engineer-I_R202570999-1",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sanofi",
-        "id": "44c0d88a-a869-4f5a-b9fd-bdf00844acf8",
-        "title": "Data and AI Workflow Engineer Catalyst",
-        "active": false,
-        "date_updated": 1766535895,
-        "date_posted": 1766535895,
-        "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Data-and-AI-Workflow-Engineer-Catalyst_R2837100",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Sanofi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Chicago",
-        "id": "4c95a867-5cff-4f0e-a099-04dd3e70d050",
-        "title": "Predoctoral Scholar",
-        "active": false,
-        "date_updated": 1766532773,
-        "date_posted": 1766532773,
-        "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Illinois-Chicago/Predoctoral-Scholar_JR32397",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Chicago",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Jabil",
-        "id": "b578804f-3e69-4436-9572-a5cc65683f22",
-        "title": "Diagnostic Technician 1",
-        "active": false,
-        "date_updated": 1766534190,
-        "date_posted": 1766534190,
-        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-I_J2435007",
-        "locations": [
-            "Florence, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/Jabil",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": " RGA Reinsurance Company",
-        "id": "954ba42e-dd67-4580-8063-a1da742021be",
-        "title": "Associate Systems Developer",
-        "active": false,
-        "date_updated": 1766532759,
-        "date_posted": 1766532759,
-        "url": "https://rgare.wd1.myworkdayjobs.com/en-US/Careers/job/United-States-Chesterfield-MO-RGA-HQ/Associate-Systems-Developer_J26065-1",
-        "locations": [
-            "Chesterfield, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/RGA-Reinsurance-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Analog Devices",
-        "id": "87e2c862-5e11-48b8-8b37-f224f4b8fdc7",
-        "title": "Associate Machine Learning Operations Engineer - MLOps - Engineer",
-        "active": false,
-        "date_updated": 1766533402,
-        "date_posted": 1766533402,
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Machine-Learning-Operations--MLOps--Engineer_R258871",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Analog-Devices",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Huron",
-        "id": "bba49d0a-aa99-49ce-aac7-98bdd4457efa",
-        "title": "Data Scientist - Associate",
-        "active": false,
-        "date_updated": 1766536041,
-        "date_posted": 1766536041,
-        "url": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Data-Scientist--Associate-_JR-0013624",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Huron",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "45d0add2-4ef4-4804-8e29-d075b97005cb",
@@ -472,24 +310,6 @@
             "Manchester, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lennar Corporation",
-        "id": "e902b464-c6c5-42dc-99a1-75ff916e5671",
-        "title": "Systems Analyst 1",
-        "active": false,
-        "date_updated": 1766533364,
-        "date_posted": 1766533364,
-        "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Irving-TX-Job-Posting-Location/Systems-Analyst-I_R25_0000005020",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Lennar-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -3179,24 +2999,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/519b47ce-ff84-4832-85b9-25e0fb0988bb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "DH Pace",
-        "id": "99d53d43-092a-42f4-8514-ea338b0c78f8",
-        "title": "Residential Garage Door Service Technician",
-        "active": false,
-        "date_updated": 1767030813,
-        "date_posted": 1766535131,
-        "url": "https://job-boards.greenhouse.io/dhpace/jobs/5046086008",
-        "locations": [
-            "Olathe, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/DH-Pace",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -312566,7 +312368,7 @@
         "company_name": "Ameriprise Financial",
         "id": "f768db22-fdd3-4678-84ea-0ffacf840cf7",
         "title": "Assistant Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1784813221,
         "date_posted": 1784764800,
         "url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/London-United-Kingdom/Assistant-Product-Manager_R26_2812-1",
@@ -352974,7 +352776,7 @@
         "company_name": "Guidehouse",
         "id": "42d4b4a9-d01b-40b0-b1fe-c41b20c9e034",
         "title": "Data Engineer 1 - Data Science & Analysis",
-        "active": true,
+        "active": false,
         "date_updated": 1786486205,
         "date_posted": 1786406400,
         "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Data-Engineer_43115",
@@ -369968,7 +369770,7 @@
         "company_name": "Zimmer Biomet Holdings",
         "id": "0ba0bbb6-cd1c-45fc-88c1-82c26a9333b1",
         "title": "Product Associate Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1787094220,
         "date_posted": 1787093995,
         "url": "https://careers.zimmerbiomet.com/us/en/job/12055",
@@ -371777,7 +371579,7 @@
         "company_name": "Centene",
         "id": "6ca9570d-0985-4c61-86f8-3b50dcf74438",
         "title": "Business Solutions Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787178094,
         "date_posted": 1787097600,
         "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Business-Solutions-Developer-I_1652686-1",
@@ -372064,7 +371866,7 @@
         "company_name": "NRG Energy",
         "id": "2af3ba79-14af-4850-8c1e-0d20dff0736a",
         "title": "Data Science Analyst - Agentic AI Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1787177701,
         "date_posted": 1787177622,
         "url": "https://careers.nrgenergy.com/nrg/job/Houston-Data-Science-Analyst-Agentic-AI-Developer-TX-77010/1421186800/?ats=successfactors",
