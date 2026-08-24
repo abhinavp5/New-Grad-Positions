@@ -335380,7 +335380,7 @@
         "company_name": "Hastings Direct",
         "id": "f1b81465-8659-4aa0-97ff-fd1ceb1e11a6",
         "title": "Pricing Analyst - Data & Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1785767544,
         "date_posted": 1785715200,
         "url": "https://hastingsdirect.wd3.myworkdayjobs.com/external_careers/job/Bexhill/Pricing--Data---Analytics-Cohort_60013849-1",
@@ -376154,6 +376154,27 @@
             "Raleigh, NC"
         ],
         "company_url": "https://simplify.jobs/c/Celonis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Crowdstrike",
+        "id": "b798780f-4009-488b-ab0c-948146a7a0ca",
+        "title": "Software Engineer - Sensor - SAO",
+        "active": true,
+        "date_updated": 1787577686,
+        "date_posted": 1787529600,
+        "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer---Sensor--SaO--Hybrid-_R29874",
+        "locations": [
+            "Redmond, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Crowdstrike",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
