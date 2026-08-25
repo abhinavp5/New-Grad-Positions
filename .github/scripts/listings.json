@@ -258552,7 +258552,7 @@
         "company_name": "UBS",
         "id": "0f790154-b110-4193-a208-d4dbbc2dad5c",
         "title": "Quantitative Analyst - Scenarios and Scenario Models",
-        "active": true,
+        "active": false,
         "date_updated": 1782292237,
         "date_posted": 1781947197,
         "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=341057",
@@ -375308,7 +375308,7 @@
         "company_name": "Fidelity Investments",
         "id": "b989c0d7-19f2-4acd-8837-402a4c9fbfe0",
         "title": "Software Engineer - Leap",
-        "active": false,
+        "active": true,
         "date_updated": 1787350577,
         "date_posted": 1787270400,
         "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/October-2027---Leap-Software-Engineer_2133884",
@@ -377145,7 +377145,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "005c5b2b-b40d-4aff-85fe-adf577024103",
         "title": "Machine Learning Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1787603770,
         "date_posted": 1787529600,
         "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MONTRAL-Quebec-Canada/Machine-Learning-Software-Engineer----New-Grad-_R-0000181820",
@@ -379120,6 +379120,65 @@
             "Basildon, UK"
         ],
         "company_url": "https://simplify.jobs/c/SSC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hyve Solutions",
+        "id": "ca4209a1-54bd-41cb-8ff4-e7fcfb7ed1fe",
+        "title": "Test Operator",
+        "active": true,
+        "date_updated": 1787669821,
+        "date_posted": 1787616000,
+        "url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Olive-Branch-MS/Test-Operator_R55367",
+        "locations": [
+            "Olive Branch, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Hyve-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fidelity Investments",
+        "id": "501a5d9d-54bb-4a8b-a3a5-2c6efd18d963",
+        "title": "Software Engineer New Grad - LEAP",
+        "active": true,
+        "date_updated": 1787671116,
+        "date_posted": 1787616000,
+        "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/XMLNAME-2026-Undergraduate---LEAP--Software-Engineer_2134380",
+        "locations": [
+            "Westlake, TX",
+            "Merrimack, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fidelity-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Berkshire Hathaway Energy",
+        "id": "e92b0e3e-7e34-419c-b4be-9f1ec384451b",
+        "title": "Business Systems Analyst",
+        "active": true,
+        "date_updated": 1787670954,
+        "date_posted": 1787670791,
+        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005685",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
