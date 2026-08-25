@@ -55,114 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "fee6721e-0a24-4e1f-9d1f-5e7f86a8c3fd",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1766938351,
-        "date_posted": 1766938351,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044033",
-        "locations": [
-            "Portadown, Craigavon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "b0ddfc20-64de-4e04-ae85-6e68afa9508e",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1766938349,
-        "date_posted": 1766938349,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044040",
-        "locations": [
-            "Thurrock, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "98bf442c-0b59-4ea2-92b7-a588c3ec2121",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1766938349,
-        "date_posted": 1766938349,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044039",
-        "locations": [
-            "Thurrock, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "3d8fa09a-10b8-4a10-a524-128e73b5db26",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1766938345,
-        "date_posted": 1766938345,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044048",
-        "locations": [
-            "Durham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "34eb89c2-8e60-4927-8964-6dc2b6c2a3fa",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1766938350,
-        "date_posted": 1766938350,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044038",
-        "locations": [
-            "Thurrock, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d6182b9b-1cae-4736-928c-b1a7dc7d5c0d",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1766939036,
-        "date_posted": 1766939036,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044037",
-        "locations": [
-            "Thurrock, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Sainsbury's",
         "id": "3c76577c-d783-412b-b8da-88f031b793be",
@@ -316196,7 +316088,7 @@
         "company_name": "Vanguard",
         "id": "75aa7777-17b6-4d18-aee4-1c1eec8392e7",
         "title": "Entry Level Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784942101,
         "date_posted": 1784851200,
         "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Charlotte-NC/Entry-Level-Application-Engineer----2026-Start-Date_171145-1",
@@ -337678,7 +337570,7 @@
         "company_name": "Visa",
         "id": "e7be092f-49c3-429c-a396-1bdbff4a3e79",
         "title": "Software Engineer - Corporate GenAI",
-        "active": true,
+        "active": false,
         "date_updated": 1785843541,
         "date_posted": 1784764800,
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/Software-Engineer---Corporate-GenAI_REF085070W",
@@ -342988,7 +342880,7 @@
         "company_name": "Atoms",
         "id": "5b58ae21-c56b-47a7-92cd-cfae937732a1",
         "title": "Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1786055071,
         "date_posted": 1786054249,
         "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687930002",
@@ -356555,7 +356447,7 @@
         "company_name": "United Smart Tech",
         "id": "05af1047-7680-4628-b07a-4f46fee4e9d7",
         "title": "Field Technician - Mobile Repairs",
-        "active": true,
+        "active": false,
         "date_updated": 1786602244,
         "date_posted": 1786602059,
         "url": "https://unitedsmarttech.bamboohr.com/careers/156/",
@@ -377907,7 +377799,7 @@
         "company_name": "Intellisense Systems",
         "id": "b970996f-8877-40d2-878d-563423e5ae83",
         "title": "Electronics Assembler 1 - Operations Department",
-        "active": true,
+        "active": false,
         "date_updated": 1787612816,
         "date_posted": 1787353331,
         "url": "http://intellisensesystemsinc.applytojob.com/apply/DfFqNQOHuL/Electronics-Assembler-I",
@@ -379217,6 +379109,141 @@
             "Midlothian, UK"
         ],
         "company_url": "https://simplify.jobs/c/The-University-Of-Edinburgh",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NRG Energy",
+        "id": "b9ed49c3-5548-4ba6-8bb2-6990a3fc4f9f",
+        "title": "Field Service Professional",
+        "active": true,
+        "date_updated": 1787674141,
+        "date_posted": 1787673982,
+        "url": "https://careers.nrgenergy.com/SMARTHOMES/job/Baltimore-Field-Service-Professional-Baltimore,-MD-MD-21215/1423043600/?ats=successfactors",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/NRG-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Foundation Health",
+        "id": "21a87bd3-3069-4bbe-9641-a5c2f04cdadb",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1787673601,
+        "date_posted": 1787673524,
+        "url": "https://jobs.ashbyhq.com/foundationhealthcareers/e5a46260-f26d-4c62-a641-defcc04db137/application?embed=true",
+        "locations": [
+            "Orlando, FL",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Foundation-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Publicis Groupe",
+        "id": "40b8e5c6-6160-4419-83e5-a0c6ba958867",
+        "title": "Senior Associate Copilot Studio Developer",
+        "active": true,
+        "date_updated": 1787675581,
+        "date_posted": 1787675440,
+        "url": "https://careers.publicisgroupe.com/jobs/171896?icims=1",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Publicis-Groupe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "6642fd98-f102-48bc-b226-3acb5b8c3988",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1787675637,
+        "date_posted": 1787616000,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10247580-1",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Dynamics",
+        "id": "ba71f8df-382e-4efc-acff-0a78b742aac8",
+        "title": "Finance Data Modeler & Transformation Representative - Finance Digital Transformation Office",
+        "active": true,
+        "date_updated": 1787675639,
+        "date_posted": 1787675407,
+        "url": "https://careers-gdeb.icims.com/jobs/20232/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Groton, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "568c6036-aeb5-4f73-9c75-fa674f965716",
+        "title": "Electronic Manufacturing Specialist - EMS/Operator",
+        "active": true,
+        "date_updated": 1787675630,
+        "date_posted": 1787616000,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/U105--Electronic-Manufacturing-Specialist--EMS-Operator-_R10247227-1",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "2869a722-c001-41da-a388-b3e4070a9b95",
+        "title": "Electronic Manufacturing Specialist",
+        "active": true,
+        "date_updated": 1787675638,
+        "date_posted": 1787616000,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/U105--Electronic-Manufacturing-Specialist--EMS-Operator----4th-Shift_R10247228-1",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
