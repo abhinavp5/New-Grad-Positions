@@ -268601,7 +268601,7 @@
         "company_name": "Emory Healthcare",
         "id": "568d0223-8a99-430c-88c6-7b7dead047e0",
         "title": "Data Analyst 2 - Supply Chain",
-        "active": true,
+        "active": false,
         "date_updated": 1782956563,
         "date_posted": 1782955958,
         "url": "https://non-clinical-emory.icims.com/jobs/150075/job?hub=14&mobile=true&needsRedirect=false",
@@ -276901,7 +276901,7 @@
         "company_name": "Citadel",
         "id": "66cb9e6f-2e5e-4fab-be1b-bf612ad91a02",
         "title": "Quantitative Trader: Equity Quantitative Research \u2013 University Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1783433881,
         "date_posted": 1783433322,
         "url": "https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us/",
@@ -306501,7 +306501,7 @@
         "company_name": "Castleton Commodities International",
         "id": "45dea49f-578f-44df-9362-daf85538719f",
         "title": "Commodities Trading Rotational Analyst Program",
-        "active": true,
+        "active": false,
         "date_updated": 1784683998,
         "date_posted": 1784592000,
         "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Houston-TX/Commodities-Trading-Rotational-Analyst-Program--Summer-2027-Start-_R1332-1",
@@ -335545,7 +335545,7 @@
         "company_name": "Axcelis Technologies, Inc.",
         "id": "633156a6-e3a5-4140-a8d0-87a292d40cbb",
         "title": "Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785797852,
         "date_posted": 1784160000,
         "url": "https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Boise-ID/Field-Service-Eng-Boise-ID_11878",
@@ -342808,7 +342808,7 @@
         "company_name": "Atoms",
         "id": "5b58ae21-c56b-47a7-92cd-cfae937732a1",
         "title": "Software Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1786055071,
         "date_posted": 1786054249,
         "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687930002",
@@ -366033,7 +366033,7 @@
         "company_name": "GE Aerospace",
         "id": "58d874ef-419b-49af-855a-a5369d3ac271",
         "title": "Production Assembler - 1st shift",
-        "active": true,
+        "active": false,
         "date_updated": 1787034421,
         "date_posted": 1787011200,
         "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Jacksonville/Production-Assembler---1st-shift_R5038790",
@@ -380321,7 +380321,7 @@
         "company_name": "SageSure",
         "id": "4ba0c07b-fb0d-42f1-9367-c4fb315d4364",
         "title": "Associate Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1787703677,
         "date_posted": 1787703647,
         "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4707269006",
@@ -380883,6 +380883,299 @@
             "Olathe, KS"
         ],
         "company_url": "https://simplify.jobs/c/Garmin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ocado Group",
+        "id": "e3c3148d-dbd6-4119-8953-00548ba0f6a0",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1787753722,
+        "date_posted": 1787753527,
+        "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=4960695101&gh_jid=4960695101",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ocado-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Keenfinity",
+        "id": "ac0fcf1b-7b15-45db-88c7-26e72ddf2047",
+        "title": "Associate DevOps Software Engineer",
+        "active": true,
+        "date_updated": 1787753603,
+        "date_posted": 1787753502,
+        "url": "https://jobs.smartrecruiters.com/Keenfinity/744000145726019",
+        "locations": [
+            "Fairport, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Keenfinity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "E2 Optics",
+        "id": "c0c90a66-4251-4629-8f07-54c74f1528a1",
+        "title": "Data Center Infrastructure Technician",
+        "active": true,
+        "date_updated": 1787753521,
+        "date_posted": 1787753386,
+        "url": "https://careers-e2optics.icims.com/jobs/3791/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/E2-Optics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "E2 Optics",
+        "id": "876dc998-389d-4dd5-8fc8-c2f64e394e2c",
+        "title": "Data Center Infrastructure Technician",
+        "active": true,
+        "date_updated": 1787753521,
+        "date_posted": 1787753387,
+        "url": "https://careers-e2optics.icims.com/jobs/3788/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/E2-Optics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "E2 Optics",
+        "id": "77eac71b-1155-4796-a6c4-fc7fa468f17b",
+        "title": "Data Center Infrastructure Technician",
+        "active": true,
+        "date_updated": 1787753521,
+        "date_posted": 1787753385,
+        "url": "https://careers-e2optics.icims.com/jobs/3792/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/E2-Optics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "E2 Optics",
+        "id": "34c645aa-eab2-4e61-83ef-55755ab7503c",
+        "title": "Data Center Infrastructure Technician",
+        "active": true,
+        "date_updated": 1787753521,
+        "date_posted": 1787753384,
+        "url": "https://careers-e2optics.icims.com/jobs/3793/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/E2-Optics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Marshall Wace",
+        "id": "b9818860-8ae5-4d0d-85c4-fa881f59838a",
+        "title": "Quant Research - Quantitative Associate Programme",
+        "active": true,
+        "date_updated": 1787752982,
+        "date_posted": 1787752837,
+        "url": "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8636830002",
+        "locations": [
+            "London, UK",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Marshall-Wace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Marshall Wace",
+        "id": "36550989-6b9a-4283-9d04-64ff68ecf823",
+        "title": "Quant Developer - Quant Association Programme",
+        "active": true,
+        "date_updated": 1787753008,
+        "date_posted": 1787752837,
+        "url": "https://job-boards.greenhouse.io/mw-tech-grad/jobs/8646947002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Marshall-Wace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Oklahoma State Government",
+        "id": "e48536e1-ab9e-4515-ad9d-1c4cc770917c",
+        "title": "Environmental Programs Specialist - Air Quality - Emissions Inventory",
+        "active": true,
+        "date_updated": 1787754988,
+        "date_posted": 1787702400,
+        "url": "https://okgov.wd1.myworkdayjobs.com/okgovjobs/job/Oklahoma-County/Environmental-Programs-Specialist_JR64437",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Oklahoma-State-Government",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NewRocket",
+        "id": "7eb1feaf-2674-4186-8e2b-9988a4887949",
+        "title": "AI Engineer Graduate Level",
+        "active": true,
+        "date_updated": 1787757682,
+        "date_posted": 1787757655,
+        "url": "https://www.newrocket.com/careers/job?gh_jid=6163544004&gh_jid=6163544004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/NewRocket",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NewRocket",
+        "id": "6a8aa902-c0c5-40aa-9ce5-de89012320d0",
+        "title": "AI Engineer - Anthropic",
+        "active": true,
+        "date_updated": 1787757689,
+        "date_posted": 1787757655,
+        "url": "https://www.newrocket.com/careers/job?gh_jid=6163518004&gh_jid=6163518004",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/NewRocket",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Aflac",
+        "id": "2c4cd783-a87f-4ae3-a4b9-d3197edaf47e",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1787757301,
+        "date_posted": 1787757243,
+        "url": "https://careers.aflac.com/job/Remote-Data-Analyst-31999/1423406100/?ats=successfactors",
+        "locations": [
+            "Remote in USA",
+            "Georgia"
+        ],
+        "company_url": "https://simplify.jobs/c/Aflac",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Viavi Solutions",
+        "id": "ebce0ffb-1748-4999-b952-a7dbc9f36aae",
+        "title": "Development Engineer Intern - Software Engineering/AI Track",
+        "active": true,
+        "date_updated": 1787759312,
+        "date_posted": 1787702400,
+        "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Morrisville-NC-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004987-1",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Viavi-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Viavi Solutions",
+        "id": "bf9c69e7-fff4-453c-ba04-3b0a7f1bc733",
+        "title": "Development Engineer - Software Engineering/AI Track",
+        "active": true,
+        "date_updated": 1787759314,
+        "date_posted": 1787702400,
+        "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004983-1",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Viavi-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "63d19d89-7015-4d97-8899-336d69fd2ea4",
+        "title": "Data Science Associate",
+        "active": true,
+        "date_updated": 1787759331,
+        "date_posted": 1787702400,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Data-Science-Associate_R_1506342",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
