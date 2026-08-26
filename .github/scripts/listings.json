@@ -320986,7 +320986,7 @@
         "company_name": "NextEra Energy",
         "id": "14172468-4e3d-4024-b155-1a9974ee0a09",
         "title": "Applied Scientist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785314216,
         "date_posted": 1781638754,
         "url": "https://jobs.nexteraenergy.com/job/St_-Paul-Applied-Scientist-I-MN-55107/1393884800/?ats=successfactors",
@@ -328375,7 +328375,7 @@
         "company_name": "Apple",
         "id": "e64e353a-8cf8-4434-a279-d7f7a25f4c01",
         "title": "Custom Timing and Verification CAD Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785601441,
         "date_posted": 1782972444,
         "url": "https://jobs.apple.com/en-us/details/200669841",
@@ -330226,7 +330226,7 @@
         "company_name": "ManTech",
         "id": "cb369351-882d-41be-9e85-42d3312f503a",
         "title": "Associate Computer Network Operations Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1785632548,
         "date_posted": 1785632383,
         "url": "https://mantech.avature.net/en_US/careers/JobDetail/64786",
@@ -343837,7 +343837,7 @@
         "company_name": "New Flyer",
         "id": "b755c170-360e-4686-82d7-179f09485302",
         "title": "Electrical Assembler",
-        "active": false,
+        "active": true,
         "date_updated": 1786083302,
         "date_posted": 1786083300,
         "url": "https://apply.workable.com/new-flyer/j/1FFE254239/apply",
@@ -358063,7 +358063,7 @@
         "company_name": "V2X",
         "id": "0321538d-4b96-4264-a106-9df2e5240d2f",
         "title": "Electronics Worker 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786681305,
         "date_posted": 1786680331,
         "url": "https://careers.gov2x.com/jobs/56956?icims=1",
@@ -372275,7 +372275,7 @@
         "company_name": "Chenega",
         "id": "a33f29f7-d579-4326-b539-11d97b8a4de5",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787264109,
         "date_posted": 1787263526,
         "url": "https://careers.chenega.com/jobs/41846?icims=1",
@@ -373496,7 +373496,7 @@
         "company_name": "General Dynamics",
         "id": "d24e23aa-e04f-4545-9ca3-746741eee46b",
         "title": "ERP Architect 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787322332,
         "date_posted": 1787322123,
         "url": "https://careers-gd-ots.icims.com/jobs/36873/job?mobile=true&needsRedirect=false",
@@ -379472,7 +379472,7 @@
         "company_name": "BJC HealthCare",
         "id": "1021bc85-de01-4e2a-93e8-4d10a25731fd",
         "title": "EHR Application Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787701476,
         "date_posted": 1787701280,
         "url": "https://jobs.bjc.org/jobs/114475?icims=1",
@@ -380402,7 +380402,7 @@
         "company_name": "Keenfinity",
         "id": "ac0fcf1b-7b15-45db-88c7-26e72ddf2047",
         "title": "Associate DevOps Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787753603,
         "date_posted": 1787753502,
         "url": "https://jobs.smartrecruiters.com/Keenfinity/744000145726019",
@@ -380865,6 +380865,82 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WellSky",
+        "id": "ef53c5cc-cfb0-4320-96eb-9bf793d013f8",
+        "title": "Associate Software Engineer - DevOps Engineer",
+        "active": true,
+        "date_updated": 1787769181,
+        "date_posted": 1787702400,
+        "url": "https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Overland-Park-KS/Associate-Software-Engineer---DevOps-Engineer_JR5080",
+        "locations": [
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/WellSky",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "V2X",
+        "id": "b1007362-c506-42fd-b9a0-95f30bb96bac",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1787772106,
+        "date_posted": 1787771952,
+        "url": "https://careers.gov2x.com/jobs/62655?icims=1",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/V2X",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Embedding VC",
+        "id": "b556adb1-8adc-4b0f-9230-3a2067a6428d",
+        "title": "AI Engineer - Early Career",
+        "active": true,
+        "date_updated": 1787771569,
+        "date_posted": 1787771476,
+        "url": "https://jobs.ashbyhq.com/embedding-vc/5c8433ea-c7e6-4350-bbd5-2889e7fdb2b1/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Embedding-VC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "da75a7d6-8ed2-4054-805c-35806d1e50de",
+        "title": "Business Intelligence Analyst",
+        "active": true,
+        "date_updated": 1787772632,
+        "date_posted": 1787702400,
+        "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/Atlanta-GA/University---Business-Intelligence-Analyst_R0247965",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
