@@ -358026,7 +358026,7 @@
         "company_name": "AT&T",
         "id": "f495b8fb-06ac-4d6c-b1f9-7e38d9302510",
         "title": "Installation Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1786679461,
         "date_posted": 1786579200,
         "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAMIMount-Clemens--Mary-St---Work-Center95-Mary-St/Installation-Technician_R-119644",
@@ -372223,7 +372223,7 @@
         "company_name": "L3Harris Technologies",
         "id": "c15fdda6-c63a-4851-a515-02b1bdf30cbd",
         "title": "Software Engineering Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1787238115,
         "date_posted": 1787237894,
         "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14610/1421454800/?ats=successfactors",
@@ -380578,5 +380578,23 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Vigil Labs",
+        "id": "9eb1a3ac-7af9-4e50-bab3-febf4979f053",
+        "title": "Founding Member of Technical Staff \u2014 Markets",
+        "active": true,
+        "date_updated": 1787718360,
+        "date_posted": 1787718360,
+        "url": "https://simplify.jobs/p/9eb1a3ac-7af9-4e50-bab3-febf4979f053",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ed987b9f-25ba-4446-99fe-976ab98acf40",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
