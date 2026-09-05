@@ -1,47 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Southern California",
-        "id": "7356a192-13d0-44cf-b52a-b3d57a19fcbf",
-        "title": "Business Data Analyst",
-        "active": false,
-        "date_updated": 1767855750,
-        "date_posted": 1767855750,
-        "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA/Business-Data-Analyst_REQ20170647-1",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Southern-California",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "d794ee07-53a7-4d04-9462-d475a021f4d0",
-        "title": "Data Scientist Graduate - Product Analytics",
-        "active": false,
-        "date_updated": 1767858903,
-        "date_posted": 1767858903,
-        "url": "https://lifeattiktok.com/search/7539974477397592338",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Marigold",
         "id": "9416eb88-37e4-4b63-bd54-1a50e5adb170",
@@ -232928,7 +232887,7 @@
         "company_name": "Goldman Sachs",
         "id": "de896427-2d73-4fa8-b8b8-65efaf044cfd",
         "title": "Software Engineer - Data",
-        "active": false,
+        "active": true,
         "date_updated": 1781169481,
         "date_posted": 1781168814,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292",
@@ -278104,7 +278063,7 @@
         "company_name": "Dyna Robotics",
         "id": "2b70eb5b-5b8d-4ff2-bd17-7885e217e855",
         "title": "Robot Safety Operator",
-        "active": false,
+        "active": true,
         "date_updated": 1784018344,
         "date_posted": 1781849286,
         "url": "https://jobs.ashbyhq.com/dyna-robotics/07330a37-aa35-4825-9080-66b29256a2fb/application",
@@ -330485,7 +330444,7 @@
         "company_name": "Microsoft",
         "id": "3f94586c-7465-4690-b2fc-6e57482fdcc0",
         "title": "Software Development Consultant - Technology Consulting",
-        "active": true,
+        "active": false,
         "date_updated": 1785968333,
         "date_posted": 1785968012,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556857973",
@@ -352910,7 +352869,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -353214,7 +353173,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -355289,7 +355248,7 @@
         "company_name": "Urban Science",
         "id": "39894c1d-735e-44ce-8d92-8eeadbfe0686",
         "title": "Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787005621,
         "date_posted": 1787005593,
         "url": "https://careers-urbanscience.icims.com/jobs/5216/job?mobile=true&needsRedirect=false",
@@ -357185,7 +357144,7 @@
         "company_name": "L3Harris Technologies",
         "id": "ef8b36d6-9967-4457-8ad8-2f8b9a8c9c91",
         "title": "Application Developer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1787063614,
         "date_posted": 1787063563,
         "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Application-Developer-FL-32919/1420524300/?ats=successfactors",
@@ -376561,7 +376520,7 @@
         "company_name": "L3Harris Technologies",
         "id": "649c43b4-ecea-4ee8-b78e-601bfe8a7376",
         "title": "Software Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1787953596,
         "date_posted": 1787953441,
         "url": "https://jobs.l3harris.com/job/Richardson-Associate,-Software-Engineer-TX-75080/1424473800/?ats=successfactors",
@@ -397659,7 +397618,7 @@
         "company_name": "JetBlue",
         "id": "ed97c6c6-eb7d-4ec1-bba9-07d6f4911646",
         "title": "Associate Analyst Revenue Management",
-        "active": true,
+        "active": false,
         "date_updated": 1788464719,
         "date_posted": 1787868983,
         "url": "https://careers.jetblue.com/job/Long-Island-City-Associate-Analyst-Revenue-Management-NY-11101/1409881200/?ats=successfactors",
@@ -402798,7 +402757,7 @@
         "company_name": "The Walt Disney Company",
         "id": "2fa4c6fe-2107-430d-8ad6-da60b6e0ef98",
         "title": "Advertiser Insights Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1788533371,
         "date_posted": 1788480000,
         "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/San-Francisco-CA-USA/Coordinator--Advertiser-Insights_10159409",
@@ -404175,6 +404134,24 @@
             "Yuma, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Dutch-Bros",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AiPrise",
+        "id": "6c3fb746-2d33-44e9-b97d-ada170e96ef0",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1788590059,
+        "date_posted": 1788589930,
+        "url": "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba/application?embed=true",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AiPrise",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
