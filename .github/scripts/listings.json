@@ -1,53 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Uline",
-        "id": "1ee823df-c090-4e43-92e8-7e7215a100df",
-        "title": "Product Management Analyst",
-        "active": false,
-        "date_updated": 1767884084,
-        "date_posted": 1767884084,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Analyst_R260339-1",
-        "locations": [
-            "Waukegan, IL",
-            "Milwaukee, WI",
-            "Pleasant Prairie, WI",
-            "Morton Grove, IL",
-            "Kenosha, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Uline",
-        "id": "15a778ef-2b2a-4901-9aec-ed118ed4c681",
-        "title": "Associate Software Developer",
-        "active": false,
-        "date_updated": 1767884071,
-        "date_posted": 1767884071,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Waukegan-IL/Associate-Software-Developer_R260376",
-        "locations": [
-            "Waukegan, IL",
-            "Pleasant Prairie, WI",
-            "Morton Grove, IL",
-            "Kenosha, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "b9c20b03-4aa8-4bd0-b949-5f7839dc3a36",
@@ -232851,7 +232804,7 @@
         "company_name": "Goldman Sachs",
         "id": "de896427-2d73-4fa8-b8b8-65efaf044cfd",
         "title": "Software Engineer - Data",
-        "active": true,
+        "active": false,
         "date_updated": 1781169481,
         "date_posted": 1781168814,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292",
@@ -352735,7 +352688,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -352774,7 +352727,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -356752,7 +356705,7 @@
         "company_name": "WOOD Consulting Services",
         "id": "ec674790-bb38-423e-bf36-84796ef90847",
         "title": "Software Engineer 0 - Entry-Level Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1787040442,
         "date_posted": 1787039772,
         "url": "https://jobs-woodcons.icims.com/jobs/14759/job?mobile=true&needsRedirect=false",
@@ -359941,7 +359894,7 @@
         "company_name": "WOOD Consulting Services",
         "id": "95645a1a-37b5-46b8-82dc-51c06ded8cbd",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787172121,
         "date_posted": 1787172089,
         "url": "https://jobs-woodcons.icims.com/jobs/14910/job?mobile=true&needsRedirect=false",
@@ -393826,7 +393779,7 @@
         "company_name": "WOOD Consulting Services",
         "id": "a6bd1314-ac47-45a9-8a6e-40903768ae2a",
         "title": "Systems Engineer 0",
-        "active": true,
+        "active": false,
         "date_updated": 1788446715,
         "date_posted": 1787039770,
         "url": "https://jobs-woodcons.icims.com/jobs/14783/job?mobile=true&needsRedirect=false",
@@ -404260,6 +404213,102 @@
             "Romulus, MI"
         ],
         "company_url": "https://simplify.jobs/c/Marriott-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mass General Brigham",
+        "id": "427fc125-8fe9-4189-95f3-0fdee1570153",
+        "title": "Data Analyst 1",
+        "active": true,
+        "date_updated": 1788613781,
+        "date_posted": 1788566400,
+        "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Data-Analyst-I_RQ4078299",
+        "locations": [
+            "Somerville, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tyson Foods",
+        "id": "cbfeabfc-ee55-4235-b847-c779d788699e",
+        "title": "Customer Category Analyst - Costco",
+        "active": true,
+        "date_updated": 1788613248,
+        "date_posted": 1788566400,
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Customer-Category-Analyst---Costco_R0483651-1",
+        "locations": [
+            "Springdale, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Tyson-Foods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tyson Foods",
+        "id": "cf5d2cc2-c274-4fb9-9cef-46931c854228",
+        "title": "Analytics Analyst",
+        "active": true,
+        "date_updated": 1788617521,
+        "date_posted": 1788566400,
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Analytics-Analyst---Walmart_R0483678-1",
+        "locations": [
+            "Springdale, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Tyson-Foods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lowes Foods Grocery Stores",
+        "id": "dc543916-6696-4ce5-81fc-a880e02c69f2",
+        "title": "Community Table Coordinator",
+        "active": true,
+        "date_updated": 1788617441,
+        "date_posted": 1788617168,
+        "url": "https://careers-lowesfoods.icims.com/jobs/140920/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Myrtle Beach, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Lowes-Foods-Grocery-Stores",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "John Lewis Partnership",
+        "id": "67d13233-6d7d-4c33-b1e8-250c43a356b5",
+        "title": "Hospitality - Supermarket Assistant",
+        "active": true,
+        "date_updated": 1788617002,
+        "date_posted": 1788134400,
+        "url": "https://jlp.wd3.myworkdayjobs.com/JLPjobs_careers/job/Ipswich-Corn-Exchange-Waitrose--Partners/Hospitality--Supermarket-Assistant_R-210888",
+        "locations": [
+            "Ipswich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Lewis-Partnership",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
