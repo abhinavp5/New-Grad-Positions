@@ -2,65 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Accenture",
-        "id": "f1fdb553-196c-4a11-8292-2df435c6b077",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1768004392,
-        "date_posted": 1768004392,
-        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mountain-View-650-Castro-Corp/XMLNAME--Software-Engineer---6078923_13942107",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Accenture-FS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CoreWeave",
-        "id": "ec102feb-a895-4052-97ba-b76c25362710",
-        "title": "Data Center Technician - Sandusky",
-        "active": false,
-        "date_updated": 1768003505,
-        "date_posted": 1768003505,
-        "url": "https://coreweave.com/careers/job?4643595006&board=coreweave&gh_jid=4643595006",
-        "locations": [
-            "Elyria, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/CoreWeave",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "U.S. Bank",
-        "id": "fc0f8624-1fc1-4faa-bb58-162278b78673",
-        "title": "PWM Investment Analyst",
-        "active": false,
-        "date_updated": 1768003417,
-        "date_posted": 1768003417,
-        "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/PWM-Investment-Analyst_2026-0000501",
-        "locations": [
-            "Chicago, IL",
-            "Kansas City, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/US-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "OpusClip",
         "id": "4e0b7c5f-1f3c-4569-bd29-1f41f0b3f519",
         "title": "Software Engineer - AI Video Agent",
@@ -229704,7 +229645,7 @@
         "company_name": "Goldman Sachs",
         "id": "de896427-2d73-4fa8-b8b8-65efaf044cfd",
         "title": "Software Engineer - Data",
-        "active": false,
+        "active": true,
         "date_updated": 1781169481,
         "date_posted": 1781168814,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292",
@@ -349588,7 +349529,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -349627,7 +349568,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -376799,7 +376740,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "976a401d-6247-4baa-9342-17d250fa34db",
         "title": "Software Engineer 1 - CVN 21 Design",
-        "active": true,
+        "active": false,
         "date_updated": 1788240918,
         "date_posted": 1788240031,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1425127900/?ats=successfactors",
@@ -401285,5 +401226,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arcadis",
+        "id": "04ca3f28-23f2-423d-baf2-ccd7f3372db3",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1788743372,
+        "date_posted": 1788743126,
+        "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43797",
+        "locations": [
+            "London, UK",
+            "Sheffield, UK",
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Arcadis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
