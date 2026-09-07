@@ -306758,7 +306758,7 @@
         "company_name": "Motorola",
         "id": "0e645a26-5aa4-441c-b793-1ef8516245ca",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785250801,
         "date_posted": 1785196800,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Software-Engineer_R66979",
@@ -336449,7 +336449,7 @@
         "company_name": "Swoon Editions",
         "id": "a90a9eab-2228-4385-846a-4a3c30dc543f",
         "title": "Partner Trading and AI Merchandising Executive",
-        "active": true,
+        "active": false,
         "date_updated": 1786412226,
         "date_posted": 1786411978,
         "url": "https://apply.workable.com/swoon-editions/j/3438545340/apply",
@@ -338164,7 +338164,7 @@
         "company_name": "Apple",
         "id": "0af7aee2-6274-4e9b-8e96-785a9d70bb9e",
         "title": "Software Engineer - Applications - Information Systems and Technology",
-        "active": false,
+        "active": true,
         "date_updated": 1786486503,
         "date_posted": 1786486439,
         "url": "https://jobs.apple.com/en-us/details/200675475",
@@ -347359,7 +347359,7 @@
         "company_name": "NOV",
         "id": "709af144-8cf3-4137-b92c-0eac7a9f4e81",
         "title": "Lifecycle Services Teamcenter Administrator",
-        "active": true,
+        "active": false,
         "date_updated": 1786692961,
         "date_posted": 1786692878,
         "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/42922",
@@ -365347,7 +365347,7 @@
         "company_name": "Adaption Labs",
         "id": "9999c788-4faa-43a0-9300-8fef2f45873d",
         "title": "Modelling Resident",
-        "active": true,
+        "active": false,
         "date_updated": 1787640678,
         "date_posted": 1781676502,
         "url": "https://jobs.ashbyhq.com/adaption/3acd56ba-3085-441e-ba75-e6252ce3d566/application?embed=true",
@@ -365782,7 +365782,7 @@
         "company_name": "SS&C",
         "id": "9af17f10-a53a-4653-bc36-fc5a419259c6",
         "title": "Intelligent Automation Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1787666253,
         "date_posted": 1783641600,
         "url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Basildon-United-Kingdom/AI-Automation-Developer_R45057",
@@ -366434,7 +366434,7 @@
         "company_name": "TradingHub",
         "id": "bc004c19-45d1-4e50-9d7c-27fbdd2db93a",
         "title": "Product Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787693222,
         "date_posted": 1787693154,
         "url": "https://jobs.ashbyhq.com/tradinghub/2985bfa4-d2b8-4f15-8c00-fac8e5ba6028/application?embed=true",
@@ -376142,7 +376142,7 @@
         "company_name": "Eaton",
         "id": "fc8ec374-761e-4c0f-9167-d280862ea8ad",
         "title": "Engineering Technology Early Career Leadership Development Program - Embedded Systems - Research & Development Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1788226264,
         "date_posted": 1788224487,
         "url": "https://eaton.eightfold.ai/careers/job/687238044194",
@@ -376760,7 +376760,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "99d36c47-9c2d-45d5-87ea-42d0f26740a4",
         "title": "Software Engineer 1 - CVN 21 Design",
-        "active": true,
+        "active": false,
         "date_updated": 1788240916,
         "date_posted": 1788240030,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1425126300/?ats=successfactors",
@@ -385564,7 +385564,7 @@
         "company_name": "Milwaukee Tool",
         "id": "464d8eef-18d1-4822-9f78-e31f5cbdf71a",
         "title": "Electrical Engineer 1 - NPD",
-        "active": true,
+        "active": false,
         "date_updated": 1787046372,
         "date_posted": 1786665600,
         "url": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Brookfield-WI/Electrical-Engineer-I---NPD_R75736",
@@ -396834,7 +396834,7 @@
         "company_name": "Microchip Technology",
         "id": "2e825bd1-77e4-4d76-a7b2-97d075d4e53a",
         "title": "Engineer 1 - Software Development",
-        "active": true,
+        "active": false,
         "date_updated": 1788491492,
         "date_posted": 1788393600,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I--CAD--Software-Development-_R3637-26",
@@ -401264,6 +401264,173 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NXP Semiconductors",
+        "id": "f73d997e-660d-4081-87b4-2bac0d89aa05",
+        "title": "Digital Physical Design Engineer",
+        "active": true,
+        "date_updated": 1788774892,
+        "date_posted": 1788739200,
+        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Physical-Design-Engineer_R-10065547",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NXP Semiconductors",
+        "id": "f6552574-8bd8-4bcb-856a-f3131dfdad9f",
+        "title": "Entry Level DFT Design Engineer",
+        "active": true,
+        "date_updated": 1788774842,
+        "date_posted": 1788739200,
+        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Design-Engineer_R-10065554",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NXP Semiconductors",
+        "id": "d389b7cc-93fb-4b96-a37b-c0f8cf9a2416",
+        "title": "Digital Validation Engineer",
+        "active": true,
+        "date_updated": 1788774902,
+        "date_posted": 1788739200,
+        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Validation-Engineer_R-10065559",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NXP Semiconductors",
+        "id": "d308e020-a5b4-43af-96f0-dd3978bc7b6f",
+        "title": "Digital Verification Engineer",
+        "active": true,
+        "date_updated": 1788774903,
+        "date_posted": 1788739200,
+        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Verification-Engineer_R-10065543",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NXP Semiconductors",
+        "id": "537717a2-964f-4c2c-9702-04c94e5b213a",
+        "title": "Entry Level Digital Design Engineer",
+        "active": true,
+        "date_updated": 1788774842,
+        "date_posted": 1788739200,
+        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Design-Engineer_R-10065555",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NXP Semiconductors",
+        "id": "4c1a40ad-c8ad-4931-804b-78f40f2129d2",
+        "title": "Entry Level Digital Design Engineer",
+        "active": true,
+        "date_updated": 1788774842,
+        "date_posted": 1788739200,
+        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Design-Engineer_R-10065542",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "incident.io",
+        "id": "06f477fe-1ed4-46b5-8559-17cc078c0b8c",
+        "title": "Product Engineer Placement",
+        "active": true,
+        "date_updated": 1788790501,
+        "date_posted": 1788790463,
+        "url": "https://jobs.ashbyhq.com/incident/2f692a4d-91b4-4d0f-ae39-b38b68a24a27/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Incident-Io",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "incident.io",
+        "id": "6f8c758c-6226-484d-afe1-b9ad5f302b81",
+        "title": "Product Engineer Graduate",
+        "active": true,
+        "date_updated": 1788790501,
+        "date_posted": 1788790463,
+        "url": "https://jobs.ashbyhq.com/incident/743b1624-7267-49a9-84a0-6223e414fbf0/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Incident-Io",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
