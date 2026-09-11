@@ -1,127 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Starpath Robotics",
-        "id": "ca9bec50-856d-41d4-bce9-d2e5018c860a",
-        "title": "Customer Mission Engineer - Space Solar Hardware",
-        "active": false,
-        "date_updated": 1768356956,
-        "date_posted": 1768356956,
-        "url": "https://jobs.ashbyhq.com/starpath.space/fb2f6e08-af35-4a78-87fa-ede755d57a2c/application",
-        "locations": [
-            "West Athens, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Starpath-Robotics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "SpaceX",
-        "id": "646901a6-7921-4ed0-99d8-6b1b0eaa2ad9",
-        "title": "Embedded Software Engineer",
-        "active": false,
-        "date_updated": 1768357922,
-        "date_posted": 1768357922,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8368715002",
-        "locations": [
-            "Bastrop, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "5e071353-49ef-453d-8555-ab44ce840cbd",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1768357841,
-        "date_posted": 1768357841,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7511717",
-        "locations": [
-            "Gainesville, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ChampionX",
-        "id": "5d172087-11fe-4f6d-bbe2-d3aeb44c813f",
-        "title": "Application Engineer 1",
-        "active": false,
-        "date_updated": 1768358113,
-        "date_posted": 1768358113,
-        "url": "https://championx.wd1.myworkdayjobs.com/championx_external/job/USA--TX---Midland-Regional/Application-Engineer-I_R00134579",
-        "locations": [
-            "Midland, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/ChampionX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SpaceX",
-        "id": "58e0d3b9-666d-44e1-8e51-7e5376d743bd",
-        "title": "Software Engineer - Beam Planning - Starlink",
-        "active": false,
-        "date_updated": 1768357994,
-        "date_posted": 1768357994,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8373117002",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "547ddaef-b012-4fd3-bcb0-b7b1fff0d9ff",
-        "title": "Entry-Level Electrical Network & Digital Connectivity System Design Engineer",
-        "active": false,
-        "date_updated": 1768357761,
-        "date_posted": 1768357761,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Entry-Level-Electrical-Network---Digital-Connectivity-System-Design-Engineer_JR2025489102-1",
-        "locations": [
-            "Everett, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Huntington Ingalls Industries",
         "id": "ce6dc923-e84b-4222-89c1-dd5d1921ea1c",
@@ -6322,28 +6201,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Qualcomm",
-        "id": "6d9a9486-7b7b-4d41-86a0-8d53bab694e6",
-        "title": "Machine Learning ASIC Design Verification Engineer - ASICS Engineering",
-        "active": false,
-        "date_updated": 1768901219,
-        "date_posted": 1768356836,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446716207423",
-        "locations": [
-            "Markham, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualcomm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -169807,7 +169664,7 @@
         "company_name": "NVIDIA",
         "id": "ae5192ab-5b33-474f-b52a-660a64e80529",
         "title": "GPU Power Architect New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1777684501,
         "date_posted": 1777684077,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Power-Architect---New-College-Grad-2026_JR2017169",
@@ -258265,7 +258122,7 @@
         "company_name": "Amentum",
         "id": "037965da-859d-4532-a3b3-45dc8fd6220f",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1783376641,
         "date_posted": 1783376017,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148259",
@@ -261669,7 +261526,7 @@
         "company_name": "Hilbert",
         "id": "786414d8-5fda-439b-81fc-9534536d2589",
         "title": "Mathematician - Foundation Team",
-        "active": false,
+        "active": true,
         "date_updated": 1783473121,
         "date_posted": 1783472997,
         "url": "https://jobs.ashbyhq.com/hilberts/adbe0102-fa3e-484f-98c8-bf02dd478945/application",
@@ -297617,7 +297474,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "ae948682-42af-46dc-919c-fbef1921d88f",
         "title": "Embedded Firmware and Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784931122,
         "date_posted": 1784851200,
         "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Embedded-Firmware-and-Software-Engineer_3161388",
@@ -305598,7 +305455,7 @@
         "company_name": "Dyson",
         "id": "33bc33b7-ee70-4327-a1e0-0a60fe32438e",
         "title": "Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785362765,
         "date_posted": 1785283200,
         "url": "https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/United-Kingdom---Malmesbury-Office/Verification-Engineer_JR37601",
@@ -310247,7 +310104,7 @@
         "company_name": "Quora",
         "id": "59aaa50c-6f7f-427b-950f-8b772440e208",
         "title": "Software Engineer New Grad - Machine Learning Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1785547666,
         "date_posted": 1785547469,
         "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application?embed=true",
@@ -345629,7 +345486,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -346977,7 +346834,7 @@
         "company_name": "Vanguard",
         "id": "5826f2da-52b2-4a82-9ff2-34f7b3be2d6c",
         "title": "Technology Leadership Program - Application Development",
-        "active": false,
+        "active": true,
         "date_updated": 1787005442,
         "date_posted": 1786924800,
         "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Technology-Leadership-Program---Application-Development--NC-_180082",
@@ -392614,7 +392471,7 @@
         "company_name": "Skyward",
         "id": "7dbb5c10-5141-47a1-bf19-a1b0a452f334",
         "title": "Data Migration Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788490152,
         "date_posted": 1788473284,
         "url": "https://jobs.smartrecruiters.com/Skyward1/744000147336520",
@@ -398671,7 +398528,7 @@
         "company_name": "Service Corporation International",
         "id": "e4a0b2d4-ebea-43c2-8616-28e92ca0142a",
         "title": "Funeral Attendant",
-        "active": true,
+        "active": false,
         "date_updated": 1788905596,
         "date_posted": 1788905202,
         "url": "https://sci.wd5.myworkdayjobs.com/sci/job/CA---Menifee/Funeral-Attendant--part-time-_Req163696",
@@ -399492,7 +399349,7 @@
         "company_name": "Archer",
         "id": "c6f917c4-26ee-4edd-a28b-608341aed2b4",
         "title": "Associate Survivability and Operations Analysis Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788908069,
         "date_posted": 1779402051,
         "url": "https://job-boards.greenhouse.io/archer56/jobs/7719738003",
@@ -400936,7 +400793,7 @@
         "company_name": "WorldStrides",
         "id": "5a283cb6-d2dc-4b0b-b57a-c6d5fe463dc8",
         "title": "Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788993910,
         "date_posted": 1788993665,
         "url": "https://job-boards.greenhouse.io/world4822stri986des/jobs/5351873008",
@@ -403019,6 +402876,149 @@
             "Annapolis Junction, MD"
         ],
         "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Alkami Technology",
+        "id": "fb0fec5d-cf1c-4a60-b4fc-70c2b477da0b",
+        "title": "Customer Operations Analyst",
+        "active": true,
+        "date_updated": 1789089768,
+        "date_posted": 1788998400,
+        "url": "https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Customer-Operations-Analyst--Temporay-_JR-000863",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Alkami-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Daimler Truck",
+        "id": "c010600b-5c7e-4cc2-a27e-72fd2b3c75b8",
+        "title": "Integration and Coordination Engineer 1",
+        "active": true,
+        "date_updated": 1789089770,
+        "date_posted": 1788998400,
+        "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Integration-and-Coordination-Engineer-I_DT-19590-2",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Daimler-Truck",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Callan",
+        "id": "0864b161-0ae8-4d7e-9b81-de591ee256e2",
+        "title": "Performance Analyst - Client Report Services",
+        "active": true,
+        "date_updated": 1789089381,
+        "date_posted": 1789089217,
+        "url": "https://jobs.lever.co/callan/a56cc421-3784-4bff-922a-3d72dcb22465/apply",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Callan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Super Micro Computer",
+        "id": "e1668df9-42b9-4d16-b3f2-cf47c7435281",
+        "title": "Product Engineer",
+        "active": true,
+        "date_updated": 1789089121,
+        "date_posted": 1789088965,
+        "url": "https://jobs.supermicro.com/job/San-Jose-Product-Engineer-Cali/1428832700/?ats=successfactors",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Super-Micro-Computer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Super Micro Computer",
+        "id": "2b21a21e-b388-48a6-b976-8e1e8d63ea76",
+        "title": "Power DC-DC Hardware Engineer",
+        "active": true,
+        "date_updated": 1789089211,
+        "date_posted": 1789088974,
+        "url": "https://jobs.supermicro.com/job/San-Jose-Hardware-Design-Engineer-Cali/1428831000/?ats=successfactors",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Super-Micro-Computer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Aerospace Corporation",
+        "id": "37554b69-0c6a-47c0-9236-d7e22e5f318a",
+        "title": "RF Device Engineer - Microelectronics/Semiconductor Engineering",
+        "active": true,
+        "date_updated": 1789089301,
+        "date_posted": 1788998400,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-RF-Device-Engineer_R016486",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Acuity",
+        "id": "8c581baf-200d-459c-b74e-810568fe2c10",
+        "title": "Firmware Engineer Specialist - BUILD Leadership Program",
+        "active": true,
+        "date_updated": 1789107176,
+        "date_posted": 1789107086,
+        "url": "https://careers.acuityinc.com/job/Atlanta-Specialist-Firmware-Engineering-BUILD-Leadership-Program-GA-30309/1428876800/?ats=successfactors",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Acuity",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
