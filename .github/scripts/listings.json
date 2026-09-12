@@ -264507,7 +264507,7 @@
         "company_name": "Alkira",
         "id": "f5d0810b-8d0e-4bee-b85c-e93f19ab3aef",
         "title": "Software Engineer - Datapath",
-        "active": true,
+        "active": false,
         "date_updated": 1783678321,
         "date_posted": 1783548695,
         "url": "https://alkira.bamboohr.com/careers/232/",
@@ -367436,7 +367436,7 @@
         "company_name": "LG Ad Solutions",
         "id": "e2639433-964d-4eec-8a37-c16d048c74ed",
         "title": "Global Reporting & Analytics Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787957128,
         "date_posted": 1787956987,
         "url": "https://jobs.ashbyhq.com/lgads/b583063e-60fc-4985-b2ee-11fa83d75943/application?embed=true",
@@ -393118,7 +393118,7 @@
         "company_name": "Cooper University Health Care",
         "id": "f83551b7-e3ed-4c68-9df6-9356b06f2e76",
         "title": "Reporting and Analytics Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1788531481,
         "date_posted": 1788531330,
         "url": "https://careers-cooperhealth.icims.com/jobs/85602/job?mobile=true&needsRedirect=false",
@@ -402551,6 +402551,26 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Nerdio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Klaviyo",
+        "id": "5077be7d-bf97-4e0b-8fad-8674bf28d206",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1789234787,
+        "date_posted": 1789234577,
+        "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989324003",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Klaviyo",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
