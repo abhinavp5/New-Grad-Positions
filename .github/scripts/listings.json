@@ -72654,24 +72654,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Solace Health",
-        "id": "b60b87eb-67cd-48e0-b4f4-bfffdeda474b",
-        "title": "Technical Product Manager",
-        "active": false,
-        "date_updated": 1772621983,
-        "date_posted": 1768806850,
-        "url": "https://jobs.ashbyhq.com/solace/4f03a850-1d70-4982-984a-2f2328192fb4/application",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Solace-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Quantix SCS",
         "id": "c22ed2b1-7dbc-4fec-8e24-0ed23174312c",
@@ -228063,7 +228045,7 @@
         "company_name": "Ritchie Bros.",
         "id": "5525b708-b3f8-4b78-a546-7b5c638d8fdb",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781677277,
         "date_posted": 1781676408,
         "url": "https://fa-exew-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9146",
@@ -268322,7 +268304,7 @@
         "company_name": "Voltus",
         "id": "38c31d17-1f58-4475-945b-9f073f5b3fe8",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784153524,
         "date_posted": 1784153232,
         "url": "https://jobs.lever.co/voltus/f13d367c-97c1-4af3-8e8b-06827017fee2/apply",
@@ -350526,7 +350508,7 @@
         "company_name": "Mackenzie Investments",
         "id": "4712e535-e6e5-4aaf-9098-6819a3f396e2",
         "title": "Investment Analyst - Quantitative",
-        "active": true,
+        "active": false,
         "date_updated": 1787275081,
         "date_posted": 1787274916,
         "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5971/job?mobile=true&needsRedirect=false",
@@ -366660,7 +366642,7 @@
         "company_name": "Airbus",
         "id": "0942c68d-8911-49dd-94c5-f33974868acd",
         "title": "Graduate Strategy and Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788233811,
         "date_posted": 1788220800,
         "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bristol-Area/AGGP2027---Graduate-Strategy-and-Data-Analyst_JR10430952",
@@ -374337,7 +374319,7 @@
         "company_name": "Micron Technology",
         "id": "16c1dd6a-df69-4b28-b4ac-581408b67050",
         "title": "Device & Cell Technology Engineer New Grad - DRAM",
-        "active": true,
+        "active": false,
         "date_updated": 1788286146,
         "date_posted": 1787785019,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/DRAM-Device---Cell-Technology-Engineer_JR102424",
@@ -384547,7 +384529,7 @@
         "company_name": "WTW",
         "id": "37c06d15-59ab-4e8a-b497-d63a0664ca68",
         "title": "Actuarial Developer - Igloo Standard Model - Stochastic Modelling",
-        "active": true,
+        "active": false,
         "date_updated": 1788463466,
         "date_posted": 1783634856,
         "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202604316",
@@ -395170,7 +395152,7 @@
         "company_name": "Texas Instruments",
         "id": "993e682f-95cd-4e4d-8efb-2e6f929d5b6b",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788994176,
         "date_posted": 1788992799,
         "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017860",
@@ -397291,7 +397273,7 @@
         "company_name": "RTX",
         "id": "ef1b9c5d-e0b7-4446-8404-0b3854e65c4b",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789079565,
         "date_posted": 1788998400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineer--I--Onsite-_01871993",
@@ -397331,7 +397313,7 @@
         "company_name": "L3Harris Technologies",
         "id": "fdb15ff9-23fb-4c1b-98bf-972ee623f2b4",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789079484,
         "date_posted": 1789078510,
         "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Software-Engineer-UT-84116/1428761600/?ats=successfactors",
@@ -398895,7 +398877,7 @@
         "company_name": "RTX",
         "id": "bb98b63c-2ad3-4fe1-a884-6c7a092c1935",
         "title": "Firmware Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789175843,
         "date_posted": 1789084800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Firmware-Engineer-I--Onsite-_01873850",
@@ -399822,7 +399804,7 @@
         "company_name": "Rocket Lab USA",
         "id": "daabbb4b-3238-449b-a3f6-39e1681033a7",
         "title": "Flight Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789408702,
         "date_posted": 1789408571,
         "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992129003",
@@ -402438,7 +402420,7 @@
         "company_name": "Rakuten International",
         "id": "058f10b5-7e10-4926-bb72-004c74c2a665",
         "title": "Early Career AI Engineer - Contract",
-        "active": true,
+        "active": false,
         "date_updated": 1789510322,
         "date_posted": 1789510078,
         "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Bellevue-Washington/Intern---Software-Engineering--AI-User-Experience_1031437",
@@ -403459,5 +403441,124 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Cheiron",
+        "id": "2ea38d26-862d-47ae-a223-4b41861e24f5",
+        "title": "Associate Product Manager - Technical",
+        "active": true,
+        "date_updated": 1789539481,
+        "date_posted": 1789539337,
+        "url": "https://jobs.ashbyhq.com/cheiron/a8514f9b-17d9-40a0-8674-a07543bb86d0/application?embed=true",
+        "locations": [
+            "Los Altos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cheiron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "4b9dae50-6a90-4019-8f00-d915174e9fd2",
+        "title": "Senior Product Test Capability Engineer",
+        "active": true,
+        "date_updated": 1789539409,
+        "date_posted": 1789539124,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40456",
+        "locations": [
+            "Allentown, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "1b593633-5171-4cb0-b05b-59237123978e",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1789539384,
+        "date_posted": 1789430400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineer-I--Onsite-_01874924",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "86cb0b1e-3691-4e3c-a4ec-c65f90643d87",
+        "title": "Software Engineer - Coding Agent Harness Engineering",
+        "active": true,
+        "date_updated": 1789539148,
+        "date_posted": 1789430400,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749",
+        "locations": [
+            "Remote in USA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sunday Robotics",
+        "id": "290f897e-45bc-4883-a57d-71b8135ece08",
+        "title": "Memory Developer",
+        "active": true,
+        "date_updated": 1789548481,
+        "date_posted": 1782770900,
+        "url": "https://jobs.ashbyhq.com/sunday/f92adbe3-da24-4edd-8599-4f60dec7bd5f/application?embed=true",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sunday-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Oratomic",
+        "id": "08b8d057-b201-4fc6-ac31-5dfc4755467e",
+        "title": "AI Scientist",
+        "active": true,
+        "date_updated": 1789547401,
+        "date_posted": 1784596470,
+        "url": "https://jobs.ashbyhq.com/oratomic/241a16be-3b49-4fb7-afce-6b3dc462f64a/application?embed=true",
+        "locations": [
+            "Pasadena, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Oratomic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
