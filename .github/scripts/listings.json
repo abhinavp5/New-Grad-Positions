@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Liberis",
-        "id": "79e89f1e-a767-4da4-8004-233c0154d90d",
-        "title": "Associate Product Manager",
-        "active": false,
-        "date_updated": 1769425713,
-        "date_posted": 1769425713,
-        "url": "https://job-boards.greenhouse.io/liberis/jobs/7548471",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Liberis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Danaher Corporation",
         "id": "db4f0640-8449-4171-be99-b146cdbac1f2",
@@ -146170,7 +146152,7 @@
         "company_name": "RoboForce",
         "id": "32fb0fec-1af6-42ec-a08e-3b5f1086976f",
         "title": "Data Collection Operator",
-        "active": false,
+        "active": true,
         "date_updated": 1776982861,
         "date_posted": 1776982711,
         "url": "https://job-boards.greenhouse.io/roboforce/jobs/5198791008",
@@ -146721,7 +146703,7 @@
         "company_name": "Northumbria University",
         "id": "bdc0a0d6-e899-4815-963c-144ad2bfb399",
         "title": "KTP Associate: Software and Analytics Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1777021450,
         "date_posted": 1777021254,
         "url": "https://fa-etnb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4035",
@@ -245102,7 +245084,7 @@
         "company_name": "Analog Devices",
         "id": "c1a68563-fce3-4b44-b45f-03020c8ce1c2",
         "title": "Embedded Audio Software Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1783433867,
         "date_posted": 1783433379,
         "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Associate-Engineer--Embedded-Audio-Software_R263781",
@@ -248826,7 +248808,7 @@
         "company_name": "Intel",
         "id": "ac371a61-176d-4cbb-a098-a8d32e0b88d5",
         "title": "Package Failure Analysis Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1783550551,
         "date_posted": 1783548666,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Package-Failure-Analysis-Engineer_JR0285289",
@@ -271949,7 +271931,7 @@
         "company_name": "The Boeing Company",
         "id": "54ee09d1-9674-4ac5-8741-1b0fa5ec967a",
         "title": "Embedded Software Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1784664057,
         "date_posted": 1783721867,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-Embedded-Software-Engineer_JR2026500069",
@@ -330653,7 +330635,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -340804,7 +340786,7 @@
         "company_name": "Ohio State University",
         "id": "d2562450-53cf-4da3-bbfb-1951dd76f3d9",
         "title": "Associate Applications Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787263572,
         "date_posted": 1787184000,
         "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Associate-Applications-Analyst_R157300-1",
@@ -347270,7 +347252,7 @@
         "company_name": "RTX",
         "id": "23bbe35c-c579-474a-9e66-85d18545f2cb",
         "title": "Firmware Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1787682161,
         "date_posted": 1787616000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Firmware-Engineer-2--Onsite-_01866672",
@@ -361249,7 +361231,7 @@
         "company_name": "Versant",
         "id": "0272e0de-c540-444a-9e2e-63cc98f621e8",
         "title": "Software Engineer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1788311423,
         "date_posted": 1788311223,
         "url": "https://jobs.smartrecruiters.com/Versant3/744000146840259",
@@ -364032,7 +364014,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "c570aaad-51ef-443c-b2ae-5ce19cb13d6e",
         "title": "Electrical Hardware Engineer Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1788418985,
         "date_posted": 1788307200,
         "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer-Graduate_1213434-1",
@@ -381073,7 +381055,7 @@
         "company_name": "PortmanDentex",
         "id": "cc64603e-4a52-45f2-8179-ee7b5c08f0e7",
         "title": "Trainee Dental Nurse",
-        "active": true,
+        "active": false,
         "date_updated": 1788559741,
         "date_posted": 1788559649,
         "url": "https://jobs.smartrecruiters.com/PortmanDentex/744000147567429",
@@ -397297,7 +397279,7 @@
         "company_name": "Accordience",
         "id": "d16f889c-c0de-4b1a-a9e1-c11315ada6be",
         "title": "Junior AI & Automation Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1789722952,
         "date_posted": 1789722601,
         "url": "https://accordience.com/jobs/?gh_jid=4934501101",
@@ -397375,7 +397357,7 @@
         "company_name": "Bosch Home Comfort",
         "id": "7ed9c310-2f2f-4d6f-9d32-4573959a0e7e",
         "title": "Marketing Analyst Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1789740541,
         "date_posted": 1789740495,
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150327262",
@@ -398560,7 +398542,7 @@
         "company_name": "Valeo Foods",
         "id": "5edf4155-7d69-40cf-b5c8-d2a0061ec7e7",
         "title": "Business Intelligence Analyst Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1789942173,
         "date_posted": 1789941880,
         "url": "https://jobs.smartrecruiters.com/ValeoFoods/744000150541879",
@@ -399780,7 +399762,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "6ba49fd7-fca8-4128-a0e2-5d8cffc9661e",
         "title": "Software Acquisition Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790030298,
         "date_posted": 1789948800,
         "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/IC-2027-Software-Acquisition-Engineer_R016339",
@@ -399820,7 +399802,7 @@
         "company_name": "Gannett Fleming",
         "id": "7cb75f90-8d8d-45a1-a809-491bcde77e4f",
         "title": "Associate Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1790030213,
         "date_posted": 1790028926,
         "url": "https://careers-gannettfleming.icims.com/jobs/14760/job?mobile=true&needsRedirect=false",
@@ -400129,7 +400111,7 @@
         "company_name": "Trustpilot",
         "id": "c081d641-edbe-4209-8d86-efa0cac36bad",
         "title": "Software Engineer 1 - Trust Tech",
-        "active": true,
+        "active": false,
         "date_updated": 1790086392,
         "date_posted": 1790086116,
         "url": "https://corporate.trustpilot.com/careers/job/8081169?gh_jid=8081169",
@@ -401410,6 +401392,127 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "797457af-9c7f-488f-af3b-d623ab5051d0",
+        "title": "Ecosystem Analyst Graduate - TikTok LIVE",
+        "active": true,
+        "date_updated": 1790144587,
+        "date_posted": 1790144306,
+        "url": "https://lifeattiktok.com/search/7687814085886527797",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "39e6bebf-6cf0-4612-982e-5fd9d4af764d",
+        "title": "Ecosystem Analyst Graduate - LLM/Enforcement - TikTok Live",
+        "active": true,
+        "date_updated": 1790144587,
+        "date_posted": 1790144306,
+        "url": "https://lifeattiktok.com/search/7687813753283332357",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "e52513e2-804f-43b4-ae87-411d4c56ff26",
+        "title": "Electrical/Hardware Engineer 1",
+        "active": true,
+        "date_updated": 1790144371,
+        "date_posted": 1790035200,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Electrical-Hardware-Engineer-I_1213860",
+        "locations": [
+            "Spring, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Apex Service Partners",
+        "id": "00c8a44c-b8b7-434e-a8d7-da14940b8617",
+        "title": "Business Intelligence Analyst - Data & Analytics",
+        "active": true,
+        "date_updated": 1790153822,
+        "date_posted": 1790028882,
+        "url": "https://careers-apexservicepartners.icims.com/jobs/24570/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Apex-Service-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Grayce",
+        "id": "d1d59849-acaf-4fac-8763-72a6042a75f8",
+        "title": "Graduate Software Engineer - Bridgend",
+        "active": true,
+        "date_updated": 1790156162,
+        "date_posted": 1790155943,
+        "url": "https://apply.workable.com/grayce/j/1789116104/apply",
+        "locations": [
+            "Bridgend, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Grayce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anthropic",
+        "id": "7fcc0a66-89fe-4420-9a5f-181e85904774",
+        "title": "Associate Applied AI - Rotational Program",
+        "active": true,
+        "date_updated": 1790158689,
+        "date_posted": 1789598857,
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5425724008",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Anthropic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
