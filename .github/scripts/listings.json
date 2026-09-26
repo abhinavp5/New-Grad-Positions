@@ -1,118 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Legrand NA",
-        "id": "26754532-8728-46b2-8375-3bb78714d7c2",
-        "title": "Product Manager",
-        "active": false,
-        "date_updated": 1769670370,
-        "date_posted": 1769670370,
-        "url": "https://jobs-legrand.icims.com/jobs/9778/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Legrand-NA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "0df700d3-fbc3-4c82-9b19-3f0306c35360",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1769672610,
-        "date_posted": 1769672610,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--AL-_01819702",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "AT&T",
-        "id": "286fdf96-d6ae-44a6-8f61-97cf63048262",
-        "title": "Installation Technician",
-        "active": false,
-        "date_updated": 1769671713,
-        "date_posted": 1769671713,
-        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Cornelius-North-Carolina/Installation-Technician_R-99203",
-        "locations": [
-            "Huntersville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/ATT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Visa",
-        "id": "7eb1b44c-fae7-40a5-8de3-cc42f634b2fb",
-        "title": "Data Engineering Graduate",
-        "active": false,
-        "date_updated": 1769681216,
-        "date_posted": 1769681216,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000106245998",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "4cb5f52a-e68e-48c6-95d3-53ce0a574cfa",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1769682801,
-        "date_posted": 1769682801,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047447",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "3e2358e6-5892-4b9e-9d1a-fbe0d33dad31",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769682800,
-        "date_posted": 1769682800,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047452",
-        "locations": [
-            "Guildford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "CoStar Group",
         "id": "68895d03-a869-4d59-b97b-c8e698de3478",
@@ -14120,28 +14008,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "United Parcel Service (UPS)",
-        "id": "9f817159-bf21-4594-9a6b-f0fb95f27df6",
-        "title": "Intermediate / Senior AI Engineer - Python - Rag",
-        "active": false,
-        "date_updated": 1770117149,
-        "date_posted": 1769673546,
-        "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Intermediate---Senior-AI-Engineer---Python--RAG--Agentic-AI--ADK--MCP--GCP--Vertex-AI--IBM-Watsonx_R26002515",
-        "locations": [
-            "Indiana"
-        ],
-        "company_url": "https://simplify.jobs/c/United-Parcel-Service",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -31377,26 +31243,6 @@
             "Burlington, WA"
         ],
         "company_url": "https://simplify.jobs/c/Silfab-Solar",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "US Conec",
-        "id": "6d86420d-5ecb-4ee8-b36c-351c4cd2bff8",
-        "title": "Associate Product Manager",
-        "active": false,
-        "date_updated": 1771456344,
-        "date_posted": 1769670832,
-        "url": "https://job-boards.greenhouse.io/usconec/jobs/4112451009",
-        "locations": [
-            "Hickory, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/US-Conec",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -214480,7 +214326,7 @@
         "company_name": "Microsoft",
         "id": "a6ab1df3-86d8-42bb-b220-97ec8c92cba2",
         "title": "Software Engineer - Ctj - Poly",
-        "active": true,
+        "active": false,
         "date_updated": 1781763081,
         "date_posted": 1781762785,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
@@ -227993,7 +227839,7 @@
         "company_name": "Citadel",
         "id": "35802268-4896-4571-bb5b-698214c472da",
         "title": "Quantitative Researcher \u2013 PhD Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1782889201,
         "date_posted": 1782889191,
         "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-europe/",
@@ -236242,7 +236088,7 @@
         "company_name": "Citadel",
         "id": "d724f264-a5fb-4740-bde3-38ab45368cba",
         "title": "Quantitative Research Analyst University Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1783318522,
         "date_posted": 1783318148,
         "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/",
@@ -236265,7 +236111,7 @@
         "company_name": "Citadel",
         "id": "410b28b6-b357-4b72-9480-bad83701b4cb",
         "title": "Software Engineer \u2013 University Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1783318143,
         "date_posted": 1783318138,
         "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-us/",
@@ -238415,7 +238261,7 @@
         "company_name": "Citadel",
         "id": "66cb9e6f-2e5e-4fab-be1b-bf612ad91a02",
         "title": "Quantitative Trader: Equity Quantitative Research \u2013 University Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1783433881,
         "date_posted": 1783433322,
         "url": "https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-university-graduate-us/",
@@ -250084,7 +249930,7 @@
         "company_name": "Citadel",
         "id": "703ca800-7739-4af0-ac22-fe5aa240bd03",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784067337,
         "date_posted": 1784066985,
         "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-europe/",
@@ -252629,7 +252475,7 @@
         "company_name": "Citadel",
         "id": "d49ce116-07fc-4b1f-a3b2-32d8e0b6cedc",
         "title": "Graduate Quantitative Research Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784153579,
         "date_posted": 1784153376,
         "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/",
@@ -257185,7 +257031,7 @@
         "company_name": "Citadel",
         "id": "1d1d2782-d1f8-47e7-980c-9f71c9a591cf",
         "title": "Machine Learning Researcher \u2013 PhD Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1784337481,
         "date_posted": 1784336953,
         "url": "https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-us/",
@@ -280154,7 +280000,7 @@
         "company_name": "Citadel",
         "id": "202582b8-f2ba-49d1-a082-3974fba7627a",
         "title": "Sector Data Scientist - Central Team",
-        "active": true,
+        "active": false,
         "date_updated": 1785194281,
         "date_posted": 1785190044,
         "url": "https://www.citadel.com/careers/details/sector-data-scientist-central-team/",
@@ -324130,7 +323976,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -348945,7 +348791,7 @@
         "company_name": "BP",
         "id": "f3712c28-2c57-4cc7-916e-abe3022d5a5c",
         "title": "Supply and Shipping Graduate Program - Trading",
-        "active": true,
+        "active": false,
         "date_updated": 1788153039,
         "date_posted": 1788134400,
         "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Supply--Trading--and-Shipping-Graduate-Program--Trading--Houston--TX_RQ115338",
@@ -348965,7 +348811,7 @@
         "company_name": "BP",
         "id": "efc19785-068a-452f-8009-f492a20f70a5",
         "title": "Supply, Trading & Shipping Graduate - Analytics - Trading",
-        "active": true,
+        "active": false,
         "date_updated": 1788153037,
         "date_posted": 1788134400,
         "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Illinois---Chicago/Supply--Trading--and-Shipping-Graduate-Program--Analytics--Chicago--IL_RQ115341",
@@ -349104,7 +348950,7 @@
         "company_name": "BP",
         "id": "4d0b83b5-2342-475a-b595-c3ace189ec81",
         "title": "Trading Graduate Program - Trading",
-        "active": true,
+        "active": false,
         "date_updated": 1788156625,
         "date_posted": 1788134400,
         "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/Canada---Calgary/Supply--Trading--and-Shipping-Graduate-Program--Trading---Analytics--Calgary_RQ115339",
@@ -368706,7 +368552,7 @@
         "company_name": "JP Morgan Chase",
         "id": "36773c7b-afab-43ec-96bf-1480771e13a0",
         "title": "Field Research Analyst - Field Research Analyst - Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788462742,
         "date_posted": 1782956142,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762305",
@@ -376259,7 +376105,7 @@
         "company_name": "TD Bank",
         "id": "e37ee641-33b9-4a52-bd84-23850b533624",
         "title": "Business Intelligence Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1788848092,
         "date_posted": 1788825600,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Business-Intelligence-Associate_R_1509034",
@@ -376299,7 +376145,7 @@
         "company_name": "TD Bank",
         "id": "809800c8-935e-467a-8a4c-0ddc4fbdecd9",
         "title": "Applied Machine Learning Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1788848103,
         "date_posted": 1788825600,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist--Graduate-_R_1506705",
@@ -376319,7 +376165,7 @@
         "company_name": "TD Bank",
         "id": "7e4e08f3-5ac3-4174-82b7-5885f9571bb6",
         "title": "Data Science Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1788848104,
         "date_posted": 1788825600,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Data-Science-Associate--Graduate-_R_1506343",
@@ -377461,7 +377307,7 @@
         "company_name": "RTX",
         "id": "d34bc10f-028e-49c4-be0a-bf61f2c747d6",
         "title": "Software Engineer 1 - Advanced Products and Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1788907600,
         "date_posted": 1788825600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/EOIR-Advanced-Products-and-Solutions--Software-Engineer-I--Onsite-_01872528",
@@ -387066,7 +386912,7 @@
         "company_name": "AMD",
         "id": "ed4f981d-d849-462d-834f-2fde894a4fdb",
         "title": "Engineering Lab Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1789511041,
         "date_posted": 1789510543,
         "url": "https://careers.amd.com/jobs/91874?icims=1",
@@ -390948,7 +390794,7 @@
         "company_name": "Global Medical Response",
         "id": "85265004-088c-4dad-bb31-cba0038d7879",
         "title": "Supply Service Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1789769531,
         "date_posted": 1789769267,
         "url": "https://field-careers-gmr.icims.com/jobs/58946/job?mobile=true&needsRedirect=false",
@@ -396494,7 +396340,7 @@
         "company_name": "Atlassian",
         "id": "f3d76dcb-9751-40d8-ac06-018260f42846",
         "title": "Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790288414,
         "date_posted": 1790287661,
         "url": "https://globalcareers-atlassian.icims.com/jobs/25999/machine-learning-engineer%2c-2027-graduate-u.s./job",
