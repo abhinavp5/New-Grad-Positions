@@ -1,313 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "f1a23e75-9487-4c87-bc67-42e4300171d5",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769825551,
-        "date_posted": 1769825551,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047716",
-        "locations": [
-            "Letchworth Garden City, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "cd8fe699-7fb8-4f54-a26b-52b302583781",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1769825534,
-        "date_posted": 1769825534,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047715",
-        "locations": [
-            "Dundee, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Consolidated Edison",
-        "id": "69806759-208b-461e-aa6f-403736f36a9b",
-        "title": "Project Specialist - EH&S Safety and Data Analytics",
-        "active": false,
-        "date_updated": 1769825249,
-        "date_posted": 1769825249,
-        "url": "https://ejcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1033/job/5680",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Consolidated-Edison",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ae4f748e-0797-4ed0-b442-d4c5ff67cd28",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769825508,
-        "date_posted": 1769825508,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047717",
-        "locations": [
-            "Letchworth Garden City, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "96cf96d6-cf96-4fc6-a3c3-1b67579dfea4",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769825499,
-        "date_posted": 1769825499,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047713",
-        "locations": [
-            "Letchworth Garden City, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Micron Technology",
-        "id": "3fccaea6-723a-4a5a-b4b5-4893bb90a153",
-        "title": "Equipment Technician - Aptd",
-        "active": false,
-        "date_updated": 1769827034,
-        "date_posted": 1769827034,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Equipment-Technician--APTD_JR89635",
-        "locations": [
-            "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Expedia Group",
-        "id": "d1f68e41-e767-45a5-81df-090a5f8ee1cf",
-        "title": "Mobile Engineering Graduate",
-        "active": false,
-        "date_updated": 1769826813,
-        "date_posted": 1769826813,
-        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---San-Jose/Mobile-Engineering-Graduate---2026---Austin--San-Jose--Seattle_R-98642-2",
-        "locations": [
-            "Seattle, WA",
-            "Austin, TX",
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Expedia Group",
-        "id": "a2d21763-ce11-49a9-8b45-c56a88e4f385",
-        "title": "Mobile Engineering Graduate",
-        "active": false,
-        "date_updated": 1769826812,
-        "date_posted": 1769826812,
-        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/USA---California---San-Jose/Mobile-Engineering-Graduate---2026---Austin--San-Jose--Seattle_R-98642-1",
-        "locations": [
-            "Seattle, WA",
-            "Austin, TX",
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Expedia Group",
-        "id": "94abcf76-dd05-409b-a9bd-548ba4b9408a",
-        "title": "Developer - Software",
-        "active": false,
-        "date_updated": 1769826816,
-        "date_posted": 1769826816,
-        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Canada---Quebec---Montreal/Dveloppeur--euse--de-logiciels-I-2026--Montral_R-98560-1",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Expedia Group",
-        "id": "8cd9b4b6-af3a-4e87-a627-4dce6a58a377",
-        "title": "Developer",
-        "active": false,
-        "date_updated": 1769826816,
-        "date_posted": 1769826816,
-        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Canada---Quebec---Montreal/Dveloppeur--euse--pour-l-application-mobile-I-2026--Montral_R-98643-1",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Expedia Group",
-        "id": "4707b2fa-67c3-499b-902a-b72d63594b62",
-        "title": "Software Development Engineering Graduate",
-        "active": false,
-        "date_updated": 1769826818,
-        "date_posted": 1769826818,
-        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Software-Development-Engineering-Graduate---2026---Austin--Seattle_R-98559-1",
-        "locations": [
-            "Seattle, WA",
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Expedia Group",
-        "id": "33be754b-bf81-433d-aaba-61e559b20fbe",
-        "title": "Developer - euse",
-        "active": false,
-        "date_updated": 1769826817,
-        "date_posted": 1769826817,
-        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Canada---Quebec---Montreal/Dveloppeur--euse--pour-l-application-mobile-I-2026--Montral_R-98643-2",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Expedia Group",
-        "id": "1e346158-e534-4785-9ce2-adb2fc1908ed",
-        "title": "Developer - euse",
-        "active": false,
-        "date_updated": 1769826816,
-        "date_posted": 1769826816,
-        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Canada---Quebec---Montreal/Dveloppeur--euse--de-logiciels-I-2026--Montral_R-98560",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Expedia Group",
-        "id": "0d4c2199-fd1d-4153-8f15-fff0b3816e47",
-        "title": "Graduate Software Development Engineer",
-        "active": false,
-        "date_updated": 1769826815,
-        "date_posted": 1769826815,
-        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Software-Development-Engineering-Graduate---2026---Austin--Seattle_R-98559",
-        "locations": [
-            "Seattle, WA",
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Centene",
-        "id": "25618cdb-e39c-4f82-b577-66303a6aeb9e",
-        "title": "Enterprise Platforms Product Manager",
-        "active": false,
-        "date_updated": 1769826618,
-        "date_posted": 1769826618,
-        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Enterprise-Platforms-Product-Manager_1627585",
-        "locations": [
-            "North Carolina",
-            "Missouri",
-            "Illinois"
-        ],
-        "company_url": "https://simplify.jobs/c/Centene",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Dominion Energy",
         "id": "a52b5192-a42f-4cd0-8bf3-d735cb44cba0",
@@ -7965,26 +7658,6 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/FourKites",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Domo",
-        "id": "c531842f-69c0-4bef-ba78-bc9a2bd97d13",
-        "title": "Associate Product Marketing Manager",
-        "active": false,
-        "date_updated": 1770291576,
-        "date_posted": 1769826610,
-        "url": "https://domo.wd12.myworkdayjobs.com/DomoCareers/job/American-Fork-Utah/Associate-Product-Marketing-Manager_JR100170",
-        "locations": [
-            "American Fork, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Domo",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -319721,7 +319394,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -383074,7 +382747,7 @@
         "company_name": "L3Harris Technologies",
         "id": "2cfb23ce-9c96-438b-a249-2e3cea26a7f8",
         "title": "Business Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1789521014,
         "date_posted": 1789520724,
         "url": "https://jobs.l3harris.com/job/Palm-Bay-Senior-Associate,-Business-Intelligence-Analyst-FL-32905/1430419400/?ats=successfactors",
@@ -389033,7 +388706,7 @@
         "company_name": "Rockwell Automation",
         "id": "71b68af2-1552-4b4c-82c3-a2d1bfee150d",
         "title": "Leadership Development Program - Product Engineering & Development",
-        "active": true,
+        "active": false,
         "date_updated": 1790039701,
         "date_posted": 1789948800,
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Leadership-Development-Program--Product-Engineering---Development_R26-6888-1",
@@ -392127,7 +391800,7 @@
         "company_name": "Renesas Electronics",
         "id": "97c69bfd-6ab9-43e5-b0ab-19b254c22d0b",
         "title": "Validation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790287741,
         "date_posted": 1790287700,
         "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000151689350",
@@ -394072,7 +393745,7 @@
         "company_name": "Rockwell Automation",
         "id": "8b43283a-d9a8-4051-ba77-0ead77dca4c2",
         "title": "Leadership Development Program - Product Engineering & Development",
-        "active": true,
+        "active": false,
         "date_updated": 1790039701,
         "date_posted": 1789948800,
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Leadership-Development-Program--Product-Engineering---Development_R26-6888",
