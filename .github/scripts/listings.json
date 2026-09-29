@@ -3,42 +3,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "45dff06c-e271-4cb4-b750-00919be7562d",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1769929806,
-        "date_posted": 1769929806,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047809",
-        "locations": [
-            "Maidstone, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "42c7055e-6369-47d5-ad30-498fab6248f0",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769929796,
-        "date_posted": 1769929796,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047808",
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "958a02a5-4b65-45ec-9cdb-c2cf9d180a16",
         "title": "Trading Assistant",
         "active": false,
@@ -188606,7 +188570,7 @@
         "company_name": "Rolls-Royce",
         "id": "96a486f8-a09e-4eb6-9430-055213a993c2",
         "title": "Test and Measurement Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780612561,
         "date_posted": 1780611003,
         "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Test-and-Measurement-Software-Engineer_JR6155467",
@@ -313821,7 +313785,7 @@
         "company_name": "Autodesk",
         "id": "d4ae6451-b1b2-4a63-8dc6-e456e9f5bf19",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1786661281,
         "date_posted": 1786579200,
         "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Developer_26WD100537",
@@ -331107,7 +331071,7 @@
         "company_name": "Marsh",
         "id": "a45d0443-7d8f-4499-975c-cd7b6aef159f",
         "title": "Government Health Consulting Informatics Analyst - College Program",
-        "active": true,
+        "active": false,
         "date_updated": 1787343199,
         "date_posted": 1787270400,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Analyst---College-Program-2027_R_362067",
@@ -341795,7 +341759,7 @@
         "company_name": "Allen Control Systems",
         "id": "1ea3eee5-9e41-4423-bc32-566742b27aea",
         "title": "Software Engineer - Robotics - Motion",
-        "active": true,
+        "active": false,
         "date_updated": 1787910121,
         "date_posted": 1781302113,
         "url": "https://jobs.ashbyhq.com/allen-control-systems/4495957d-f4af-493d-ba92-2c7e72e618db/application?embed=true",
@@ -344200,7 +344164,7 @@
         "company_name": "Capital One",
         "id": "64f281cc-18df-415d-bb14-075f5729e24d",
         "title": "Technology Development Program Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1788202263,
         "date_posted": 1788134400,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Development-Program-Associate---February-2027_R244320-1",
@@ -353627,7 +353591,7 @@
         "company_name": "GrayMatter Robotics",
         "id": "7c5c7640-ef36-440b-9855-25bddab1fa99",
         "title": "Robotics Engineer New Grad - Government Projects",
-        "active": true,
+        "active": false,
         "date_updated": 1788026441,
         "date_posted": 1787640288,
         "url": "https://jobs.ashbyhq.com/graymatter-robotics/0f5acd77-6b34-4444-9ddc-1ce91cad177c/application?embed=true",
@@ -368307,7 +368271,7 @@
         "company_name": "Illinois Tool Works",
         "id": "b71fdeb7-7c13-4077-942c-c0fbb4ff40e6",
         "title": "Laboratory Technician - Commercial Solutions Division",
-        "active": true,
+        "active": false,
         "date_updated": 1788513301,
         "date_posted": 1783404569,
         "url": "https://careers.itw.com/global/en/job/JR7973",
@@ -368406,7 +368370,7 @@
         "company_name": "Airbus",
         "id": "8ee251a0-5392-43ad-a9b8-9fa9dee814f4",
         "title": "Graduate Airframe Automation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788520657,
         "date_posted": 1788220800,
         "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bristol-Area/AGGP2027---Graduate-Airframe-Automation-Engineer_JR10428292",
@@ -371116,7 +371080,7 @@
         "company_name": "Marsh & McLennan",
         "id": "f80908ff-93c5-490a-939f-d31be3accb2c",
         "title": "Data & Analytics Analyst - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1788830267,
         "date_posted": 1788566400,
         "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics---Analyst---Newcastle-2027_R_364950-1",
@@ -374884,7 +374848,7 @@
         "company_name": "ASML",
         "id": "6ceff462-4e9d-4315-a2ae-5f61afa5f559",
         "title": "System Integration and Test Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789003698,
         "date_posted": 1788912000,
         "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/System-Integration-and-Test-Engineer_J-00351917",
@@ -381290,7 +381254,7 @@
         "company_name": "Charles Schwab",
         "id": "b232115b-2263-4c3f-a86a-72d12524d568",
         "title": "Senior Specialist - AI Model Validation",
-        "active": true,
+        "active": false,
         "date_updated": 1789510322,
         "date_posted": 1789510084,
         "url": "https://career-schwab.icims.com/jobs/126890/job?mobile=true&needsRedirect=false",
@@ -383792,7 +383756,7 @@
         "company_name": "Marsh",
         "id": "ee777099-bf44-4c58-9704-40fd3b6bbe5a",
         "title": "Government Health Consulting Financial Analyst - College Program 2027",
-        "active": true,
+        "active": false,
         "date_updated": 1789598539,
         "date_posted": 1787270400,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Phoenix---E-Camelback/Government-Health-Consulting-Financial-Analyst---College-Program-2027_R_362064",
@@ -386333,7 +386297,7 @@
         "company_name": "American Electric Power",
         "id": "d6a7bc72-5c75-4e08-9542-07c8f3d61e6f",
         "title": "TFS Asset Analyst Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1789770174,
         "date_posted": 1789689600,
         "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/San-Angelo-TX/TFS-Asset-Analyst-Assc_R18984",
@@ -390609,7 +390573,7 @@
         "company_name": "RTX",
         "id": "def54711-e5fe-4a9d-93e2-3d38983e8f08",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790203452,
         "date_posted": 1790121600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01873302",
@@ -391603,7 +391567,7 @@
         "company_name": "Advantage Solutions",
         "id": "3bdeb832-72eb-4459-9f0b-87d94252cb37",
         "title": "Category Insights Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1790287585,
         "date_posted": 1790287529,
         "url": "https://uscareers2-asm.icims.com/jobs/441116/job?mobile=true&needsRedirect=false",
@@ -393585,6 +393549,109 @@
             "Hawthorne, CA"
         ],
         "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Anduril",
+        "id": "7d9873a2-afea-4254-9ea2-9239888b1e16",
+        "title": "Data Analyst - Quality",
+        "active": true,
+        "date_updated": 1790662861,
+        "date_posted": 1790662837,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5251234007",
+        "locations": [
+            "Ashville, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "d523429f-8df9-4f2d-9a2b-6741778f4027",
+        "title": "Processor ASIC RTL Design Engineer - ASICS Engineering",
+        "active": true,
+        "date_updated": 1790662861,
+        "date_posted": 1790662717,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446721303445",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "OneImaging",
+        "id": "eedc9ed3-2ed7-4088-8fb7-f7a83b9ce541",
+        "title": "Associate Data Engineer",
+        "active": true,
+        "date_updated": 1790662681,
+        "date_posted": 1790662565,
+        "url": "https://job-boards.greenhouse.io/oneimaging/jobs/4423646009",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/OneImaging",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OneImaging",
+        "id": "7443e2ee-d487-4319-a352-cc1779444a7f",
+        "title": "Full Stack Associate Software Engineer",
+        "active": true,
+        "date_updated": 1790662681,
+        "date_posted": 1790662565,
+        "url": "https://job-boards.greenhouse.io/oneimaging/jobs/4423640009",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/OneImaging",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "d82876b1-0aad-423c-a0ae-8cddb479fe16",
+        "title": "Test Engineer 1 - Vision Systems",
+        "active": true,
+        "date_updated": 1790662619,
+        "date_posted": 1790553600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/Vision-Systems---Test-Engineer-I_01877795",
+        "locations": [
+            "Goleta, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
