@@ -1,159 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "6d717f77-0df8-4239-b5c3-3407363916a4",
-        "title": "Systems Engineer 2",
-        "active": false,
-        "date_updated": 1770345427,
-        "date_posted": 1770345427,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/XMLNAME-2026---Fulltime-Systems-Engineer-II---Onsite_01821700",
-        "locations": [
-            "Massachusetts",
-            "Tewksbury, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ef94e327-b2b4-400c-af16-d41ac08c6430",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770361745,
-        "date_posted": 1770361745,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045763",
-        "locations": [
-            "Edinburgh, UK",
-            "Midlothian, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Oracle",
-        "id": "e96ccd2e-5f0e-4f05-a00e-3da1d07134ad",
-        "title": "PhD Software Engineer - Database Technologies",
-        "active": false,
-        "date_updated": 1770361699,
-        "date_posted": 1770361699,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/325816",
-        "locations": [
-            "San Carlos, CA",
-            "Nashua, NH"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "a51780fe-c659-4b61-b76e-3ad2773d6c84",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770361744,
-        "date_posted": 1770361744,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048442",
-        "locations": [
-            "Tunbridge Wells, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "86346f56-4dbd-4584-8d7b-d753dd0ffdaf",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770361748,
-        "date_posted": 1770361748,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048438",
-        "locations": [
-            "Bedford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Broccoli AI",
-        "id": "6f239ba6-7cda-4f08-a6ee-8827af0eb7a4",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1770361681,
-        "date_posted": 1770361681,
-        "url": "https://jobs.ashbyhq.com/broccoli/3e59cf67-61dd-4210-b5dc-c7338fa91eba/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Broccoli-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Micron Technology",
-        "id": "34c845ce-ac74-4a28-8afb-4f0bfe3294f1",
-        "title": "Equip Maint Technician - Probe - Manassas VA",
-        "active": false,
-        "date_updated": 1770363424,
-        "date_posted": 1770363424,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Equip-Maint-Technician--Probe---Manassas-VA-_JR89647",
-        "locations": [
-            "Manassas, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software Engineering",
-        "company_name": "Motorola",
-        "id": "0aeed641-fd7a-4ba0-b7f0-86ad92c75cd3",
-        "title": "Software Engineer 1 - Quality Assurance",
-        "active": false,
-        "date_updated": 1770939625,
-        "date_posted": 1770362899,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Software-Engineer-I---SQA_R61857",
-        "locations": [
-            "Los Angeles, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "69212627-308a-4df4-99c3-9691eabd60ce",
@@ -189392,7 +189239,7 @@
         "company_name": "The Voleon Group",
         "id": "227e984c-6907-420a-919f-aa6d92ed97d6",
         "title": "Associate Member of Trading Staff",
-        "active": false,
+        "active": true,
         "date_updated": 1781168941,
         "date_posted": 1781168812,
         "url": "https://jobs.ashbyhq.com/voleon/27f604ea-306f-4c8e-a86f-de50a28a6125/application",
@@ -252770,7 +252617,7 @@
         "company_name": "Northrop Grumman",
         "id": "0c04873f-7b39-41a5-9b89-ab2769aadc55",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784682559,
         "date_posted": 1781362126,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Software-Engineer_R10234799",
@@ -276348,7 +276195,7 @@
         "company_name": "Lambda",
         "id": "0bcc64f4-6cb6-4fd6-8cd8-6972e9ef69da",
         "title": "Internal Tools & Data Product Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1785618721,
         "date_posted": 1784931788,
         "url": "https://jobs.ashbyhq.com/lambda/c0116ab6-9ec2-4189-9f07-e9dd284222b6/application?embed=true",
@@ -276699,7 +276546,7 @@
         "company_name": "Invesco",
         "id": "03f21060-0f3b-4d8c-b3e7-d49a1584cbbf",
         "title": "Software Engineer - Strategy, Innovation & Planning",
-        "active": false,
+        "active": true,
         "date_updated": 1785622599,
         "date_posted": 1785456000,
         "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Engineer--SIP_R-13716-1",
@@ -277038,7 +276885,7 @@
         "company_name": "Noblis",
         "id": "000e3171-0168-4592-b285-67bb8e84a6a9",
         "title": "Data Analyst - Network Security",
-        "active": true,
+        "active": false,
         "date_updated": 1785623401,
         "date_posted": 1785577443,
         "url": "https://careers.noblis.org/jobs/27318?icims=1",
@@ -309282,7 +309129,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -351205,7 +351052,7 @@
         "company_name": "National Research Group",
         "id": "07d9d482-be09-4dbf-872b-28ea73cd8fe2",
         "title": "Market Research Analyst or Senior Analyst - Technology Practice",
-        "active": true,
+        "active": false,
         "date_updated": 1788451574,
         "date_posted": 1786686246,
         "url": "https://careers-nrgmr.icims.com/jobs/8575/job?mobile=true&needsRedirect=false",
@@ -367275,7 +367122,7 @@
         "company_name": "Berkshire Hathaway Energy",
         "id": "0622f674-3eef-44f4-bf1e-4e2298e489dc",
         "title": "Measurement Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1789165501,
         "date_posted": 1789164883,
         "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005726",
@@ -372739,7 +372586,7 @@
         "company_name": "Oratomic",
         "id": "08b8d057-b201-4fc6-ac31-5dfc4755467e",
         "title": "AI Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1789547401,
         "date_posted": 1784596470,
         "url": "https://jobs.ashbyhq.com/oratomic/241a16be-3b49-4fb7-afce-6b3dc462f64a/application?embed=true",
@@ -375823,7 +375670,7 @@
         "company_name": "Qualcomm",
         "id": "0323e548-0c85-4a82-8973-ae8faa214117",
         "title": "Machine Learning Compiler Engineer - Machine Learning Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1789720202,
         "date_posted": 1785910569,
         "url": "https://qualcomm.eightfold.ai/careers/job/446717346550",
@@ -383715,7 +383562,7 @@
         "company_name": "Northrop Grumman",
         "id": "ece4d591-fc39-4e6b-9c60-acd545f74ec0",
         "title": "Electronic Test Technician - Level 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790645221,
         "date_posted": 1790553600,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Electronic-Test-Technician--Level-1-_R10252061",
@@ -384278,7 +384125,7 @@
         "company_name": "Northrop Grumman",
         "id": "5e53dcd6-2301-48d9-8010-f0ddb4a2a434",
         "title": "Associate Software Engineer - McClellan CA",
-        "active": true,
+        "active": false,
         "date_updated": 1790702881,
         "date_posted": 1790640000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10253394",
@@ -385664,7 +385511,7 @@
         "company_name": "Applied Materials",
         "id": "122de6b6-a5fb-47fe-a89c-8b620399e46b",
         "title": "System Engineer New Grad - Material Characterization",
-        "active": true,
+        "active": false,
         "date_updated": 1790730760,
         "date_posted": 1790640000,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-System-Engineer--Material-Characterization--PhD---Santa-Clara--CA-_R2629147",
@@ -387836,7 +387683,7 @@
         "company_name": "Intermountain Healthcare",
         "id": "1c76430c-56b2-423e-98b1-48480cb6bf26",
         "title": "Data Architect - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1790892911,
         "date_posted": 1790812800,
         "url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Lake-Park-Building/Data-Architect---Associate_R185257",
@@ -388724,7 +388571,7 @@
         "company_name": "Normal Computing",
         "id": "1005bf9b-20cc-4e7e-a770-9c2ce6ed1a37",
         "title": "Thermodynamic Hardware Resident",
-        "active": true,
+        "active": false,
         "date_updated": 1790933221,
         "date_posted": 1787127897,
         "url": "https://jobs.ashbyhq.com/normalcomputing/5d57d8b1-612d-4ee0-941e-78a032a1ada2/application?embed=true",
@@ -390557,6 +390404,89 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "03bcc190-297d-4f25-b85d-749b57da6016",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1791102297,
+        "date_posted": 1788560182,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723",
+        "locations": [
+            "Annapolis Junction, MD",
+            "Redmond, WA",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "0523ccf9-780c-4410-bcbb-60c3ebfa059b",
+        "title": "Software Engineer - Intune",
+        "active": true,
+        "date_updated": 1791102597,
+        "date_posted": 1790979174,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RoviSys",
+        "id": "d916f556-bb84-4113-9e95-d93632918d6e",
+        "title": "Software Engineer/Developer",
+        "active": true,
+        "date_updated": 1790864543,
+        "date_posted": 1790864367,
+        "url": "https://careers-additionalrovisysopportunities.icims.com/jobs/2179/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Thousand Oaks, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RoviSys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peterson Technologies",
+        "id": "073e7d98-b339-4d7a-8580-cd80afc5eb39",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1791102604,
+        "date_posted": 1785737523,
+        "url": "https://petersontechnologies.applytojob.com/apply/Y3TD9CDM0V/Junior-Software-Engineer",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Peterson-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
