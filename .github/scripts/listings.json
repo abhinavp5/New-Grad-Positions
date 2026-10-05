@@ -1,149 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Capital One",
-        "id": "55f6ec0c-6b91-46c9-b7e9-c046043f6a0d",
-        "title": "Associate - Software Engineer",
-        "active": false,
-        "date_updated": 1770423708,
-        "date_posted": 1770423708,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R235371",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Walmart",
-        "id": "ee33298a-ae4c-4e0c-9276-d7a1f0d10d48",
-        "title": "Senior \u2013 Data Analyst - Walmart Brands",
-        "active": false,
-        "date_updated": 1770423064,
-        "date_posted": 1770423064,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Hula-Building-Bentonville-AR-Home-Office/Senior--Data-Analyst---Walmart-Brands_R-2408667",
-        "locations": [
-            "Bentonville, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Walmart",
-        "id": "9971beb7-5d6d-4cae-af4c-76a6e332aa50",
-        "title": "Software Engineer 3",
-        "active": false,
-        "date_updated": 1770423054,
-        "date_posted": 1770423054,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/Software-Engineer-III_R-2398900",
-        "locations": [
-            "Bentonville, AR",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Citi",
-        "id": "7562c96a-74a9-4027-8406-5c160dedf931",
-        "title": "Entry Level Wholesale Lending Data Concern Management Analyst",
-        "active": false,
-        "date_updated": 1770422918,
-        "date_posted": 1770422918,
-        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Data-Governance-Analyst_26935260",
-        "locations": [
-            "Cheektowaga, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Citigroup",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cleveland Clinic",
-        "id": "a76e7fcf-dcd5-404f-9c2e-a06d7287e672",
-        "title": "Data Scientist 1 - Cancer Center",
-        "active": false,
-        "date_updated": 1770422732,
-        "date_posted": 1770422732,
-        "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Data-Scientist-I---Cancer-Center_312181-1",
-        "locations": [
-            "Cleveland, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Cleveland-Clinic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e7936394-46c4-4bd4-8151-66ab482d1bc1",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770430201,
-        "date_posted": 1770430201,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048556",
-        "locations": [
-            "Letchworth Garden City, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Attentive",
-        "id": "29e0328d-5474-4c99-9033-c0d9ee79f2cb",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1770429985,
-        "date_posted": 1770429985,
-        "url": "https://jobs.lever.co/attentive/ddbe5d20-7697-4720-8967-608c31c2dc71/apply",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Attentive",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "a6482392-3b2d-4e14-ab77-caf42e733c44",
@@ -5530,26 +5387,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Macys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Insulet Corporation",
-        "id": "eb6afee7-2740-4ce6-8faa-40e96cd0c390",
-        "title": "Software Engineer - Full Stack",
-        "active": false,
-        "date_updated": 1770852851,
-        "date_posted": 1770422569,
-        "url": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Guadalajara-Jalisco/Software-Engineer_REQ-2026-15050",
-        "locations": [
-            "Newton, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/Insulet-Corporation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -15902,27 +15739,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Danaher Corporation",
-        "id": "efc60c2b-ff2d-48c5-b911-095ee3f1a710",
-        "title": "Field Service Engineer",
-        "active": false,
-        "date_updated": 1771458673,
-        "date_posted": 1770422774,
-        "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/San-Diego-California-United-States/Field-Service-Engineer---San-Diego_R1302930",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Danaher-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
         ]
     },
     {
@@ -307376,7 +307192,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -367735,7 +367551,7 @@
         "company_name": "L3Harris Technologies",
         "id": "ad311ae1-a99f-4b42-ae3b-e62abc592cf9",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789415461,
         "date_posted": 1788906058,
         "url": "https://jobs.l3harris.com/job/Montreal-Software-Engineer-Queb-H4T-1G5/1427503700/?ats=successfactors",
@@ -380649,7 +380465,7 @@
         "company_name": "Welo Global",
         "id": "8e324ffa-ab4d-4c89-9ae7-ddb325e42ea7",
         "title": "Audio Rater - Generalist - English",
-        "active": true,
+        "active": false,
         "date_updated": 1790345999,
         "date_posted": 1790345571,
         "url": "https://jobs.lever.co/weloglobal/a359138d-45e6-4e40-8818-9ea8c05c516f/apply",
@@ -380685,7 +380501,7 @@
         "company_name": "Welo Global",
         "id": "eae0ee2d-9468-4d49-8f52-11431f4b81f8",
         "title": "Audio Rater - Generalist - English",
-        "active": true,
+        "active": false,
         "date_updated": 1790346004,
         "date_posted": 1790345540,
         "url": "https://jobs.lever.co/weloglobal/827dd5b6-033a-4d6b-84aa-bff3da5a4bbf/apply",
@@ -380703,7 +380519,7 @@
         "company_name": "Welo Global",
         "id": "659789b0-9058-4fe5-8e23-fa681b7a609e",
         "title": "Quality Assurance Audio Rater - British English",
-        "active": true,
+        "active": false,
         "date_updated": 1790345980,
         "date_posted": 1790345571,
         "url": "https://jobs.lever.co/weloglobal/3b07a9ab-dde4-4d79-876e-226ba4762b06/apply",
@@ -383783,7 +383599,7 @@
         "company_name": "Northrop Grumman",
         "id": "142dab0a-1dc8-4019-b25f-4e4439bafa24",
         "title": "Associate Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790749170,
         "date_posted": 1790726400,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Associate-Embedded-Software-Engineer_R10252185",
@@ -387516,7 +387332,7 @@
         "company_name": "Parasail",
         "id": "1b4b4857-a0e7-40ae-911b-03e1528c4c9f",
         "title": "Software Engineer New Grad - Forward Deploy",
-        "active": true,
+        "active": false,
         "date_updated": 1790990393,
         "date_posted": 1790990235,
         "url": "https://jobs.ashbyhq.com/parasail/da595923-4e35-4ba1-875d-383276069cf7/application?embed=true",
@@ -391644,6 +391460,283 @@
             "Remote in UK"
         ],
         "company_url": "https://simplify.jobs/c/ElevenLabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Oscar Health",
+        "id": "f0d04f2a-c1f3-4612-b51a-8721f5dfcdfc",
+        "title": "Data Scientist 1",
+        "active": true,
+        "date_updated": 1791065565,
+        "date_posted": 1786488124,
+        "url": "https://job-boards.greenhouse.io/oscar/jobs/7592274",
+        "locations": [
+            "LA",
+            "Tempe, AZ",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Oscar-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Thales",
+        "id": "d8615acc-6f32-4c16-a90c-76330c1a5550",
+        "title": "Software Engineering New Grad",
+        "active": true,
+        "date_updated": 1791162985,
+        "date_posted": 1791158400,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Templecombe/XMLNAME-2027-Software-Engineering-Graduate_R0337787",
+        "locations": [
+            "Templecombe, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Thales",
+        "id": "b95ba065-7516-4ce7-a50c-5c5f4b885131",
+        "title": "Software Engineering New Grad",
+        "active": true,
+        "date_updated": 1791162985,
+        "date_posted": 1791158400,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/XMLNAME-2027-Software-Engineering-Graduate_R0337725",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Thales",
+        "id": "8b8d05ca-3bab-4553-b6ca-13263ba03731",
+        "title": "Industrial Information Systems Graduate",
+        "active": true,
+        "date_updated": 1791162984,
+        "date_posted": 1791158400,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Belfast/XMLNAME-2027-Industrial-Information-Systems-Graduate_R0337802-1",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Thales",
+        "id": "8ad8b985-8c35-49a3-a366-99521bdaa7ea",
+        "title": "Machine Learning Apprentice - Level 6 AI Engineer",
+        "active": true,
+        "date_updated": 1791162985,
+        "date_posted": 1791158400,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Templecombe/XMLNAME-2027-Machine-Learning-Apprentice---Level-6-AI-Engineer_R0337867-1",
+        "locations": [
+            "Templecombe, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Thales",
+        "id": "48dc91fb-7f48-4f68-97fe-66a6d47d5cb2",
+        "title": "Software Engineer Apprentice",
+        "active": true,
+        "date_updated": 1791162984,
+        "date_posted": 1791158400,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/XMLNAME-2027-Software-Engineering-Apprentice---Level-6-Digital-and-Technology-Solutions-Degree-Apprenticeship_R0337707",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Thales",
+        "id": "47902906-87e8-4871-a05f-3891ed4f1960",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1791162986,
+        "date_posted": 1791158400,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Belfast/XMLNAME-2027-Software-Engineering-Graduate_R0337788",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Thales",
+        "id": "46b64b5e-23c3-447c-8286-0bdb25e5e196",
+        "title": "Digital Product Owner Apprentice",
+        "active": true,
+        "date_updated": 1791162979,
+        "date_posted": 1791158400,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/XMLNAME-2027-Digital-Product-Owner-Apprentice_R0337758",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Thales",
+        "id": "15d48065-7435-44d6-8e68-98ca1f3d5fd3",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1791162983,
+        "date_posted": 1791158400,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Glasgow/XMLNAME-2027-Software-Engineering-Graduate_R0337840",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Thales",
+        "id": "0b623a9e-bb75-4a7b-92e2-62a091be0fac",
+        "title": "Software Engineering New Grad",
+        "active": true,
+        "date_updated": 1791162982,
+        "date_posted": 1791158400,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Cheadle/XMLNAME-2027-Software-Engineering-Graduate_R0337871",
+        "locations": [
+            "Cheadle, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Thales",
+        "id": "91908e47-ddd5-4fdd-808c-fb96be1be829",
+        "title": "AI Researcher Apprentice - Level 6 Machine Learning",
+        "active": true,
+        "date_updated": 1791162974,
+        "date_posted": 1791158400,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/XMLNAME-2027-AI-Researcher-Apprentice---Level-6-Machine-Learning_R0337756-1",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "01b25e77-d266-4fd0-b7a5-b44915daf85f",
+        "title": "Semiconductor Design Engineer New Grad - DRAM Products Group",
+        "active": true,
+        "date_updated": 1791162974,
+        "date_posted": 1791072000,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Semiconductor-Design-Engineer--DRAM-Products-Group_JR114119",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Thales",
+        "id": "f6febc48-5f58-4641-9817-d7db2ff67c92",
+        "title": "Data Science Apprentice",
+        "active": true,
+        "date_updated": 1791162849,
+        "date_posted": 1791158400,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/XMLNAME-2027-Data-Science-Apprentice_R0337752",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Thales",
+        "id": "284a8b27-e818-4bcb-99d7-cf704678a08a",
+        "title": "AI Engineer Apprentice - Machine Learning",
+        "active": true,
+        "date_updated": 1791162849,
+        "date_posted": 1791158400,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/XMLNAME-2027-AI-Engineer-Apprentice---Level-6-Machine-Learning_R0337755",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
