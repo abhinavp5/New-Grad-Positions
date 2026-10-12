@@ -1,46 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Murj",
-        "id": "d77a5a39-ab3a-4aba-abae-cb81f7ff8423",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1771037023,
-        "date_posted": 1771037023,
-        "url": "https://job-boards.greenhouse.io/murj/jobs/5114652008",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Murj",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Honeywell",
-        "id": "aa03d250-d300-4b2f-9c9b-eecd756e30c4",
-        "title": "Data Analyst 1",
-        "active": false,
-        "date_updated": 1771035101,
-        "date_posted": 1771035101,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/139407",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "b3101469-bea4-42c1-b4d7-021c4582928d",
@@ -8945,26 +8905,6 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Maven-Securities",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Banco Bilbao Vizcaya Argentaria",
-        "id": "0f881a05-d2ce-487b-ae2a-6737ace68f39",
-        "title": "Data & AI Enablement - CIB Risk Unit Associate",
-        "active": false,
-        "date_updated": 1771584940,
-        "date_posted": 1771035695,
-        "url": "https://bbva.wd3.myworkdayjobs.com/BBVA/job/LONDON/Data---AI-Enablement---CIB-Risk-Unit-Associate_JR00095049-2",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Banco-Bilbao-Vizcaya-Argentaria",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -71560,7 +71500,7 @@
         "company_name": "TikTok",
         "id": "714f26ab-28dd-4f39-8b84-f3869099f68f",
         "title": "Vision Language Models/Vision Language Models Research Scientist Graduate - Trust and Safety - PhD",
-        "active": true,
+        "active": false,
         "date_updated": 1774919992,
         "date_posted": 1774919590,
         "url": "https://lifeattiktok.com/search/7594895259798325557",
@@ -296464,7 +296404,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -376727,7 +376667,7 @@
         "company_name": "Intact",
         "id": "2701a7fb-2fe3-45b1-b197-f7f80f435f82",
         "title": "Tech Development Program New Grad - Software Development & Cloud Stream",
-        "active": true,
+        "active": false,
         "date_updated": 1791028117,
         "date_posted": 1790553600,
         "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/New-Grad-Tech-Development-Program---Software-Development---Cloud-Stream_R155934",
@@ -384609,7 +384549,7 @@
         "company_name": "AstraZeneca",
         "id": "32940edd-0167-475c-9413-f85db6514344",
         "title": "Agentic AI Senior Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791324826,
         "date_posted": 1790726400,
         "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Cambridge-Kendall-SQ---MA/Agentic-AI-Sr-Engineer_R-260943-1",
@@ -387349,7 +387289,7 @@
         "company_name": "Cisco",
         "id": "7bf9fb42-cdcd-477b-9e5c-94bf3e10a60e",
         "title": "Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791412204,
         "date_posted": 1791331200,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Machine-Learning-Engineer---CTO-innovations_2026806",
@@ -388842,7 +388782,7 @@
         "company_name": "Boeing",
         "id": "84f31083-dce2-4479-9ddb-dc7c1df29cd4",
         "title": "Ground Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791498611,
         "date_posted": 1791417600,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Chantilly-VA/Ground-Software-Engineer----Millennium-Space-Systems_JR2026525674",
@@ -391090,7 +391030,7 @@
         "company_name": "Manulife Financial",
         "id": "7ba9bcef-d5ba-4840-9510-0b066fb622bb",
         "title": "GRO Program - Data",
-        "active": true,
+        "active": false,
         "date_updated": 1791623881,
         "date_posted": 1791590400,
         "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/GRO-Program---Data_JR26091145-1",
