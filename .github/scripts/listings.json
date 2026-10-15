@@ -1,80 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "9f2f5fbf-8e45-491f-88fb-14d82453e5be",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1771324881,
-        "date_posted": 1771324881,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049248",
-        "locations": [
-            "Warrington, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Xylem",
-        "id": "e458eb0d-8810-4494-bd1f-2e2013c97828",
-        "title": "Engineering Lab Technician",
-        "active": false,
-        "date_updated": 1771332394,
-        "date_posted": 1771332394,
-        "url": "https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Irvine-California/Engineering-Lab-Technician_R46434",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Xylem",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ocean Optics",
-        "id": "f80683c9-7b99-4155-86b5-85daecc424d3",
-        "title": "Field Services Engineer - South West & Midlands",
-        "active": false,
-        "date_updated": 1771334591,
-        "date_posted": 1771334591,
-        "url": "https://halma.wd3.myworkdayjobs.com/halma/job/Abingdon/Field-Services-Engineer---South-West---Midlands_JR26_000132",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Ocean-Optics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Crowdstrike",
-        "id": "0ae685f9-3f6f-4b8d-b52e-2eb72c7119cc",
-        "title": "Engineer 1 - Sensor - Ssp",
-        "active": false,
-        "date_updated": 1771336067,
-        "date_posted": 1771336067,
-        "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/Canada---Toronto/Engineer-I---Sensor--SSP--Hybrid-_R27318",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Crowdstrike",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Leidos",
         "id": "92392efd-e08f-462d-bb3e-640e3574c201",
@@ -33275,7 +33201,7 @@
         "company_name": "The Information Lab",
         "id": "12429cea-aabe-4312-8402-1ea9487e3e76",
         "title": "The Data School - Data Analyst/Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1772782410,
         "date_posted": 1772782410,
         "url": "https://jobs.lever.co/theinformationlab/5c48a12b-6906-43d7-bd95-947b562c8701/apply",
@@ -220227,7 +220153,7 @@
         "company_name": "Ralliant",
         "id": "70c26f0e-8666-401a-94c9-368f2a81c49b",
         "title": "Hardware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784039406,
         "date_posted": 1784037884,
         "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/9940",
@@ -267597,7 +267523,7 @@
         "company_name": "PNC Financial Services",
         "id": "e42a5fe5-3f15-46c9-9909-55a1df494a5e",
         "title": "Product Innovation Analyst/Associate - Development Program",
-        "active": true,
+        "active": false,
         "date_updated": 1785796438,
         "date_posted": 1785715200,
         "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Product-Innovation-Development-Program-Analyst-Associate_R230924-1",
@@ -294453,7 +294379,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -294834,7 +294760,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -326648,7 +326574,7 @@
         "company_name": "L3Harris Technologies",
         "id": "c364057d-f561-4968-919e-64ac461603d3",
         "title": "Associate Integration / Test Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1788410704,
         "date_posted": 1788202773,
         "url": "https://jobs.l3harris.com/job/Wilmington-Associate,-Integration-Test-Engineer-MA-01887/1424790500/?ats=successfactors",
@@ -372706,7 +372632,7 @@
         "company_name": "Capgemini",
         "id": "2c3fcb34-9459-42c5-8269-e05902759c20",
         "title": "Graduate Software Engineer Programme",
-        "active": false,
+        "active": true,
         "date_updated": 1790846018,
         "date_posted": 1790845822,
         "url": "https://careers.capgemini.com/job/Telford-Graduate-Software-Engineering-Programme-2027/1443168333/?ats=successfactors",
@@ -382283,7 +382209,7 @@
         "company_name": "RTX",
         "id": "6ffabb0b-4dbb-49a3-bb98-10fd85f1898b",
         "title": "Software Engineer 1 - Test",
-        "active": false,
+        "active": true,
         "date_updated": 1791297760,
         "date_posted": 1789516800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I---Test_01873961",
@@ -383709,7 +383635,7 @@
         "company_name": "Goldman Sachs",
         "id": "fa71e901-808c-47e5-ab2d-32344fa2c4e7",
         "title": "Engineering Apprentice",
-        "active": true,
+        "active": false,
         "date_updated": 1791353752,
         "date_posted": 1790201057,
         "url": "https://higher.gs.com/roles/174814?type=students",
@@ -385257,7 +385183,7 @@
         "company_name": "RTX",
         "id": "e5467def-2b54-4bda-90a0-cdb22e92de7f",
         "title": "Embedded Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791412931,
         "date_posted": 1791331200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Software-Developer-I---Onsite-_01880909",
@@ -386009,7 +385935,7 @@
         "company_name": "RTX",
         "id": "6948b98f-c979-4ba0-87d6-d3c0391df2a8",
         "title": "Embedded Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791474232,
         "date_posted": 1791417600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/Embedded-Software-Engineer-I--Onsite-_01881234",
@@ -387129,7 +387055,7 @@
         "company_name": "RTX",
         "id": "fd2239be-54e7-4647-96fb-ab88ab37e8e1",
         "title": "Embedded Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791499217,
         "date_posted": 1791417600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-POINT-MUGU-TR20--13th-St-and-S-L-St--BLDG-TR20/Embedded-Software-Engineer-I--Onsite-_01881385",
@@ -387326,7 +387252,7 @@
         "company_name": "RTX",
         "id": "60fcabe8-a994-4e16-81d7-d07d913c4f68",
         "title": "Embedded Security Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791543612,
         "date_posted": 1791417600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Security-Software-Engineer--Onsite-_01881362",
@@ -387730,7 +387656,7 @@
         "company_name": "RTX",
         "id": "abf307ea-f290-4086-8c5b-8986750b9083",
         "title": "Full Stack Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791560442,
         "date_posted": 1791504000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Full-Stack-Software-Engineer-I--Onsite-_01881492",
@@ -388491,7 +388417,7 @@
         "company_name": "Avis Budget Group",
         "id": "66f11b6c-f589-4e24-b42e-e5b740f41999",
         "title": "Business Insights Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1791585195,
         "date_posted": 1791504000,
         "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Advanced-Analytics-Analyst_R0189978-1",
@@ -390384,7 +390310,7 @@
         "company_name": "Dexcom",
         "id": "9d4bdf3b-b23d-4858-80f0-a8d8279cdc65",
         "title": "Hardware Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791871645,
         "date_posted": 1791871529,
         "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Hardware-Engineer-1_JR119889-1",
@@ -394252,6 +394178,148 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boeing",
+        "id": "080ae20a-20b7-4971-8e68-70b02946bd25",
+        "title": "Associate Simulation Software Engineer",
+        "active": true,
+        "date_updated": 1792073704,
+        "date_posted": 1792022400,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/GBR---Crawley-UK/Associate-Simulation-Software-Engineer_JR2026526967",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Zipline",
+        "id": "87734593-8df4-4646-b129-60db438b12f4",
+        "title": "Electrical Engineer - Avionics",
+        "active": true,
+        "date_updated": 1792075502,
+        "date_posted": 1792075380,
+        "url": "https://www.zipline.com/open-roles/8034605003?gh_jid=8034605003",
+        "locations": [
+            "South SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Apple",
+        "id": "4b1b1e85-54b1-4ae5-a45e-981beb99f72a",
+        "title": "Generative AI Research Engineer - Siri Speech",
+        "active": true,
+        "date_updated": 1792075502,
+        "date_posted": 1792075449,
+        "url": "https://jobs.apple.com/en-us/details/200688766",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gas South",
+        "id": "94d0210e-29ce-4a8c-9d29-b71d93621417",
+        "title": "Marketing Analyst 1",
+        "active": true,
+        "date_updated": 1792075538,
+        "date_posted": 1792075335,
+        "url": "https://job-boards.greenhouse.io/gassouth/jobs/8139174",
+        "locations": [
+            "Gainesville, FL",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gas-South",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boeing",
+        "id": "cc5f8f12-49b2-4ed7-a4ea-f15345eb95e7",
+        "title": "Associate Simulation Software Engineer",
+        "active": true,
+        "date_updated": 1792075325,
+        "date_posted": 1792022400,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Crawley-UK/Associate-Simulation-Software-Engineer_JR2026526967-1",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Arcfield",
+        "id": "e3dc3916-c56e-4402-833e-d675b99b9d0c",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1792075175,
+        "date_posted": 1792075011,
+        "url": "https://careers.arcfield.com/jobs/8780?icims=1",
+        "locations": [
+            "Rome, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Arcfield",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Western Alliance",
+        "id": "8fb0dded-666d-47fa-9cab-28bc7ada4f75",
+        "title": "Engineer 1",
+        "active": true,
+        "date_updated": 1792074638,
+        "date_posted": 1792022400,
+        "url": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Engineer-I_R14052",
+        "locations": [
+            "Dallas, TX",
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Alliance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
