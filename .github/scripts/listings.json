@@ -1,69 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Capco",
-        "id": "9b001040-8a4e-486b-94cc-8f8eeee4d577",
-        "title": "Capco Associate Talent Program",
-        "active": false,
-        "date_updated": 1771296400,
-        "date_posted": 1771296400,
-        "url": "https://job-boards.greenhouse.io/capco/jobs/7621240",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Capco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "c43480f1-8387-4261-8953-a08b84b3cdee",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1771296241,
-        "date_posted": 1771296241,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7621307",
-        "locations": [
-            "Hobbs, NM"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "05153f21-e2d5-45b1-8438-2d9f5a91f9ae",
-        "title": "Structures Test & Evaluation Instrumentation Engineer - Entry-Level or Associate",
-        "active": false,
-        "date_updated": 1771297811,
-        "date_posted": 1771297811,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Structures-Test---Evaluation-Instrumentation-Engineer--Entry-Level-or-Associate-_JR2026495208-1",
-        "locations": [
-            "Hazelwood, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "924a3f02-0e67-40de-977a-bc76c34134e0",
@@ -149575,7 +149512,7 @@
         "company_name": "TSMG",
         "id": "e03373d5-4e12-4466-bfdd-b4ad5a3b13f5",
         "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
-        "active": true,
+        "active": false,
         "date_updated": 1779829562,
         "date_posted": 1777298688,
         "url": "https://jobs.lever.co/tsmg/b80e56d1-2580-435a-9d07-d4a0ef1bb36f/apply",
@@ -174512,7 +174449,7 @@
         "company_name": "TSMG",
         "id": "f156a6ad-52ae-45dc-a74c-caf3cdb3c09c",
         "title": "Field Operator - Public Transport Survey Project",
-        "active": true,
+        "active": false,
         "date_updated": 1781172607,
         "date_posted": 1780841130,
         "url": "https://jobs.lever.co/tsmg/44a2c7e0-eaf6-4a77-8c39-84de459a065d/apply",
@@ -202807,7 +202744,7 @@
         "company_name": "Apple",
         "id": "67261498-8687-4b27-9544-79877952e397",
         "title": "Graphics Software Content Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782972543,
         "date_posted": 1782972459,
         "url": "https://jobs.apple.com/en-us/details/200669452",
@@ -268309,7 +268246,7 @@
         "company_name": "e-Careers",
         "id": "ccd120be-2e26-4630-8f25-52b5259f3e00",
         "title": "Software Developer Trainee",
-        "active": true,
+        "active": false,
         "date_updated": 1785824282,
         "date_posted": 1785824199,
         "url": "https://apply.workable.com/ecareers/j/5049C7B338/apply",
@@ -312055,7 +311992,7 @@
         "company_name": "TRUCKING PEOPLE",
         "id": "707b0824-7c02-4f4e-874d-f92052575561",
         "title": "Data Capture Technician - AI & Construction",
-        "active": true,
+        "active": false,
         "date_updated": 1787704175,
         "date_posted": 1787703931,
         "url": "https://truckingpeople.applytojob.com/apply/Q0rXW8gckn/PARTTIME-DATA-CAPTURE-TECHNICIAN-AI-CONSTRUCTION",
@@ -333980,7 +333917,7 @@
         "company_name": "TSMG",
         "id": "a6073bae-f61c-4b98-a8b6-1a59e7f2d8bd",
         "title": "Robotics AI Data Collection Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1783203121,
         "date_posted": 1783202708,
         "url": "https://jobs.lever.co/tsmg/7c3f5d3e-64a1-4295-a082-810bed1c4e84/apply",
@@ -334016,7 +333953,7 @@
         "company_name": "TSMG",
         "id": "d51d60ef-8bdc-4766-935d-2060fc97d792",
         "title": "Robotics Operations Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784698398,
         "date_posted": 1783202709,
         "url": "https://jobs.lever.co/tsmg/477504b9-27a3-4e8f-a86d-2b8d4bc8459d/apply",
@@ -334722,7 +334659,7 @@
         "company_name": "TSMG",
         "id": "9ad41187-e739-4c70-a45a-9a032dbd94b7",
         "title": "Motion Capture Participant - Robotics Project",
-        "active": true,
+        "active": false,
         "date_updated": 1773987894,
         "date_posted": 1773987894,
         "url": "https://jobs.lever.co/tsmg/7c3e0093-05e5-467f-a8be-fcc998dc8478/apply",
@@ -337644,7 +337581,7 @@
         "company_name": "Atria Group",
         "id": "fd9ff0ca-e3ee-47bf-82df-14b05f61f61c",
         "title": "Web/UI Developer - Replacement Position",
-        "active": true,
+        "active": false,
         "date_updated": 1788457523,
         "date_posted": 1771485232,
         "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/77136535",
@@ -338011,7 +337948,7 @@
         "company_name": "TSMG",
         "id": "9b672f45-f8d5-49d0-a38a-d0b4933a1d8d",
         "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
-        "active": true,
+        "active": false,
         "date_updated": 1788459329,
         "date_posted": 1779314793,
         "url": "https://jobs.lever.co/tsmg/d4e2fdea-dd37-4b57-b71e-3eb5113b22d7/apply",
@@ -338067,7 +338004,7 @@
         "company_name": "TSMG",
         "id": "e79569ba-f143-4751-a190-8623076dc3e8",
         "title": "AI/ML Data Contributor",
-        "active": true,
+        "active": false,
         "date_updated": 1788459329,
         "date_posted": 1774620667,
         "url": "https://jobs.lever.co/tsmg/0b46895a-59ab-4dbc-80ef-7ed0b4978d90/apply",
@@ -338236,7 +338173,7 @@
         "company_name": "Testing Xperts",
         "id": "f61d9f79-83cb-4f65-a724-e14eb2ca30de",
         "title": "Big Data Architect",
-        "active": true,
+        "active": false,
         "date_updated": 1788458060,
         "date_posted": 1772176176,
         "url": "https://jobs.smartrecruiters.com/TestingXperts/104755652",
@@ -340434,7 +340371,7 @@
         "company_name": "Solvarus",
         "id": "9ed60305-1668-42f5-a1ee-35ecadf6be12",
         "title": "Model Based Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788471562,
         "date_posted": 1785737606,
         "url": "https://solvarus.applytojob.com/apply/xd043E1KL2/Model-Based-System-EngineerJunior-Level",
@@ -342281,7 +342218,7 @@
         "company_name": "TSMG",
         "id": "a64277ab-2156-4ae3-ab25-a6cef93474ac",
         "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
-        "active": true,
+        "active": false,
         "date_updated": 1788499081,
         "date_posted": 1777413928,
         "url": "https://jobs.lever.co/tsmg/076f06cf-a89a-4170-b57d-060a33c0d50a/apply",
@@ -342391,7 +342328,7 @@
         "company_name": "TSMG",
         "id": "ad6f3e20-4b1f-4c9f-8642-067c181cad9e",
         "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
-        "active": true,
+        "active": false,
         "date_updated": 1788499081,
         "date_posted": 1777385122,
         "url": "https://jobs.lever.co/tsmg/712b9a1a-6520-4d67-b458-a1fdfd69dd5b/apply",
@@ -342463,7 +342400,7 @@
         "company_name": "TSMG",
         "id": "99eeda8d-bd03-44b1-900c-b91c93fcf9df",
         "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
-        "active": true,
+        "active": false,
         "date_updated": 1788499081,
         "date_posted": 1777385122,
         "url": "https://jobs.lever.co/tsmg/334eb9e3-601b-4bc1-b48d-77df8e34fbba/apply",
@@ -342499,7 +342436,7 @@
         "company_name": "TSMG",
         "id": "d42c1d86-614d-4fbc-bac0-1b3548ce792a",
         "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
-        "active": true,
+        "active": false,
         "date_updated": 1788499081,
         "date_posted": 1777385126,
         "url": "https://jobs.lever.co/tsmg/c96710ce-6f83-47d0-8f79-78024b242640/apply",
@@ -342625,7 +342562,7 @@
         "company_name": "TSMG",
         "id": "ecb471fc-b16d-4ffc-947b-a7a7ca6ea9e3",
         "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
-        "active": true,
+        "active": false,
         "date_updated": 1788499081,
         "date_posted": 1777385126,
         "url": "https://jobs.lever.co/tsmg/c186e891-93bf-4d49-af99-07e75276424c/apply",
@@ -342661,7 +342598,7 @@
         "company_name": "TSMG",
         "id": "c85eb67f-6e29-47d5-a1f5-3ce004a42432",
         "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
-        "active": true,
+        "active": false,
         "date_updated": 1788499081,
         "date_posted": 1777385127,
         "url": "https://jobs.lever.co/tsmg/93786b61-e086-40cb-ab6c-a2acce7f298b/apply",
@@ -342769,7 +342706,7 @@
         "company_name": "TSMG",
         "id": "82788a49-c262-4db8-9129-04c9850e4618",
         "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
-        "active": true,
+        "active": false,
         "date_updated": 1788499081,
         "date_posted": 1777298687,
         "url": "https://jobs.lever.co/tsmg/839fe24e-01d2-4a40-b941-a0c77371d54a/apply",
@@ -342841,7 +342778,7 @@
         "company_name": "TSMG",
         "id": "ea0f814d-a64e-4b73-b0d6-6b05c0bc2cd9",
         "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
-        "active": true,
+        "active": false,
         "date_updated": 1788499081,
         "date_posted": 1777298690,
         "url": "https://jobs.lever.co/tsmg/e016f1c8-963a-4125-b4ec-46de2feaeef4/apply",
@@ -342859,7 +342796,7 @@
         "company_name": "TSMG",
         "id": "aa695e3b-1f90-4a50-9d71-e88d0d3404d3",
         "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
-        "active": true,
+        "active": false,
         "date_updated": 1788499081,
         "date_posted": 1777298687,
         "url": "https://jobs.lever.co/tsmg/b4b0b415-7b2f-4e8d-a84f-fae1a77179fe/apply",
@@ -342877,7 +342814,7 @@
         "company_name": "TSMG",
         "id": "f0e0277b-cbca-4b93-b910-b7e4c259e9e5",
         "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
-        "active": true,
+        "active": false,
         "date_updated": 1788499081,
         "date_posted": 1777298686,
         "url": "https://jobs.lever.co/tsmg/5bfba953-b65d-417c-8641-da24a9846aad/apply",
@@ -342895,7 +342832,7 @@
         "company_name": "TSMG",
         "id": "e1733d33-a89c-4d24-90d5-ee103811daad",
         "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
-        "active": true,
+        "active": false,
         "date_updated": 1788499081,
         "date_posted": 1777298690,
         "url": "https://jobs.lever.co/tsmg/e8be46cc-28ed-458c-889c-dba89798f2b0/apply",
@@ -342931,7 +342868,7 @@
         "company_name": "TSMG",
         "id": "f660160f-9241-4266-872c-b6b8b814ab45",
         "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
-        "active": true,
+        "active": false,
         "date_updated": 1788499081,
         "date_posted": 1777298689,
         "url": "https://jobs.lever.co/tsmg/de70c40e-55dc-43a8-a86f-f32f0495a524/apply",
@@ -342967,7 +342904,7 @@
         "company_name": "TSMG",
         "id": "95d20308-2035-46e5-8d82-3bbc080b0b4e",
         "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
-        "active": true,
+        "active": false,
         "date_updated": 1788499081,
         "date_posted": 1777298688,
         "url": "https://jobs.lever.co/tsmg/c49b8f14-2f2e-4c56-9261-eca4619b6997/apply",
@@ -343021,7 +342958,7 @@
         "company_name": "TSMG",
         "id": "e5c8e999-ff8a-4550-9474-216f1fdd9054",
         "title": "AI/ML Data Contributor - Data Labeling - Content Evaluation",
-        "active": true,
+        "active": false,
         "date_updated": 1788499081,
         "date_posted": 1777298686,
         "url": "https://jobs.lever.co/tsmg/5350901e-f041-4e2f-9704-190e98d6ab1c/apply",
@@ -372843,7 +372780,7 @@
         "company_name": "Capgemini",
         "id": "2c3fcb34-9459-42c5-8269-e05902759c20",
         "title": "Graduate Software Engineer Programme",
-        "active": true,
+        "active": false,
         "date_updated": 1790846018,
         "date_posted": 1790845822,
         "url": "https://careers.capgemini.com/job/Telford-Graduate-Software-Engineering-Programme-2027/1443168333/?ats=successfactors",
@@ -376858,7 +376795,7 @@
         "company_name": "TRUCKING PEOPLE",
         "id": "defe8537-6c98-424d-8b70-9f05993f66bf",
         "title": "Mechanical Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1791111424,
         "date_posted": 1785737556,
         "url": "https://truckingpeople.applytojob.com/apply/jReMOGOhWy/Mechanical-Technician",
@@ -383159,7 +383096,7 @@
         "company_name": "TRUCKING PEOPLE",
         "id": "91c48195-3456-45d0-a2d6-3cb71c6efa03",
         "title": "Data Capture Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1791326881,
         "date_posted": 1791325337,
         "url": "https://truckingpeople.applytojob.com/apply/YyOf0n91G9/Data-Capture-Technician",
@@ -384657,7 +384594,7 @@
         "company_name": "L3Harris Technologies",
         "id": "f3b1a57c-3417-445f-a783-33548934141a",
         "title": "Associate Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1791411969,
         "date_posted": 1791410998,
         "url": "https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineering-IN-46818/1437963000/?ats=successfactors",
@@ -386011,7 +385948,7 @@
         "company_name": "TSMG",
         "id": "b4831404-8a53-4ca5-9a71-ff46c4ea8550",
         "title": "Robot Wrangler",
-        "active": true,
+        "active": false,
         "date_updated": 1791469439,
         "date_posted": 1791469171,
         "url": "https://jobs.lever.co/tsmg/801fa039-a184-4a6c-b5b4-c7fbe41e5d3a/apply",
@@ -389056,7 +388993,7 @@
         "company_name": "NVIDIA",
         "id": "82fb089b-e0cb-414d-9953-9f5d35538486",
         "title": "C++ Software Engineer New Grad - Infrastructure Tools",
-        "active": true,
+        "active": false,
         "date_updated": 1791594876,
         "date_posted": 1791504000,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431",
@@ -390041,7 +389978,7 @@
         "company_name": "RTX",
         "id": "c689ea99-a7b6-47c8-bbf7-741c83c1acca",
         "title": "Electrical Engineer 1 - RCP Hardware",
-        "active": true,
+        "active": false,
         "date_updated": 1791844525,
         "date_posted": 1791763200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Electrical-Engineer-1----RCP-Hardware--Onsite-_01881717-1",
@@ -391815,7 +391752,7 @@
         "company_name": "Rocket Lab USA",
         "id": "c40b3c97-baba-47ca-9d41-d7df35c91c27",
         "title": "Data Scientist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791929705,
         "date_posted": 1791929265,
         "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8031475003",
@@ -393860,7 +393797,7 @@
         "company_name": "Qualcomm",
         "id": "e2e74d29-f67c-4468-808e-766ee1fd7616",
         "title": "Compiler Toolchain Engineer - Compiler Toolchain Software",
-        "active": true,
+        "active": false,
         "date_updated": 1792017185,
         "date_posted": 1792017109,
         "url": "https://qualcomm.eightfold.ai/careers/job/446721572291",
@@ -393937,6 +393874,229 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Toro Company",
+        "id": "fe69c4cf-e300-4ca2-bdc0-8adbfa2a2924",
+        "title": "Electrical Design Engineer",
+        "active": true,
+        "date_updated": 1792027445,
+        "date_posted": 1791936000,
+        "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Electrical-Design-Engineer---Ditch-Witch_JR17643",
+        "locations": [
+            "Perry, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Toro-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "be0b08b4-7b53-49d9-8d1b-6e9f9fa458d8",
+        "title": "Electro-Optics Systems Engineer 1",
+        "active": true,
+        "date_updated": 1792027329,
+        "date_posted": 1791936000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Electro-Optics-Systems-Engineer-I--Onsite-_01880584",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SirenOpt",
+        "id": "a254c38f-5fae-467c-9cff-3dd2e72094f5",
+        "title": "Software Engineer - Early Career - C++ & Systems",
+        "active": true,
+        "date_updated": 1792026925,
+        "date_posted": 1792026786,
+        "url": "https://job-boards.greenhouse.io/sirenopt/jobs/4452002009",
+        "locations": [
+            "San Leandro, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SirenOpt",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mozilla",
+        "id": "2a035b52-c3c9-42cc-bcdc-5ec6580ae2bc",
+        "title": "Software Engineer - Firefox Desktop Integrations",
+        "active": true,
+        "date_updated": 1792026814,
+        "date_posted": 1792026611,
+        "url": "https://job-boards.greenhouse.io/mozilla/jobs/8268333",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mozilla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Moog",
+        "id": "a17612ff-21f3-4260-8636-fab4f5f2c660",
+        "title": "Associate Electrical Engineer / Electronic Design Engineer",
+        "active": true,
+        "date_updated": 1792026366,
+        "date_posted": 1791936000,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Phoenix-AZ/Eng--Design--Electronic_R-26-20419",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ZS",
+        "id": "de0250e1-0963-49f6-91fa-1fa33cfe8528",
+        "title": "Decision Analytics Associate",
+        "active": true,
+        "date_updated": 1792026183,
+        "date_posted": 1792026123,
+        "url": "https://jobs.zs.com/jobs/63654?icims=1",
+        "locations": [
+            "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/ZS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "5a07cf07-d410-41af-b750-23e449367969",
+        "title": "Software Engineer 1 - Next Gen Systems",
+        "active": true,
+        "date_updated": 1792028861,
+        "date_posted": 1791936000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Software-Engineer-I---Next-Gen-Systems---Onsite_01881673",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Emerson Electric",
+        "id": "bb1847f3-4c5c-40ac-9cb8-801de6d45c78",
+        "title": "EMC Engineer",
+        "active": true,
+        "date_updated": 1792028528,
+        "date_posted": 1792028500,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Emerson-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "1b0f87a8-276f-4a3a-9c55-02609b1b724d",
+        "title": "VLSI Engineer 1",
+        "active": true,
+        "date_updated": 1792028051,
+        "date_posted": 1791936000,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/VLSI-Engineer-I---0T1191_1214956",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "01344890-67d8-4104-b037-69d43c22eed3",
+        "title": "Electrical Hardware Engineer 1",
+        "active": true,
+        "date_updated": 1792028051,
+        "date_posted": 1791936000,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Electrical-Hardware-Engineer-I---0T1011_1214974",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PlusAI",
+        "id": "5e5b13de-1017-4d20-8bc9-4b807aa5e34e",
+        "title": "Senior Machine Learning Engineer - Perception",
+        "active": true,
+        "date_updated": 1792027813,
+        "date_posted": 1792027756,
+        "url": "https://jobs.lever.co/plus-2/49900d1b-1074-4372-82b0-a5f33c038a8c/apply",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Plus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
