@@ -2,106 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Pure Storage",
-        "id": "dc97139d-fa2b-4aa2-8621-a1924dcbdb75",
-        "title": "Graduate Software Engineer",
-        "active": false,
-        "date_updated": 1771380909,
-        "date_posted": 1771380909,
-        "url": "https://boards.greenhouse.io/purestorage/jobs/7258968",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Pure-Storage",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vertiv",
-        "id": "fea147d1-028d-4089-b9a9-ee4ddfa619b4",
-        "title": "Associate Product Engineer - Energy Storage",
-        "active": false,
-        "date_updated": 1771380752,
-        "date_posted": 1771380752,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20267234",
-        "locations": [
-            "Ohio"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Benchling",
-        "id": "a780c82f-c69f-40f2-a0bc-8bbd280d5c7e",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1771380823,
-        "date_posted": 1771380823,
-        "url": "https://jobs.ashbyhq.com/benchling/b3c9b312-6e2b-4dbc-9b15-0b0310d75a7f/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Benchling",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "e499377d-8b3e-4c61-9006-ff5d50f5c127",
-        "title": "Engineer Systems Modeling Simulation/Principal Engineer Systems Modeling Simulation",
-        "active": false,
-        "date_updated": 1771382784,
-        "date_posted": 1771382784,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Engineer-Systems-Modeling-Simulation-Principal-Engineer-Systems-Modeling-Simulation_R10223083",
-        "locations": [
-            "Arlington, VA",
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Qualified Health",
-        "id": "82cbb85d-1a7b-4ab2-aead-3977c9303f63",
-        "title": "Product Analyst",
-        "active": false,
-        "date_updated": 1771381654,
-        "date_posted": 1771381654,
-        "url": "https://job-boards.greenhouse.io/qualifiedhealth/jobs/5123725008",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualified-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "3S Business Corporation",
         "id": "af9b003f-eabf-4313-a486-425b39e293ca",
         "title": "Java Training - Sales force - Cognos",
@@ -12212,27 +12112,6 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Benchling",
-        "id": "13ca75f9-0d76-4939-882e-23456998a4c0",
-        "title": "Software Engineer - Full Stack - Admin & Identity Platform",
-        "active": false,
-        "date_updated": 1771930247,
-        "date_posted": 1771380824,
-        "url": "https://jobs.ashbyhq.com/benchling/982241d9-e79f-4d68-9b3d-ac4bd5940456/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Benchling",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -177272,7 +177151,7 @@
         "company_name": "Intuit",
         "id": "55a00559-28b9-41bc-b6dc-cda5714e2846",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780076703,
         "date_posted": 1776118194,
         "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720",
@@ -192860,7 +192739,7 @@
         "company_name": "GlobalFoundries",
         "id": "a2b45a60-8ee3-4c7a-9e53-e95d40fb400c",
         "title": "Tapeout Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1782771815,
         "date_posted": 1782770855,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Tapeout-Engineer--2026-New-College-Graduate_JR-2602561",
@@ -213789,24 +213668,6 @@
             "Huntsville, AL"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Goldman Sachs",
-        "id": "9f62800f-29c9-4903-ae21-b3abdaa8c9f4",
-        "title": "Quantitative Strategist - Global Banking & Markets - FICC Resource Management",
-        "active": false,
-        "date_updated": 1783664461,
-        "date_posted": 1771381096,
-        "url": "https://higher.gs.com/roles/162274",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -360334,7 +360195,7 @@
         "company_name": "ASML",
         "id": "30f2df45-bb76-4b77-9c8a-2501da1d4f1c",
         "title": "System Integration and Test Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789780322,
         "date_posted": 1789689600,
         "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/System-Integration-and-Test-Engineer---2nd-Shift_J-00352284",
@@ -362350,7 +362211,7 @@
         "company_name": "JP Morgan Chase",
         "id": "78b43528-9f63-4fe7-9fd3-b20d58a0a218",
         "title": "Market Risk Time Series Analytics Analyst/Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1790126379,
         "date_posted": 1790125762,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785457",
@@ -385006,7 +384867,7 @@
         "company_name": "RTX",
         "id": "9199e425-2144-4178-bac6-c9f1802f9f1e",
         "title": "Embedded Security Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791499216,
         "date_posted": 1791417600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-800--1151-E-Hermans-Rd--BLDG-800/Embedded-Security-Software-Engineer-I--Onsite-_01881370",
@@ -387977,7 +387838,7 @@
         "company_name": "Dexcom",
         "id": "c5f0ccae-5750-4c3e-9954-d45d8150a0a2",
         "title": "Software Development Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1791843239,
         "date_posted": 1791763200,
         "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote-California/SW-Development-Engineer-1_JR121427",
@@ -388120,7 +387981,7 @@
         "company_name": "Northrop Grumman",
         "id": "42f552b4-0d63-419f-bd45-f8c628e3ce0c",
         "title": "Digital Engineer - Pathways Program",
-        "active": true,
+        "active": false,
         "date_updated": 1791844930,
         "date_posted": 1791763200,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027--Digital-Engineer---Pathways-Program---Baltimore-MD_R10255664",
@@ -389997,7 +389858,7 @@
         "company_name": "Thales",
         "id": "cdd83d13-afda-431e-80dd-c7d9481d304d",
         "title": "Graduate AI Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1791929639,
         "date_posted": 1791849600,
         "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Orlando/AI-Engineer---Graduate_R0341851-1",
@@ -392204,7 +392065,7 @@
         "company_name": "ZS",
         "id": "de0250e1-0963-49f6-91fa-1fa33cfe8528",
         "title": "Decision Analytics Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1792026183,
         "date_posted": 1792026123,
         "url": "https://jobs.zs.com/jobs/63654?icims=1",
@@ -393112,7 +392973,7 @@
         "company_name": "CVS Health",
         "id": "0bbfc987-8101-43c5-b9ae-d4ffa7abdcc6",
         "title": "Analyst \u2013 Software Development Engineer - Conversion",
-        "active": true,
+        "active": false,
         "date_updated": 1792101961,
         "date_posted": 1792022400,
         "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/CT---Work-from-home/Analyst--Software-Development-Engineer--Conversion-_R1059972",
@@ -393478,6 +393339,90 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Applied Materials",
+        "id": "80d5322d-a777-4522-99d6-f1589e858077",
+        "title": "Product Management 2 New Grad",
+        "active": true,
+        "date_updated": 1792114063,
+        "date_posted": 1792022400,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Management-II-New-College-Grad--Master-s--Santa-Clara--CA-_R2629882",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intuit",
+        "id": "d1f50127-9dc7-4b88-a4ae-bffdc7c84812",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1792113876,
+        "date_posted": 1792113725,
+        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/102012325536",
+        "locations": [
+            "Charlotte, NC",
+            "NYC",
+            "Mountain View, CA",
+            "Atlanta, GA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blissway",
+        "id": "24187aee-3574-4cb9-8ac2-4a5b4d2b12d5",
+        "title": "Electrical or Embedded Systems Engineer",
+        "active": true,
+        "date_updated": 1792114935,
+        "date_posted": 1792114743,
+        "url": "https://jobs.ashbyhq.com/blissway/9cc9751f-5995-422b-baa9-3ac57f3d24e1/application?embed=true",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Blissway",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CoStar Group",
+        "id": "9047dd23-9bb9-4503-8b3a-3792489b8b50",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1792114790,
+        "date_posted": 1792022400,
+        "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-CA-San-Francisco/Software-Engineer-I---BizBuySell---San-Francisco--CA_R40158-1",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/CoStar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
