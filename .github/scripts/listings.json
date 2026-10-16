@@ -1,124 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "db242e4e-b693-43f2-bb68-ddf6844b2561",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1771411236,
-        "date_posted": 1771411236,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050012",
-        "locations": [
-            "Beaconsfield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "caa222f0-f34c-49f8-b43b-04ca96e375ac",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1771411259,
-        "date_posted": 1771411259,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050015",
-        "locations": [
-            "Bury Saint Edmunds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "2363936b-750a-4f4c-b508-b51237368829",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1771411237,
-        "date_posted": 1771411237,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050011",
-        "locations": [
-            "Beaconsfield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Google",
-        "id": "2215bd53-d37f-4a6e-9aca-327738b65d9c",
-        "title": "Product Manager 1",
-        "active": false,
-        "date_updated": 1771411219,
-        "date_posted": 1771411219,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/89956133074019014",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Google",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Talkdesk",
-        "id": "93db0f5f-7083-430b-a2cd-707041399319",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1771413643,
-        "date_posted": 1771413643,
-        "url": "https://careers.talkdesk.com/jobs?id=7617427&gh_jid=7617427",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Talkdesk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Baker Tilly",
-        "id": "3eefb549-9be4-4967-a097-460ddef68d93",
-        "title": "RPA Developer - Consultant",
-        "active": false,
-        "date_updated": 1771423298,
-        "date_posted": 1771423298,
-        "url": "https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-DC-Washington-DC/RPA-Developer---Consultant_JR105350",
-        "locations": [
-            "Washington, DC",
-            "Remote in USA",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Baker-Tilly",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Rockstar Games",
         "id": "4fd20f6f-0113-41b2-9c46-a51498be47d6",
@@ -85800,7 +85682,7 @@
         "company_name": "KLA",
         "id": "a107f00e-5d3d-47dc-9008-d64ff6a5124a",
         "title": "Product Development Engineer - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1775785156,
         "date_posted": 1775783153,
         "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Product-Development-Engineer--Optical-Metrology-Inspection-_2635499-2",
@@ -250955,7 +250837,7 @@
         "company_name": "Freddie Mac",
         "id": "d3680ba2-c14d-4200-9aec-fbfcf6ab8214",
         "title": "Capital Markets Analyst - Quantitative",
-        "active": true,
+        "active": false,
         "date_updated": 1785278881,
         "date_posted": 1785196800,
         "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Capital-Markets-Analyst---Quantitative_JR17437",
@@ -347855,7 +347737,7 @@
         "company_name": "Intel",
         "id": "8cbcc60f-c2ba-403d-b165-2100b0b1b85a",
         "title": "Semiconductor Packaging Research Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1789003373,
         "date_posted": 1788912000,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Semiconductor-Packaging-Research-Engineer_JR0286871",
@@ -349094,7 +348976,7 @@
         "company_name": "Omnicom Group",
         "id": "be298fbc-4563-4946-a4d7-ed14bdc367ac",
         "title": "Data Science Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1789080071,
         "date_posted": 1788998400,
         "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/Toronto-Ontario-Canada/Analyst--Data-Science_R11132",
@@ -357169,7 +357051,7 @@
         "company_name": "CoStar Group",
         "id": "fec5c82d-3e40-46de-bad2-93a1b2669f21",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789607904,
         "date_posted": 1789516800,
         "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Associate-Software-Engineer---Irvine--CA_R39736",
@@ -368563,7 +368445,7 @@
         "company_name": "Nutanix",
         "id": "eff98609-6d2a-4e7a-8b80-9c0f39ea9e99",
         "title": "Member of Technical Staff 4 - Datahub",
-        "active": true,
+        "active": false,
         "date_updated": 1790720825,
         "date_posted": 1790115639,
         "url": "https://jobs.jobvite.com/nutanix/job/odPOAfwa?nl=1&nl=1&fr=false",
@@ -377827,7 +377709,7 @@
         "company_name": "Healf",
         "id": "d97226de-1676-4ea5-8f90-a11ccae6e0bd",
         "title": "Graduate Software Engineer - Supply Chain + Operations",
-        "active": true,
+        "active": false,
         "date_updated": 1791239622,
         "date_posted": 1791239170,
         "url": "https://jobs.ashbyhq.com/healf/9ac2b799-646f-48c3-93a2-2e235644eace/application?embed=true",
@@ -387466,7 +387348,7 @@
         "company_name": "Howden",
         "id": "a762184f-4a33-462a-8220-7c82e54b505e",
         "title": "Data Analyst - Specialty",
-        "active": true,
+        "active": false,
         "date_updated": 1791819112,
         "date_posted": 1791763200,
         "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London/Data-Analyst---Specialty_R0019598-1",
@@ -389690,7 +389572,7 @@
         "company_name": "Jabil",
         "id": "bdccd310-944d-47a9-8965-cbcfb8c98da8",
         "title": "Electronic Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1791929617,
         "date_posted": 1791849600,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Electronic-Engineer-II_J2468045",
@@ -393282,6 +393164,134 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "b181d434-4520-480e-97cf-1114edbb9d60",
+        "title": "Software Engineer - Block Storage",
+        "active": true,
+        "date_updated": 1792146613,
+        "date_posted": 1792108800,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Bristol-Avon-United-Kingdom/Software-Engineer---Block-Storage-UK_1214489-1",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "82c3e17d-b1b7-4c37-9aa1-e64089e53038",
+        "title": "Software Engineer - Block Storage",
+        "active": true,
+        "date_updated": 1792154703,
+        "date_posted": 1792108800,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bristol-Avon-United-Kingdom/Software-Engineer---Block-Storage-UK_1214489-3",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capgemini",
+        "id": "774e9af4-befb-4743-b61d-6f1bc8e9a566",
+        "title": "Graduate Insights & Data Consultant",
+        "active": true,
+        "date_updated": 1792160882,
+        "date_posted": 1792160820,
+        "url": "https://careers.capgemini.com/job/London-Graduate-Insights-&-Data-Consultant-2027/1448536533/?ats=successfactors",
+        "locations": [
+            "London, UK",
+            "Cardiff, UK",
+            "Birmingham, UK",
+            "Woking, UK",
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Capgemini",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "baa00ee8-4fec-4f3e-9df3-703c01b4b803",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1792160505,
+        "date_posted": 1790553600,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer_REF088588W",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Vernova",
+        "id": "5db5ee71-523e-4e86-99ec-09801720c4ec",
+        "title": "Firmware Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1792160282,
+        "date_posted": 1792108800,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Roanoke-US-VA-3/Firmware-Engineer---Early-Career_R5055844-1",
+        "locations": [
+            "Roanoke, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Vernova",
+        "id": "32af9ea4-1196-4610-8f88-3614979eb9c7",
+        "title": "Firmware Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1792160282,
+        "date_posted": 1792108800,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Roanoke-US-VA-3/Firmware-Engineer---Early-Career_R5055842-1",
+        "locations": [
+            "Roanoke, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
