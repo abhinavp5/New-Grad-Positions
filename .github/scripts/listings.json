@@ -1,132 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amentum",
-        "id": "d55d6241-35aa-4a28-982a-ac3a6e48fa27",
-        "title": "Electro/Mech Technician 1",
-        "active": false,
-        "date_updated": 1771497674,
-        "date_posted": 1771497674,
-        "url": "https://jacobs.taleo.net/careersection/ex3/jobdetail.ftl?job=ADV000CKH",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "WTW",
-        "id": "0fe64760-3e3f-4b6f-a607-94458b47a7d5",
-        "title": "Investment Analyst - Wealth Management",
-        "active": false,
-        "date_updated": 1771497442,
-        "date_posted": 1771497442,
-        "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202601176",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/WTW",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "7d570136-3dec-407f-913d-e912cbaabee1",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1771497079,
-        "date_posted": 1771497079,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050142",
-        "locations": [
-            "Chesterfield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Axon",
-        "id": "5e01b73c-fb23-4866-a4da-8999702383fb",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1772431282,
-        "date_posted": 1771498962,
-        "url": "https://job-boards.greenhouse.io/axon/jobs/7620148003",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Axon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Uline",
-        "id": "ed69d4ae-c262-4c29-a8d3-5e3a988b5aab",
-        "title": "Corporate Analyst Rotational Program",
-        "active": false,
-        "date_updated": 1771503550,
-        "date_posted": 1771503550,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Corporate-Analyst-Rotational-Program_R261548",
-        "locations": [
-            "Kenosha, WI",
-            "Waukegan, IL",
-            "Morton Grove, IL",
-            "Pleasant Prairie, WI",
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Uline",
-        "id": "9778d507-4a7e-4e71-9cbb-06e2f901ed13",
-        "title": "Associate Product Manager",
-        "active": false,
-        "date_updated": 1771503550,
-        "date_posted": 1771503550,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Associate-Product-Manager_R261550-2",
-        "locations": [
-            "Kenosha, WI",
-            "Waukegan, IL",
-            "Morton Grove, IL",
-            "Pleasant Prairie, WI",
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1771505037,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -268789,7 +268662,7 @@
         "company_name": "Tesla",
         "id": "a449ff56-af7b-46d9-9c1b-73ccb36515e8",
         "title": "Data Collection Operator - Optimus",
-        "active": true,
+        "active": false,
         "date_updated": 1785997154,
         "date_posted": 1785996964,
         "url": "https://www.tesla.com/careers/search/job/279362",
@@ -270910,7 +270783,7 @@
         "company_name": "Avalore",
         "id": "d70d2957-012d-4805-b794-0d5527276f27",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786083841,
         "date_posted": 1786083522,
         "url": "https://apply.workable.com/avalore/j/F157AC3B65/apply",
@@ -273244,7 +273117,7 @@
         "company_name": "Capula",
         "id": "d6debf76-4ef7-44a8-9332-487d370d73c9",
         "title": "Quantitative Strategist",
-        "active": true,
+        "active": false,
         "date_updated": 1786152061,
         "date_posted": 1786151944,
         "url": "https://apply.workable.com/capula-investment-management-ltd/j/9582487D5F/apply",
@@ -273454,7 +273327,7 @@
         "company_name": "Flexcompute",
         "id": "78eb2dca-9b33-4b7e-a27e-6ac21fe1b6ff",
         "title": "Software Engineer - Infrastructure",
-        "active": false,
+        "active": true,
         "date_updated": 1786151881,
         "date_posted": 1786151872,
         "url": "https://apply.workable.com/flexcompute/j/143ECD1848/apply",
@@ -273608,7 +273481,7 @@
         "company_name": "AMAX",
         "id": "aec682d0-cef7-4fab-b024-14111b89bd50",
         "title": "Junior Systems Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1786151994,
         "date_posted": 1786151811,
         "url": "https://apply.workable.com/amax-1/j/FE4BA3799A/apply",
@@ -276782,7 +276655,7 @@
         "company_name": "Lovingly",
         "id": "9214f3c7-4f3c-4ef4-928e-dc33ef5431a3",
         "title": "AI-First Multipotentialite",
-        "active": true,
+        "active": false,
         "date_updated": 1786412095,
         "date_posted": 1786411910,
         "url": "https://apply.workable.com/lovingly/j/075ADF9303/apply",
@@ -335442,7 +335315,7 @@
         "company_name": "Systems Planning and Analysis",
         "id": "c9e8fbe2-493b-49f9-86ad-7fcf74ee4a85",
         "title": "Associate Systems Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1788473545,
         "date_posted": 1785881398,
         "url": "https://spa.jibeapply.com/jobs/23161?icims=1",
@@ -349939,7 +349812,7 @@
         "company_name": "Arena Investors I Quaestor Advisors",
         "id": "c6d3e0f2-da16-4e23-8f90-55eac356aa0b",
         "title": "Trading Operations Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1789416867,
         "date_posted": 1789416682,
         "url": "https://apply.workable.com/arena-investors-lp/j/AA08A73D44/apply",
@@ -355472,7 +355345,7 @@
         "company_name": "Stafford Gray",
         "id": "3e987eca-2504-4d6a-9d3c-ad762da4a132",
         "title": "Full Stack .NET Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1789684563,
         "date_posted": 1789683591,
         "url": "https://apply.workable.com/staffordgray/j/13A72A78A0/apply",
@@ -360232,7 +360105,7 @@
         "company_name": "Grayce",
         "id": "d1d59849-acaf-4fac-8763-72a6042a75f8",
         "title": "Graduate Software Engineer - Bridgend",
-        "active": false,
+        "active": true,
         "date_updated": 1790156162,
         "date_posted": 1790155943,
         "url": "https://apply.workable.com/grayce/j/1789116104/apply",
@@ -365454,7 +365327,7 @@
         "company_name": "RTX",
         "id": "ccabd2dc-da52-47d9-b9e4-1c5478b1406f",
         "title": "FPGA/ASIC Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790721416,
         "date_posted": 1790640000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/FPGA-ASIC-Engineer-I_01876996",
@@ -369543,7 +369416,7 @@
         "company_name": "The Shipyard",
         "id": "a1d6bb03-a414-4e24-ac80-2695dec0de90",
         "title": "Digital Strategy Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1790980246,
         "date_posted": 1790979563,
         "url": "https://apply.workable.com/theshipyard/j/631FEEBBCC/apply",
@@ -371629,7 +371502,7 @@
         "company_name": "Saalex",
         "id": "9f59c214-a78e-4f90-a7c4-6d48fb988dc4",
         "title": "Computer Systems Analyst 1 - Geospatial - Technical Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1791110098,
         "date_posted": 1785979092,
         "url": "https://apply.workable.com/saalex/j/B90591BEE2/apply",
@@ -384028,7 +383901,7 @@
         "company_name": "Xcel Energy",
         "id": "b80904c4-3f7d-4e91-b636-fd2b0c6ac3ff",
         "title": "Associate Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1791584462,
         "date_posted": 1791504000,
         "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Associate-Data-Scientist_JR116914-2",
@@ -384708,7 +384581,7 @@
         "company_name": "Dexcom",
         "id": "c5f0ccae-5750-4c3e-9954-d45d8150a0a2",
         "title": "Software Development Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791843239,
         "date_posted": 1791763200,
         "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote-California/SW-Development-Engineer-1_JR121427",
@@ -386045,7 +385918,7 @@
         "company_name": "Siemens",
         "id": "67257e1c-0c0e-4806-be26-e049ce9d65d1",
         "title": "Digital Degree Apprentice",
-        "active": true,
+        "active": false,
         "date_updated": 1791930169,
         "date_posted": 1791929813,
         "url": "https://siemens.avature.net/en_US/externaljobs/JobDetail/518834",
@@ -386227,7 +386100,7 @@
         "company_name": "Boeing",
         "id": "a5785364-41bc-49ce-9e8f-78f6b1bcae79",
         "title": "Entry Level ASIC/FPGA Design Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791929717,
         "date_posted": 1791849600,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Entry-Level-ASIC-FPGA-Design-Verification-Engineer_JR2026524660-1",
@@ -387353,7 +387226,7 @@
         "company_name": "Northrop Grumman",
         "id": "ecd7a692-695c-44a9-924e-e9eb773917b8",
         "title": "Associate Software Embedded Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791959630,
         "date_posted": 1791936000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-Associate-S-W-Embedded-Engineer---Annapolis-MD_R10254909",
@@ -391223,7 +391096,7 @@
         "company_name": "Northrop Grumman",
         "id": "b5a395ae-42f1-46ba-a288-7d34298231bc",
         "title": "Associate Software Engineer - Pathways",
-        "active": true,
+        "active": false,
         "date_updated": 1792190280,
         "date_posted": 1792108800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
@@ -391715,5 +391588,236 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Keycafe",
+        "id": "475be3c4-1e19-4293-882c-3195a5abb14e",
+        "title": "Hardware Development Associate",
+        "active": true,
+        "date_updated": 1792225981,
+        "date_posted": 1788906910,
+        "url": "https://apply.workable.com/keycafe/j/4708F2848E/apply",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Keycafe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Avalore",
+        "id": "7ca735aa-9419-4bb3-aee2-59ff92b695e6",
+        "title": "Innovation Engineer",
+        "active": true,
+        "date_updated": 1792227061,
+        "date_posted": 1788218944,
+        "url": "https://apply.workable.com/avalore/j/EF492F2BE9/apply",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Avalore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CVector",
+        "id": "5e801b15-781c-4f79-8630-11096eed5278",
+        "title": "Full Stack Software Engineer 1 or 2",
+        "active": true,
+        "date_updated": 1792226381,
+        "date_posted": 1786411959,
+        "url": "https://apply.workable.com/cvector/j/0D0DE27033/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/CVector",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DataVisor",
+        "id": "3ff58ee3-57ee-4c32-bd77-33c440963c04",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1792225801,
+        "date_posted": 1785277003,
+        "url": "https://apply.workable.com/datavisor-jobs/j/95134ABE3C/apply",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/DataVisor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Galatea Associates",
+        "id": "dc1736a5-1d63-4f9d-b1cb-88598e3fa554",
+        "title": "Entry-Level Financial Software Consultant",
+        "active": true,
+        "date_updated": 1792229222,
+        "date_posted": 1791929737,
+        "url": "https://jobs.lever.co/galatea-associates/d5bceaf1-0137-4cc3-9353-72cc7a4f937b/apply",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Galatea-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Fasanara",
+        "id": "9840a2d2-8fcf-4fa0-874f-407b2df36050",
+        "title": "High-Frequency Trading Operations Engineer",
+        "active": true,
+        "date_updated": 1792227601,
+        "date_posted": 1791498548,
+        "url": "https://apply.workable.com/fasanara/j/188FC5244B/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Fasanara",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Mustard Systems",
+        "id": "9fd33762-2f2f-4dbc-824b-dac8b43af020",
+        "title": "Cricket Trader",
+        "active": true,
+        "date_updated": 1792227795,
+        "date_posted": 1790345795,
+        "url": "https://apply.workable.com/mustard-systems/j/E5B69CE521/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Mustard-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Saalex",
+        "id": "c962eb59-df2d-4d2d-8188-daeb44ec9f83",
+        "title": "Engineering Technician 1",
+        "active": true,
+        "date_updated": 1792228930,
+        "date_posted": 1788477132,
+        "url": "https://apply.workable.com/saalex/j/B4101AB996/apply",
+        "locations": [
+            "Ridgecrest, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Saalex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Avalore",
+        "id": "9a019136-13e7-4685-8187-00ec9d7fd140",
+        "title": "Systems Engineer",
+        "active": true,
+        "date_updated": 1792227795,
+        "date_posted": 1788218944,
+        "url": "https://apply.workable.com/avalore/j/D96DEC462B/apply",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Avalore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CloudFactory",
+        "id": "949230dd-d208-43ca-89c6-2f0fca003a69",
+        "title": "Construction Reality Capture Technician",
+        "active": true,
+        "date_updated": 1792227601,
+        "date_posted": 1786083745,
+        "url": "https://apply.workable.com/cloudfactory/j/A27D7761F8/apply",
+        "locations": [
+            "Abilene, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CloudFactory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Starling Bank",
+        "id": "de77aed1-837d-409a-976d-bc4eabea5bda",
+        "title": "iOS Engineer",
+        "active": true,
+        "date_updated": 1792229415,
+        "date_posted": 1788966444,
+        "url": "https://apply.workable.com/starling-bank/j/0A13F0BEE0/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Starling-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Accuray",
+        "id": "cae61d2f-04b5-43ee-a03b-5b8b983c1b88",
+        "title": "Motion Controls & Robotics Software Engineer",
+        "active": true,
+        "date_updated": 1792238231,
+        "date_posted": 1790899200,
+        "url": "https://accuray.wd5.myworkdayjobs.com/external/job/Madison-WI/Motion-Controls---Robotics-Software-Engineer_3259-1",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Accuray",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
