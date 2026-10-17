@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "GAP",
-        "id": "3608ddfb-15c8-4e20-ba59-6663959e1dbe",
-        "title": "Assistant Merchandiser - Women's",
-        "active": false,
-        "date_updated": 1771459479,
-        "date_posted": 1771459479,
-        "url": "https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/SF---2-Folsom/Assistant-Merchandiser--Women-s_R206789",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/GAP",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Atria Group",
         "id": "8c724b23-b84c-4c2a-899a-7d67be816fb9",
@@ -3225,26 +3207,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "8b67f1b8-3ca5-4b37-b38c-b0a972832ca3",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1771467935,
-        "date_posted": 1771467935,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7630603",
-        "locations": [
-            "Newark, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Fora",
         "id": "6aa1d6a7-e8f7-498a-b465-07ae95d5d0fa",
@@ -4179,26 +4141,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "EquipmentShare",
-        "id": "b72b7d26-b0b8-45a4-92b8-0026293f2ecb",
-        "title": "Telematics Installer",
-        "active": false,
-        "date_updated": 1771467935,
-        "date_posted": 1771467935,
-        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7630584",
-        "locations": [
-            "Gainesville, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Capital One",
         "id": "6755d625-6c73-4cdc-bf3d-098fafbdb2d9",
@@ -4375,26 +4317,6 @@
             "La Porte, TX"
         ],
         "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "0f27de0d-edf6-4740-9e39-467903e2f40e",
-        "title": "Entry Level Software Engineer - Developer",
-        "active": false,
-        "date_updated": 1771469141,
-        "date_posted": 1771469141,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Entry-Level-Software-Engineer---Developer_JR2026497210-1",
-        "locations": [
-            "Tukwila, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -293969,7 +293891,7 @@
         "company_name": "Nexthop.ai",
         "id": "4a0ac2bd-9aed-42eb-88de-3663340e79b5",
         "title": "Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1787033897,
         "date_posted": 1787033768,
         "url": "https://nexthopai.bamboohr.com/careers/24/",
@@ -330747,7 +330669,7 @@
         "company_name": "Cisco",
         "id": "9a88516a-75d8-4bc7-92fe-82826eff3fab",
         "title": "Electrical Engineer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1788436204,
         "date_posted": 1786602573,
         "url": "https://careers.cisco.com/global/en/job/2020283",
@@ -353719,7 +353641,7 @@
         "company_name": "RTX",
         "id": "1b593633-5171-4cb0-b05b-59237123978e",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789539384,
         "date_posted": 1789430400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineer-I--Onsite-_01874924",
@@ -355458,7 +355380,7 @@
         "company_name": "ALTEN Mexico",
         "id": "2af896c9-51fc-4c26-a5f9-cb9fbf030bae",
         "title": "HIL Testing Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789636129,
         "date_posted": 1789635881,
         "url": "https://jobs.smartrecruiters.com/ALTEN/744000150043430",
@@ -384477,7 +384399,7 @@
         "company_name": "Helios WorldWide",
         "id": "55d3dd4c-a153-4f94-9eed-f115d0face66",
         "title": "Junior Creative Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791585195,
         "date_posted": 1791584521,
         "url": "https://heliosww.applytojob.com/apply/rnBU1p1XkZ/Junior-Creative-Engineer",
@@ -384621,7 +384543,7 @@
         "company_name": "Roche",
         "id": "4ecfb8f2-76bb-4ded-9cc1-4879678cb4eb",
         "title": "Graduate Health Data Analyst New Grad - Access and Innovation",
-        "active": true,
+        "active": false,
         "date_updated": 1791585128,
         "date_posted": 1791504000,
         "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Burgess-Hill/Early-in-Career-Development-Programme---Access-and-Innovation-2027_202610-125033",
@@ -387765,7 +387687,7 @@
         "company_name": "AVEVA",
         "id": "2500e2f7-e88f-499d-aa0c-99fcc6697cb0",
         "title": "Cloud Operations & Infrastructure Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1791929172,
         "date_posted": 1791849600,
         "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/Cloud-Operations---Infrastructure-Graduate---USA_R014948-2",
@@ -388172,7 +388094,7 @@
         "company_name": "Jabil",
         "id": "18d884be-500d-4ea1-8486-4edd9f37b5b7",
         "title": "AI and Data Solutions Developer - Global Supply Chain",
-        "active": true,
+        "active": false,
         "date_updated": 1791958239,
         "date_posted": 1791936000,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Solutions-Developer-Global-Supply-Chain_J2467953",
@@ -392486,6 +392408,46 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "e6dd9201-55c5-46cf-a0bc-b9d1b81d9359",
+        "title": "Systems Development Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1792200421,
+        "date_posted": 1792200310,
+        "url": "https://amazon.jobs/en/jobs/10581943/systems-development-engineer-early-career-2026-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Faraday Future",
+        "id": "4b7d9212-ac43-4c9a-8377-465403c23615",
+        "title": "SDK Platform Engineer",
+        "active": true,
+        "date_updated": 1792199374,
+        "date_posted": 1792199187,
+        "url": "https://job-boards.greenhouse.io/faradayfuture/jobs/8036218003",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Faraday-Future",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
