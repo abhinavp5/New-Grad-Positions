@@ -1,165 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Equip Health",
-        "id": "e517a70f-d995-4b36-8f7d-dc3e710fd608",
-        "title": "Product Support Associate",
-        "active": false,
-        "date_updated": 1771553650,
-        "date_posted": 1771553650,
-        "url": "https://jobs.ashbyhq.com/equip/56316fdb-35e1-4fa2-a23b-d512fda9388a/application",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Equip-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Electronic Arts",
-        "id": "4833c303-bbd4-455b-9390-6d18c567f60c",
-        "title": "Lead Scripter",
-        "active": false,
-        "date_updated": 1771553652,
-        "date_posted": 1771553652,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Lead-Scripter/212835",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Applied Materials",
-        "id": "8016ba22-80d3-4fbe-86e5-b593c075bd70",
-        "title": "Systems Engineer New College Grad - Doctorate Degree - Santa Clara, CA",
-        "active": false,
-        "date_updated": 1771556003,
-        "date_posted": 1771556003,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer-New-College-Grad---Doctorate-Degree--Santa-Clara--CA-_R2518847",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Stryker",
-        "id": "f3e8742b-d07b-4c4c-a8d0-97b232ff91f1",
-        "title": "Portfolio Associate - Upper Extremities",
-        "active": false,
-        "date_updated": 1771555044,
-        "date_posted": 1771555044,
-        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Columbia-City-Indiana/Portfolio-Associate--Upper-Extremities_R559746",
-        "locations": [
-            "Columbia City, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Stryker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CAE",
-        "id": "b3e26bcc-b36f-43bf-a5a5-4c3c48cb75f9",
-        "title": "Technician 1",
-        "active": false,
-        "date_updated": 1771555114,
-        "date_posted": 1771555114,
-        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Orlando/Technician-I_119846",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/0584b8e0-c24c-4b9b-9e06-b2484d8779bf",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Johnson & Johnson",
-        "id": "9c64e3ca-8955-4640-b274-b2880ad23128",
-        "title": "Postdoctoral Scientist Data Science AI/ML & DH",
-        "active": false,
-        "date_updated": 1771555307,
-        "date_posted": 1771555307,
-        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cambridge-Massachusetts-United-States-of-America/Postdoctoral-Scientist-Data-Science-AI-ML---DH_R-058941-1",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Expedia Group",
-        "id": "d71e76af-5fa6-469f-b9a5-992df66e6b01",
-        "title": "Software Development Engineer 1",
-        "active": false,
-        "date_updated": 1771554674,
-        "date_posted": 1771554674,
-        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-102463-2",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Expedia Group",
-        "id": "9d0be779-7d1d-42b9-b26a-e895e46f136e",
-        "title": "Software Development Engineer 1",
-        "active": false,
-        "date_updated": 1771554676,
-        "date_posted": 1771554676,
-        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-102463",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Collabera",
         "id": "f02d43f1-59ff-4696-9bb8-a4fbe1257d4a",
@@ -287582,7 +287423,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -287963,7 +287804,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -319281,7 +319122,7 @@
         "company_name": "Citi",
         "id": "45f17891-1cd5-45a2-b597-b2e563ab034b",
         "title": "Quantitative Analysis Associate - Markets",
-        "active": true,
+        "active": false,
         "date_updated": 1788405846,
         "date_posted": 1788220800,
         "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Markets--Quantitative-Analysis--Full-Time-Associate--London--2027_26984782",
@@ -376745,7 +376586,7 @@
         "company_name": "Goldman Sachs",
         "id": "fa71e901-808c-47e5-ab2d-32344fa2c4e7",
         "title": "Engineering Apprentice",
-        "active": true,
+        "active": false,
         "date_updated": 1791353752,
         "date_posted": 1790201057,
         "url": "https://higher.gs.com/roles/174814?type=students",
@@ -389974,6 +389815,161 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leonardo",
+        "id": "f9df073e-edde-4591-9140-29bb70dd3691",
+        "title": "Graduate Test Software Engineer",
+        "active": true,
+        "date_updated": 1792286821,
+        "date_posted": 1792281600,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Graduate-Test-Software-Engineer_R0034203-1",
+        "locations": [
+            "Edinburgh, UK",
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leonardo",
+        "id": "7a6a2f28-3177-4dc9-b3e0-afbf00b2767c",
+        "title": "Graduate Electronics Engineer",
+        "active": true,
+        "date_updated": 1792286821,
+        "date_posted": 1792281600,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Southampton/Graduate-Electronics-Engineer_R0034208-1",
+        "locations": [
+            "Southampton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leonardo",
+        "id": "5b918ad5-6661-46c0-8542-0b0aacd40eb4",
+        "title": "Graduate Test Systems Engineer",
+        "active": true,
+        "date_updated": 1792286821,
+        "date_posted": 1792281600,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Graduate-Test-Systems-Engineer_R0033992",
+        "locations": [
+            "Edinburgh, UK",
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leonardo",
+        "id": "23cf3ad6-7391-418f-9eec-82833c40f699",
+        "title": "Graduate Hardware Engineer",
+        "active": true,
+        "date_updated": 1792286821,
+        "date_posted": 1792281600,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Graduate-Hardware-Engineer_R0032902",
+        "locations": [
+            "Luton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leonardo",
+        "id": "58d87a8c-c43e-45b4-ae0a-af7f7a6421eb",
+        "title": "Graduate Firmware Engineer",
+        "active": true,
+        "date_updated": 1792286821,
+        "date_posted": 1792281600,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Graduate-Firmware-Engineer_R0032900",
+        "locations": [
+            "Luton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leonardo",
+        "id": "3c77f02f-7923-4b6b-8141-fd3a96423118",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1792286821,
+        "date_posted": 1792281600,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Graduate-Software-Engineer_R0033861",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leonardo",
+        "id": "3f07161b-0b55-4770-8ab2-f2bb4ae5a2c9",
+        "title": "Graduate Electronics Engineer",
+        "active": true,
+        "date_updated": 1792286821,
+        "date_posted": 1792281600,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Graduate-Electronics-Engineer_R0034140",
+        "locations": [
+            "Basildon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
