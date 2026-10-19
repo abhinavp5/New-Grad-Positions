@@ -1,42 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "b6d0bf9c-acd9-4ee1-83d7-aff9f924990f",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1771657727,
-        "date_posted": 1771657727,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050480",
-        "locations": [
-            "Norwich, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d5d04fda-3015-4669-8ac4-330215e18d8f",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1771657711,
-        "date_posted": 1771657711,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049292",
-        "locations": [
-            "Norwich, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Silfab Solar",
         "id": "dcf53825-b9f9-4906-aa5c-605ace415612",
@@ -212529,7 +212493,7 @@
         "company_name": "Cisco",
         "id": "7a41b37b-bd8a-4927-901d-15da9744cdcf",
         "title": "Failure Analysis Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784154435,
         "date_posted": 1784153503,
         "url": "https://careers.cisco.com/global/en/job/2018947",
@@ -219615,7 +219579,7 @@
         "company_name": "Cisco",
         "id": "12dd10fa-f03d-4a52-a087-77079f0680c4",
         "title": "Failure Analysis Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784586424,
         "date_posted": 1784073600,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Failure-Analysis-Engineer_2018947",
@@ -284157,7 +284121,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -284538,7 +284502,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -305094,7 +305058,7 @@
         "company_name": "Fospha",
         "id": "5a8c2ad6-24ca-439a-bee5-659a55c1f9a7",
         "title": "Graduate Marketing Scientist - Marketing Science",
-        "active": true,
+        "active": false,
         "date_updated": 1787843919,
         "date_posted": 1787781197,
         "url": "https://job-boards.greenhouse.io/fosphamarketing/jobs/8146708",
@@ -320090,7 +320054,7 @@
         "company_name": "Dexmate",
         "id": "22df8c5c-0e8b-4326-8957-e318533de76a",
         "title": "Robotics Data Collection Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1786754521,
         "date_posted": 1786754441,
         "url": "https://jobs.ashbyhq.com/dexmate/e92a4b08-1123-47f6-9d3d-3fc67fcdb9df/application?embed=true",
@@ -350154,7 +350118,7 @@
         "company_name": "CACI",
         "id": "eae93800-40a8-4227-9f19-052dc7031c20",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789684029,
         "date_posted": 1789603200,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/Lisle-IL-US/Software-Engineer_332199",
@@ -356483,7 +356447,7 @@
         "company_name": "CCC Intelligent Solutions",
         "id": "eca8ea10-de85-4351-8b0b-063c1196b4da",
         "title": "Financial Intelligence Analyst - Financial Intelligence",
-        "active": true,
+        "active": false,
         "date_updated": 1790287585,
         "date_posted": 1790287585,
         "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Financial-Intelligence-Analyst_0014859",
@@ -362352,7 +362316,7 @@
         "company_name": "Fospha",
         "id": "230fb8ba-26d1-49ac-a49a-8126c1503213",
         "title": "Graduate Marketing Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1790847207,
         "date_posted": 1790846926,
         "url": "https://job-boards.greenhouse.io/fosphamarketing/jobs/8245353",
@@ -373278,7 +373242,7 @@
         "company_name": "Goldman Sachs",
         "id": "fa71e901-808c-47e5-ab2d-32344fa2c4e7",
         "title": "Engineering Apprentice",
-        "active": true,
+        "active": false,
         "date_updated": 1791353752,
         "date_posted": 1790201057,
         "url": "https://higher.gs.com/roles/174814?type=students",
@@ -381407,7 +381371,7 @@
         "company_name": "AbbVie",
         "id": "dbb839ad-3507-43c5-980d-660e142114dd",
         "title": "Integration Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791929172,
         "date_posted": 1791929137,
         "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016088967",
@@ -381585,7 +381549,7 @@
         "company_name": "L3Harris Technologies",
         "id": "5402edff-285f-4440-9371-4a38361a8513",
         "title": "Associate Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1791941975,
         "date_posted": 1791941819,
         "url": "https://jobs.l3harris.com/job/Chantilly-Associate,-Software-Engineering-VA-20151/1439515500/?ats=successfactors",
@@ -385891,7 +385855,7 @@
         "company_name": "T-Mobile",
         "id": "261d38fb-d89b-4d4e-8f69-57bb0c3586f9",
         "title": "Associate Engineer - Software - Mobile App Development",
-        "active": true,
+        "active": false,
         "date_updated": 1792189804,
         "date_posted": 1792108800,
         "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Associate-Engineer---Software---Mobile-App-Development_REQ370392-1",
@@ -386756,6 +386720,87 @@
         "date_updated": 1792374360,
         "date_posted": 1792281600,
         "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California-United-States-of-America/VLSI-Engineer-I--_1214985",
+        "locations": [
+            "Roseville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "OSF HealthCare",
+        "id": "5a59f0ee-1571-4abb-9f4a-04fb4914313a",
+        "title": "Data Engineer 1",
+        "active": true,
+        "date_updated": 1792391265,
+        "date_posted": 1792391133,
+        "url": "https://www.osfcareers.org/jobs/112750?icims=1",
+        "locations": [
+            "Peoria, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/OSF-HealthCare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "316c2d00-0f12-44d3-a120-dec7324caeff",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1792390739,
+        "date_posted": 1792390616,
+        "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1440992800/?ats=successfactors",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Conviva",
+        "id": "6bd34346-4e1e-4d5b-8ba1-9f643f4e6571",
+        "title": "AI/ML Engineer",
+        "active": true,
+        "date_updated": 1792392121,
+        "date_posted": 1792392013,
+        "url": "https://www.conviva.ai/careers/job/8036615003?gh_jid=8036615003",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Conviva",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "ebc9825c-1eff-4957-846a-a6c77915283b",
+        "title": "VLSI Engineer 1",
+        "active": true,
+        "date_updated": 1792391808,
+        "date_posted": 1792281600,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/VLSI-Engineer-I--_1214985-1",
         "locations": [
             "Roseville, CA"
         ],
