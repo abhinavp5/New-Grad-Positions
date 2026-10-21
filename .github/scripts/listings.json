@@ -185152,7 +185152,7 @@
         "company_name": "NCR Voyix",
         "id": "880e56e4-25c9-471f-b83a-aba5765b085f",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1782512584,
         "date_posted": 1782511768,
         "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/SW-Engineer-I_R0157595",
@@ -208674,7 +208674,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -235247,7 +235247,7 @@
         "company_name": "Blue Cross of Idaho",
         "id": "95049413-d496-4bfa-9d12-e16f926251e5",
         "title": "AI Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1784931560,
         "date_posted": 1784851200,
         "url": "https://bcidaho.wd5.myworkdayjobs.com/BCI/job/Meridian---Main/AI-Engineer-I_R3397",
@@ -241433,7 +241433,7 @@
         "company_name": "Freddie Mac",
         "id": "d3680ba2-c14d-4200-9aec-fbfcf6ab8214",
         "title": "Capital Markets Analyst - Quantitative",
-        "active": true,
+        "active": false,
         "date_updated": 1785278881,
         "date_posted": 1785196800,
         "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Capital-Markets-Analyst---Quantitative_JR17437",
@@ -241661,7 +241661,7 @@
         "company_name": "NVIDIA",
         "id": "30612f5b-226b-4ab8-9610-ae2ae82ca2a0",
         "title": "Developer Technology Engineer New Grad - Public Sector",
-        "active": true,
+        "active": false,
         "date_updated": 1784760166,
         "date_posted": 1784758590,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
@@ -265398,7 +265398,7 @@
         "company_name": "Belvedere Trading",
         "id": "f4b05847-d015-43a2-b07f-482144c9580f",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786141060,
         "date_posted": 1786140614,
         "url": "https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f/apply",
@@ -282882,7 +282882,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -283263,7 +283263,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -304110,7 +304110,7 @@
         "company_name": "Global Lending Services",
         "id": "a7dd04c6-c880-41f3-9f62-e1a48155eb37",
         "title": "Data Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1787848381,
         "date_posted": 1787848359,
         "url": "https://jobs.lever.co/glsllc/bf8d09cd-8858-4ce4-98c1-5b685b5bf238/apply",
@@ -314484,7 +314484,7 @@
         "company_name": "L3Harris Technologies",
         "id": "4b199fc4-bfd3-4425-aa91-79a9a9ea0882",
         "title": "Associate \u2013 Integration / Test Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788403147,
         "date_posted": 1787648489,
         "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Integration-Test-Engineer-FL-32905/1422832600/?ats=successfactors",
@@ -331678,7 +331678,7 @@
         "company_name": "The Trade Desk",
         "id": "6d42fde3-3d24-4d55-9b22-4bf3648adfc6",
         "title": "Data Support Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788509701,
         "date_posted": 1787091258,
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5165780007",
@@ -341410,7 +341410,7 @@
         "company_name": "Qualcomm",
         "id": "f658e592-7705-4abf-9fec-d62ac98b287e",
         "title": "Machine Learning Engineer New Grad - AI Processors - Machine Learning Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1789171226,
         "date_posted": 1789170905,
         "url": "https://qualcomm.eightfold.ai/careers/job/446721063770",
@@ -354372,7 +354372,7 @@
         "company_name": "Trace3",
         "id": "bcc577ef-5958-4321-821d-9405a58357c8",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790203501,
         "date_posted": 1789166051,
         "url": "https://job-boards.greenhouse.io/trace3/jobs/8197955",
@@ -360332,7 +360332,7 @@
         "company_name": "RTX",
         "id": "8e1c4d71-6011-41b4-8948-e9bef181663f",
         "title": "Software Developer Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790807941,
         "date_posted": 1790726400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Developer-Engineer-I--Onsite-_01878887",
@@ -367827,7 +367827,7 @@
         "company_name": "Truveta",
         "id": "f104d45c-5e40-468d-82c6-3e03c55ad7f0",
         "title": "Software Engineer - Clinical Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1791241113,
         "date_posted": 1791240867,
         "url": "https://job-boards.greenhouse.io/truveta/jobs/6217329004",
@@ -368715,7 +368715,7 @@
         "company_name": "Microsoft",
         "id": "79755c06-fd7a-4dea-ada1-9a9bf9eea208",
         "title": "Data Center Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1791239565,
         "date_posted": 1791238620,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557021766",
@@ -372003,7 +372003,7 @@
         "company_name": "Goldman Sachs",
         "id": "fa71e901-808c-47e5-ab2d-32344fa2c4e7",
         "title": "Engineering Apprentice",
-        "active": false,
+        "active": true,
         "date_updated": 1791353752,
         "date_posted": 1790201057,
         "url": "https://higher.gs.com/roles/174814?type=students",
@@ -377551,7 +377551,7 @@
         "company_name": "NVIDIA",
         "id": "8944e3f6-18d2-4e20-b86a-23223ceba88f",
         "title": "Software Engineer New Grad - DL Kernel Libraries",
-        "active": true,
+        "active": false,
         "date_updated": 1791767507,
         "date_posted": 1791676800,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
@@ -378417,7 +378417,7 @@
         "company_name": "NVIDIA",
         "id": "34e9778a-347d-4ab1-94fd-8da5c77008be",
         "title": "Deep Learning Software Engineer New Grad - TensorRT Performance",
-        "active": true,
+        "active": false,
         "date_updated": 1791844289,
         "date_posted": 1791763200,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--TensorRT-Performance---New-College-Grad-2027_JR2027083",
@@ -381906,7 +381906,7 @@
         "company_name": "Boeing",
         "id": "6b9b13bc-c64f-47ce-84e0-4b98e4dec369",
         "title": "B1 Software Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792017814,
         "date_posted": 1791936000,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-B1-Software-Systems-Engineer_JR2026521428-1",
@@ -385477,7 +385477,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "6b020294-dd07-4368-8e44-a6ec90bcb635",
         "title": "VLSI Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792374360,
         "date_posted": 1792281600,
         "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California-United-States-of-America/VLSI-Engineer-I--_1214985",
@@ -385558,7 +385558,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "ebc9825c-1eff-4957-846a-a6c77915283b",
         "title": "VLSI Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792391808,
         "date_posted": 1792281600,
         "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/VLSI-Engineer-I--_1214985-1",
@@ -386405,7 +386405,7 @@
         "company_name": "SAIC",
         "id": "8ccf1424-6b62-470f-93e0-ad607c1f232d",
         "title": "Software Test Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792449734,
         "date_posted": 1792449608,
         "url": "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618125",
@@ -387981,7 +387981,7 @@
         "company_name": "Blockhouse",
         "id": "f85253cb-dca3-4867-ab55-198869bfb119",
         "title": "RL Environments Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792534327,
         "date_posted": 1792534210,
         "url": "https://jobs.ashbyhq.com/blockhouse/f0e609b1-5237-407d-afe2-281b824ec25c/application?embed=true",
@@ -388336,6 +388336,210 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NVIDIA",
+        "id": "d848615a-0d50-478c-a92e-2dda9489542c",
+        "title": "Software Engineer New Grad - Agent Performance Modeling",
+        "active": true,
+        "date_updated": 1792545166,
+        "date_posted": 1792454400,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Renesas Electronics",
+        "id": "c4c2f239-c9e6-4aa6-ba14-68423bd6c45d",
+        "title": "Application Engineer",
+        "active": true,
+        "date_updated": 1792545127,
+        "date_posted": 1792545108,
+        "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000156404329",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Renesas-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Brain Co.",
+        "id": "a012a300-cb95-495b-9875-a2f2d0a8a1f0",
+        "title": "Machine Learning Engineer New Grad",
+        "active": true,
+        "date_updated": 1792545156,
+        "date_posted": 1792544959,
+        "url": "https://jobs.ashbyhq.com/brainco/4c9f8f00-0caf-4927-80da-02a3e53cb0cd/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Brain-Co",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Brain Co.",
+        "id": "96705002-95d7-4a17-8292-87bbaea60a95",
+        "title": "AI Platform Engineer New Grad",
+        "active": true,
+        "date_updated": 1792545157,
+        "date_posted": 1792544960,
+        "url": "https://jobs.ashbyhq.com/brainco/4d39773e-f4c3-49c1-87c3-812a9804fb15/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Brain-Co",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Brain Co.",
+        "id": "7654bad4-ebff-466a-bd2d-63a5d167ba11",
+        "title": "AI Product Engineer New Grad",
+        "active": true,
+        "date_updated": 1792545149,
+        "date_posted": 1792544959,
+        "url": "https://jobs.ashbyhq.com/brainco/c1788246-305f-4e4f-8b03-8444c76a466e/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Brain-Co",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "5f2478e7-cb53-4cf3-821d-9acf12aa4f9a",
+        "title": "Power Architect",
+        "active": true,
+        "date_updated": 1792545148,
+        "date_posted": 1792454400,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Power-Architect---New-College-Grad-2027_JR2027718",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RoboForce",
+        "id": "236f1366-9b33-4f75-bc9b-0495fa17b755",
+        "title": "AI Resident",
+        "active": true,
+        "date_updated": 1792544768,
+        "date_posted": 1792544648,
+        "url": "https://job-boards.greenhouse.io/roboforce/jobs/5459229008",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RoboForce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wellmark",
+        "id": "b3dc0fe4-e07d-4a79-ac44-eddaf4d4abd0",
+        "title": "Data Wrangler",
+        "active": true,
+        "date_updated": 1792547154,
+        "date_posted": 1792547007,
+        "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000156421724",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wellmark",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "26d84509-a16b-4556-99f7-18329fa61191",
+        "title": "Software Development Engineer 1 - AI/ML Network Infrastructure",
+        "active": true,
+        "date_updated": 1792546803,
+        "date_posted": 1792546696,
+        "url": "https://amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Axos Bank",
+        "id": "e7be217f-fe8f-47ee-a0f5-bb01d5ad5782",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1792546731,
+        "date_posted": 1792454400,
+        "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA---Data-Engineer_JR5390",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Axos-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
