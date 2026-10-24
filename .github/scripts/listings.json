@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d4ce2d2b-eead-43a4-aa65-92fcf9d83d82",
-        "title": "Nightshift Trading Assistant",
-        "active": false,
-        "date_updated": 1772102538,
-        "date_posted": 1772102538,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050817",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Uline",
-        "id": "4305486a-d429-4b22-81a2-badb6c84ae70",
-        "title": "Associate Ecommerce Data Analyst",
-        "active": false,
-        "date_updated": 1772110548,
-        "date_posted": 1772110548,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Associate-eCommerce-Data-Analyst_R261735-1",
-        "locations": [
-            "Kenosha, WI",
-            "Waukegan, IL",
-            "Morton Grove, IL",
-            "Pleasant Prairie, WI",
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Walmart",
         "id": "21d6d49c-1b58-4c06-b263-e017f0133313",
@@ -333077,7 +333035,7 @@
         "company_name": "RTX",
         "id": "8edf16f9-31db-4a81-b28d-bfabbbdece38",
         "title": "Hardware In the Loop Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789411754,
         "date_posted": 1789344000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/HWIL-Software-Engineer-I_01874565",
@@ -348091,7 +348049,7 @@
         "company_name": "Applied Materials",
         "id": "dfd0d59f-a419-45ea-ada0-92b1316ddcbe",
         "title": "Physicist/Scientist New Grad - 2027 Summer Cohort",
-        "active": true,
+        "active": false,
         "date_updated": 1790702358,
         "date_posted": 1789430400,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad---Physicist-Scientist-III---PhD--2027-Summer-Cohort-_R2627969",
@@ -362982,7 +362940,7 @@
         "company_name": "Leidos",
         "id": "4dbd811e-0477-41e7-b085-cba2d9e1cb62",
         "title": "Junior Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791384748,
         "date_posted": 1790899200,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Junior-Systems-Engineer_R-00193784",
@@ -373309,7 +373267,7 @@
         "company_name": "Leidos",
         "id": "af6b5279-66d6-4fce-9bfe-c98c7579acf3",
         "title": "GIS Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1792102213,
         "date_posted": 1792022400,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/10606-Raleigh-NC-Home-Office/GIS-Technician_R-00194660",
@@ -386682,7 +386640,7 @@
         "company_name": "Regal Rexnord",
         "id": "f9362869-73aa-4cd5-a7a1-de352622465b",
         "title": "Electronics Lab Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792775976,
         "date_posted": 1792713600,
         "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Radford-Virginia-United-States/Electronics-Lab-Technician-I_R26_04131-1",
@@ -388007,5 +387965,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "eff6e46f-68bb-46cd-b491-ae901b415a6d",
+        "title": "Engineer 1 - Software Engineer - Test Engineering",
+        "active": true,
+        "date_updated": 1792846842,
+        "date_posted": 1792713600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Engineer-I--Software-Engineer---Test-Engineering--Onsite-_01883521",
+        "locations": [
+            "Burnsville, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
