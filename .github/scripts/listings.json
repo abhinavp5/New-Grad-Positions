@@ -2,131 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "NVIDIA",
-        "id": "df46c47f-eefd-4c80-ace7-e57db972ffd5",
-        "title": "Software Engineer \u2013 New College Grad 2026 - Robotics - Isaac Lab",
-        "active": false,
-        "date_updated": 1772245314,
-        "date_posted": 1772245314,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Robotics---Isaac-Lab---New-College-Grad-2026_JR2014185",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NVIDIA",
-        "id": "61afe023-f401-49eb-bc27-12e2c989b397",
-        "title": "Developer Technology Engineer - Central Processing Unit Performance",
-        "active": false,
-        "date_updated": 1772245309,
-        "date_posted": 1772245309,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--CPU-Performance---New-College-Grad-2026_JR2013804",
-        "locations": [
-            "NYC",
-            "Santa Clara, CA",
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "a85ffbf8-d330-4878-adf8-44b6853dc7e9",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1772244674,
-        "date_posted": 1772244674,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051364",
-        "locations": [
-            "Midlothian, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Microsoft",
-        "id": "2d585044-a7f1-43b1-b16a-47ac631b0132",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1772244661,
-        "date_posted": 1772244661,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556804007",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "1a5b65ca-123d-4172-885d-e421c5797eaf",
-        "title": "Posting Test & Evaluation Instrumentation Engineer - Entry & Associate Level",
-        "active": false,
-        "date_updated": 1772247107,
-        "date_posted": 1772247107,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Posting-Title-Test---Evaluation-Instrumentation-Engineer--Entry---Associate-Level-_JR2026494163-1",
-        "locations": [
-            "Hazelwood, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bank of Montreal",
-        "id": "b1d56a0d-2da0-4a7a-aa0c-bd2a8ab08f48",
-        "title": "Analyst \u2013 Data Engineer",
-        "active": false,
-        "date_updated": 1772246853,
-        "date_posted": 1772246853,
-        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Analyst--Data-Engineer_R260006732",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BMO",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Nutanix",
         "id": "9b26898a-3a68-46ce-96af-b921ceacaabc",
         "title": "Member of Technical Staff 1 - QA",
@@ -14500,24 +14375,6 @@
             "Edinburgh, UK"
         ],
         "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Welocalize",
-        "id": "7e2d25e1-871a-4870-aabd-8533aade2137",
-        "title": "Mandarin Culture and Language Expert",
-        "active": false,
-        "date_updated": 1773156139,
-        "date_posted": 1772244502,
-        "url": "https://jobs.lever.co/welocalize/b760dae6-c39d-42d8-8094-a6b533df79aa/apply",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Welocalize",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -268252,7 +268109,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -268633,7 +268490,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -282667,7 +282524,7 @@
         "company_name": "ExxonMobil",
         "id": "9e3744d0-6013-44b6-8207-f13d87b99654",
         "title": "Global Trading Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1787603680,
         "date_posted": 1787602670,
         "url": "https://jobs.exxonmobil.com/job/London-Global-Trading-Commercial-Graduate-London-LND-SE10SU/1422560100/?ats=successfactors",
@@ -351189,7 +351046,7 @@
         "company_name": "Qualcomm",
         "id": "5aae0b6d-78b1-47c7-8fa5-5b3ec7eae06d",
         "title": "Physical Design Engineer - ASICS Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1791117001,
         "date_posted": 1789327400,
         "url": "https://qualcomm.eightfold.ai/careers/job/446721073497",
