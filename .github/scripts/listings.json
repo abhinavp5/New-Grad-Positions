@@ -256051,7 +256051,7 @@
         "company_name": "Bird Construction",
         "id": "a851c57f-b49e-4f1d-a44d-08dcd31d4bce",
         "title": "Construction Innovation Systems Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786486863,
         "date_posted": 1786406400,
         "url": "https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Mississauga-ON/Construction-Innovator_JR-9305",
@@ -264852,7 +264852,7 @@
         "company_name": "XPENG Motors",
         "id": "37a4e5ac-cef9-494a-a468-546342e2af97",
         "title": "Senior Machine Learning Engineer - LLM Quantization & Deployment",
-        "active": true,
+        "active": false,
         "date_updated": 1786681801,
         "date_posted": 1786680734,
         "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8710019002",
@@ -267661,7 +267661,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -268042,7 +268042,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -282893,7 +282893,7 @@
         "company_name": "Tesla",
         "id": "d8128313-1a27-4475-bfe7-ccff7edc883d",
         "title": "Electronic Hardware Validation - Low Voltage Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1787616918,
         "date_posted": 1787616728,
         "url": "https://www.tesla.com/careers/search/job/280969",
@@ -371677,7 +371677,7 @@
         "company_name": "Leidos",
         "id": "54259fd2-233d-466f-894e-f3c91ea9159e",
         "title": "Research Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1792505491,
         "date_posted": 1792454400,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Research-Scientist_R-00194936",
@@ -373581,7 +373581,7 @@
         "company_name": "SMX",
         "id": "f1d22398-ec8e-4424-a78c-79bb14eaf463",
         "title": "Engineering Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792620763,
         "date_posted": 1792620474,
         "url": "https://www.smxtech.com/careers/?gh_jid=8033737003",
@@ -374170,7 +374170,7 @@
         "company_name": "Northrop Grumman",
         "id": "8642833e-cc7d-4182-84a7-7281419768a2",
         "title": "Associate Digital Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792621852,
         "date_posted": 1792540800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Associate--Digital-Engineer---Rolling-Meadows-IL_R10256394",
@@ -383673,6 +383673,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "12b37514-55d3-4d2b-889d-499ef0584772",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1793082983,
+        "date_posted": 1793082825,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557045516",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
