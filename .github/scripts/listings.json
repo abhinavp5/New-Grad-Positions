@@ -1,237 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Idaho Power",
-        "id": "b6d40596-ec5e-45b1-be8f-d2b7841f404b",
-        "title": "ERP Application Development Analyst Or Senior - Entry - Analyst",
-        "active": false,
-        "date_updated": 1772504775,
-        "date_posted": 1772504775,
-        "url": "https://idahopowercompany.wd1.myworkdayjobs.com/external/job/Boise-ID/ERP-Application-Development-Analyst---Entry--Analyst--or-Senior_R0004712-1",
-        "locations": [
-            "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Idaho-Power",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Esri",
-        "id": "36f416e0-2b10-4252-8d38-e0d713b49d77",
-        "title": "Product Engineer 1 - Arcgis Enterprise Portal",
-        "active": false,
-        "date_updated": 1772504745,
-        "date_posted": 1772504745,
-        "url": "https://www.esri.com/careers/5066715007?gh_jid=5066715007",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Esri",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "c3001825-71aa-4d98-90d0-9ea8e43ecd9c",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1772504082,
-        "date_posted": 1772504082,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051738",
-        "locations": [
-            "Brighton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ATPCO",
-        "id": "240805d6-aa34-4d9b-a4c6-c9499543d647",
-        "title": "Data Strategist",
-        "active": false,
-        "date_updated": 1772504475,
-        "date_posted": 1772504475,
-        "url": "https://jobs.smartrecruiters.com/ATPCO1/744000112209457",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/e38ff337-ef4e-42b4-b1fc-e1834b3b603f",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "f0d6f216-3186-4344-b3a7-d0bf5be87e11",
-        "title": "Assoc \u2013 Software Engineering - Camden - NJ",
-        "active": false,
-        "date_updated": 1772504250,
-        "date_posted": 1772504250,
-        "url": "https://jobs.l3harris.com/job/Camden-Assoc,-Software-Engineering-(Camden,-NJ)-NJ-08103/1321349500/?ats=successfactors",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "60245d30-9250-48f9-982c-d650cfb4113c",
-        "title": "Manufacturing Technician B",
-        "active": false,
-        "date_updated": 1772504259,
-        "date_posted": 1772504259,
-        "url": "https://jobs.l3harris.com/job/Cincinnati-Manufacturing-Technician-B-OH-45245/1369433300/?ats=successfactors",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "507861be-ca3a-4132-ba6b-c5f2e1e57952",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1772503818,
-        "date_posted": 1772503818,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051254",
-        "locations": [
-            "Stoke-on-Trent, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e80028f7-127c-490c-b11e-4179bc33e00d",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1772503795,
-        "date_posted": 1772503795,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051253",
-        "locations": [
-            "Stoke-on-Trent, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nevada National Security ",
-        "id": "04f4b695-35c1-4fe4-a143-18dbcf358fea",
-        "title": "Data Analyst Assistant - Business Assistant II - Casual",
-        "active": false,
-        "date_updated": 1772503655,
-        "date_posted": 1772503655,
-        "url": "https://ewij.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/11566",
-        "locations": [
-            "North Las Vegas, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/Nevada-National-Security",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "DMC Engineering",
-        "id": "fb40c356-f572-4f7d-800d-dfebf7a8cc7a",
-        "title": "Entry Level Embedded Engineer",
-        "active": false,
-        "date_updated": 1772503354,
-        "date_posted": 1772503354,
-        "url": "https://www.dmcinfo.com/careers/open-positions?gh_jid=5136284008",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/DMC-Engineering",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "DMC Engineering",
-        "id": "8eec9223-bf8a-4e44-b06e-47f3a714105e",
-        "title": "Entry Level Automation Engineer",
-        "active": false,
-        "date_updated": 1772503314,
-        "date_posted": 1772503314,
-        "url": "https://www.dmcinfo.com/careers/open-positions?gh_jid=4993577008",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/DMC-Engineering",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Amentum",
-        "id": "7ac9190e-6548-4d60-9e55-b5eb15d299d2",
-        "title": "Entry Level Software Engineer",
-        "active": false,
-        "date_updated": 1772636779,
-        "date_posted": 1772505999,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Entry-Level-Software-Engineer_R0155505",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "KLA",
         "id": "d2145930-6a58-4c54-ade1-87c4f0d0c97a",
@@ -5202,26 +4971,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Daybreak Games",
-        "id": "49713325-fb02-4ee3-92c6-f00e462814f5",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1772703933,
-        "date_posted": 1772505281,
-        "url": "https://www.daybreakgames.com/careers?gh_jid=8445528002",
-        "locations": [
-            "California"
-        ],
-        "company_url": "https://simplify.jobs/c/Daybreak-Games",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -32451,27 +32200,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lawrence Berkeley National Laboratory",
-        "id": "323f4d84-f56d-4670-8b45-8b930e87c49f",
-        "title": "Computational Research Scientist",
-        "active": false,
-        "date_updated": 1773997989,
-        "date_posted": 1772504269,
-        "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=106084",
-        "locations": [
-            "Berkeley, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lawrence-Berkeley-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -144170,26 +143898,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Windfall",
-        "id": "68dda974-c613-43e7-bc26-83d5c82b3626",
-        "title": "Data & AI Specialist",
-        "active": false,
-        "date_updated": 1781168221,
-        "date_posted": 1772504339,
-        "url": "https://jobs.lever.co/windfalldata/aa919b80-9247-4135-a356-c3f638c391d1/apply",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Windfall-Data",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Jabil",
         "id": "017376e4-553b-4f7c-b74f-807f5d873a1e",
@@ -201331,7 +201039,7 @@
         "company_name": "Zededa",
         "id": "54eb8a09-3206-49de-ab52-5f7361b9dae4",
         "title": "Software Engineer - AI & Edge Kubernetes Orchestration",
-        "active": true,
+        "active": false,
         "date_updated": 1784598911,
         "date_posted": 1784596725,
         "url": "https://ats.rippling.com/zededa/jobs/3e34a738-5eb1-405d-b46b-e9737226f5be",
@@ -259713,7 +259421,7 @@
         "company_name": "ChowBus",
         "id": "a06fff13-7f57-418b-8a60-089543530e70",
         "title": "Test Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1786659565,
         "date_posted": 1786659415,
         "url": "https://job-boards.greenhouse.io/chowbus/jobs/7865931003",
@@ -265143,7 +264851,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -265524,7 +265232,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -281216,7 +280924,7 @@
         "company_name": "L3Harris Technologies",
         "id": "77ce4406-421d-4a67-89e6-431d60b1c981",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787654209,
         "date_posted": 1787648488,
         "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-FL-32934/1422829800/?ats=successfactors",
@@ -306254,7 +305962,7 @@
         "company_name": "RTX",
         "id": "bf79ce83-617f-414c-a109-b3809235df00",
         "title": "Systems Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788447948,
         "date_posted": 1786579200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineer-I_01866673",
@@ -326852,7 +326560,7 @@
         "company_name": "Rocket Lab USA",
         "id": "8e25f6a0-c56e-4252-a456-4d58b3c78c65",
         "title": "Electrical Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789510919,
         "date_posted": 1789510052,
         "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996354003",
@@ -345869,7 +345577,7 @@
         "company_name": "NVIDIA",
         "id": "8ee26259-5914-4601-981d-94d0d0a886ae",
         "title": "ASIC Verification Engineer \u2013 New College Grad 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1788505932,
         "date_posted": 1781952597,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Verification-Engineer---New-College-Grad-2026_JR2012573",
@@ -347535,7 +347243,7 @@
         "company_name": "Nasdaq",
         "id": "c062a422-c70f-4464-9f55-a3ccbdaa7287",
         "title": "Analyst Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1791116270,
         "date_posted": 1783158499,
         "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---Atlanta---Georgia/Analyst---Software-Developer_R0025662",
@@ -355366,7 +355074,7 @@
         "company_name": "Nordstrom",
         "id": "addc9110-286b-45d0-9b03-24ea2d3042c6",
         "title": "Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791412957,
         "date_posted": 1791331200,
         "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1--Hybrid---Seattle--WA-_R-884936",
@@ -363272,7 +362980,7 @@
         "company_name": "Centrica",
         "id": "ce6a633b-2224-4242-9823-401791e0a6cc",
         "title": "Technology Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1792016104,
         "date_posted": 1791936000,
         "url": "https://centrica.wd3.myworkdayjobs.com/Centrica/job/Flexible/Technology-Graduate_R0090937",
@@ -363876,7 +363584,7 @@
         "company_name": "Health Research",
         "id": "4505681e-b750-4ce3-85d2-d1b429cfbac4",
         "title": "Hourly Project Assistant 2",
-        "active": true,
+        "active": false,
         "date_updated": 1792017461,
         "date_posted": 1791936000,
         "url": "https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Albany-NY/Hourly-Project-Assistant-II_JR-0002355",
@@ -369859,7 +369567,7 @@
         "company_name": "SAIC",
         "id": "e916e10b-3589-4d4e-8b62-fb9348bc3c03",
         "title": "Software Test Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792534505,
         "date_posted": 1792534333,
         "url": "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618210",
@@ -369897,7 +369605,7 @@
         "company_name": "Applied Materials",
         "id": "bcc5917d-14c6-476e-8eb3-06d5f398ff78",
         "title": "Algorithm Developer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1792534574,
         "date_posted": 1792454400,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Algorithm-Developer--Masters-Degree--New-College-Grad--Santa-Clara-_R2631780",
@@ -371756,7 +371464,7 @@
         "company_name": "Amazon",
         "id": "f0af7b08-4219-47f9-bdb7-9ff2e900dcc8",
         "title": "Software Development Engineer 1 - AI/ML Network Infrastructure",
-        "active": true,
+        "active": false,
         "date_updated": 1792649919,
         "date_posted": 1792649750,
         "url": "https://amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs",
@@ -377949,7 +377657,7 @@
         "company_name": "RTX",
         "id": "8ac92cbc-5a9a-4f95-8951-f4b165d58a53",
         "title": "Affordability Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792772558,
         "date_posted": 1792022400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805A--1151-E-Hermans-Rd--BLDG-805A/Affordability-Theory-of-Constraint--TOC--Engineer_01881598",
@@ -378295,7 +378003,7 @@
         "company_name": "Addepar",
         "id": "1aca142d-fcc8-4cfe-b6c6-d06c5b55c36f",
         "title": "Product Manager \u2013 Early Career - AI Platform",
-        "active": false,
+        "active": true,
         "date_updated": 1792775716,
         "date_posted": 1792764656,
         "url": "https://job-boards.greenhouse.io/addepar1/jobs/8910404002",
@@ -379987,7 +379695,7 @@
         "company_name": "RTX",
         "id": "efbcc264-9964-46e4-8c68-955da309af57",
         "title": "Engineer 1 - Software Engineer - Test Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1793053653,
         "date_posted": 1792972800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Engineer-I--Software-Engineer---Test-Engineering--Onsite-_01884730",
@@ -380209,7 +379917,7 @@
         "company_name": "Manulife Financial",
         "id": "da7b155a-c2c2-43ba-83f7-acfa5384d8df",
         "title": "Associate Applied AI Engineer - GenAI Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1793053082,
         "date_posted": 1792972800,
         "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Associate-Applied-AI-Engineer---GenAI-Systems_JR26091743-3",
@@ -383432,7 +383140,7 @@
         "company_name": "FanDuel",
         "id": "53ed91bd-f03e-423c-8424-452d1ff6122f",
         "title": "Basketball Pricing Analyst - Sports Trader - NBA/WNBA",
-        "active": false,
+        "active": true,
         "date_updated": 1793151557,
         "date_posted": 1793148112,
         "url": "https://boards.greenhouse.io/embed/job_app?token=8318950",
@@ -383566,7 +383274,7 @@
         "company_name": "Pure",
         "id": "e5778885-61a1-4671-9f71-493f90aee197",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793168821,
         "date_posted": 1791244800,
         "url": "https://jobs.ashbyhq.com/pureapp/c37cdf2d-18a8-417e-b429-16875859a29a/application?embed=true",
@@ -385557,6 +385265,733 @@
             "Liberty Lake, WA"
         ],
         "company_url": "https://simplify.jobs/c/Itron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Akuna Capital",
+        "id": "f39e4538-67d2-4ecd-975b-281035bae704",
+        "title": "Junior Quantitative Researcher",
+        "active": true,
+        "date_updated": 1793236862,
+        "date_posted": 1784127350,
+        "url": "https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065317",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Akuna Capital",
+        "id": "b267439f-a279-401a-9db5-5e83b1068db8",
+        "title": "Junior Quantitative Developer & Strategist",
+        "active": true,
+        "date_updated": 1793236888,
+        "date_posted": 1784127794,
+        "url": "https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065051",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Akuna Capital",
+        "id": "b2f38b52-ba27-4129-a9d7-5ed48621ad7f",
+        "title": "Junior Quantitative Developer & Strategist",
+        "active": true,
+        "date_updated": 1793236862,
+        "date_posted": 1784128564,
+        "url": "https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065007",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Akuna Capital",
+        "id": "b0a8cd76-3836-4d6b-bcd9-28805f566968",
+        "title": "Junior Quantitative Researcher - Harvard",
+        "active": true,
+        "date_updated": 1793236862,
+        "date_posted": 1784127669,
+        "url": "https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065211",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Akuna Capital",
+        "id": "93484d90-efa1-4755-82f9-57d743765466",
+        "title": "Junior Quantitative Researcher",
+        "active": true,
+        "date_updated": 1793236862,
+        "date_posted": 1784128594,
+        "url": "https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065206",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Akuna Capital",
+        "id": "679c94c0-d0b5-4a5f-87b8-e097242eb4b0",
+        "title": "Junior Quantitative Developer & Strategist",
+        "active": true,
+        "date_updated": 1793236887,
+        "date_posted": 1784128512,
+        "url": "https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065025",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Akuna Capital",
+        "id": "add2120a-201b-4d20-b955-967e31b87d34",
+        "title": "Junior Quantitative Developer & Strategist",
+        "active": true,
+        "date_updated": 1793236892,
+        "date_posted": 1784127208,
+        "url": "https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065123",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Akuna Capital",
+        "id": "aaf4fadb-2e09-4a1e-b68a-aa95b7283054",
+        "title": "Junior Quantitative Researcher",
+        "active": true,
+        "date_updated": 1793236862,
+        "date_posted": 1784128467,
+        "url": "https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065202",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Akuna Capital",
+        "id": "7cce5402-bffe-404f-8d26-59c8dbc7a1b4",
+        "title": "Junior Quantitative Developer & Strategist",
+        "active": true,
+        "date_updated": 1793236862,
+        "date_posted": 1784128006,
+        "url": "https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065014",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Akuna Capital",
+        "id": "6ecfeb4e-01a9-47e2-875b-3f381d4901ca",
+        "title": "Junior Quantitative Researcher",
+        "active": true,
+        "date_updated": 1793236862,
+        "date_posted": 1784127824,
+        "url": "https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065309",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Akuna Capital",
+        "id": "048d6ae4-eb97-4e51-960b-7481bbcf0e64",
+        "title": "Junior Quantitative Developer & Strategist",
+        "active": true,
+        "date_updated": 1793236889,
+        "date_posted": 1784127591,
+        "url": "https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065049",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hearst",
+        "id": "1edcd461-c4f7-41b5-99da-49416607380e",
+        "title": "AI Newsroom Developer Fellow",
+        "active": true,
+        "date_updated": 1793236712,
+        "date_posted": 1793026428,
+        "url": "https://job-boards.greenhouse.io/hearst/jobs/4466321009",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Hearst",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TextNow",
+        "id": "5b2a2d8f-1c97-46be-b3a7-1ecd7cbd7f26",
+        "title": "Software Developer - Backend",
+        "active": true,
+        "date_updated": 1793236339,
+        "date_posted": 1778259975,
+        "url": "https://job-boards.greenhouse.io/textnowinc/jobs/4221596009",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/TextNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TextNow",
+        "id": "360d58b7-2e8d-435c-8b3a-09d576737492",
+        "title": "Software Developer - Android",
+        "active": true,
+        "date_updated": 1793236324,
+        "date_posted": 1778259987,
+        "url": "https://job-boards.greenhouse.io/textnowinc/jobs/4221551009",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/TextNow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Graphcore",
+        "id": "bb693dbb-d43f-421b-b316-c504bc57c193",
+        "title": "Graduate Software Engineer - Accelerator Modelling",
+        "active": true,
+        "date_updated": 1793236146,
+        "date_posted": 1792498410,
+        "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902319002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Graphcore",
+        "id": "f4b38ce7-f6c9-46f7-84d8-796b61fd3004",
+        "title": "Graduate Engineer - System Validation",
+        "active": true,
+        "date_updated": 1793236146,
+        "date_posted": 1792105315,
+        "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8893623002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Graphcore",
+        "id": "c9eaf905-2699-4897-b6b5-f5c59eefdde5",
+        "title": "Graduate Firmware Engineer",
+        "active": true,
+        "date_updated": 1793236158,
+        "date_posted": 1792496167,
+        "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902146002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GlobalFoundries",
+        "id": "f74e8641-8f84-4868-a3c2-04dc73eff8a9",
+        "title": "AI Enabled Device Modeling",
+        "active": true,
+        "date_updated": 1793236146,
+        "date_posted": 1793145600,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-Enabled-Device-Modeling_JR-2606083",
+        "locations": [
+            "Malta, NY",
+            "Essex Junction, VT"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Graphcore",
+        "id": "e87debfc-26b4-4f2c-9933-c54046eefff3",
+        "title": "Graduate Software Engineer - Analysis Tools",
+        "active": true,
+        "date_updated": 1793236146,
+        "date_posted": 1792499075,
+        "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902328002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Graphcore",
+        "id": "9aa3ccff-9a01-41c5-9614-304c1c357cdc",
+        "title": "Graduate Software Engineer - Frameworks",
+        "active": true,
+        "date_updated": 1793236146,
+        "date_posted": 1792497712,
+        "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902281002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Graphcore",
+        "id": "42448006-76e1-4dab-882e-ac500fd25af8",
+        "title": "Graduate Manufacturing Operations - Product Test",
+        "active": true,
+        "date_updated": 1793236156,
+        "date_posted": 1792490253,
+        "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8901919002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Graphcore",
+        "id": "4082fdde-4f01-4939-b1c5-a0a7233d41ce",
+        "title": "Software Engineer New Grad - AI Compute Libraries & Performance",
+        "active": true,
+        "date_updated": 1793236157,
+        "date_posted": 1792498541,
+        "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902321002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Graphcore",
+        "id": "1153d1db-e3fe-4f2a-bb00-42f49e6fcc71",
+        "title": "Graduate Software Engineer - Drivers and Utilities",
+        "active": true,
+        "date_updated": 1793236146,
+        "date_posted": 1792493473,
+        "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902099002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Graphcore",
+        "id": "46d28ec8-cb92-42fe-8852-dd99969ab9cd",
+        "title": "Graduate Silicon Engineer",
+        "active": true,
+        "date_updated": 1793236166,
+        "date_posted": 1792492713,
+        "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902080002",
+        "locations": [
+            "Bristol, UK",
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Graphcore",
+        "id": "33cbbd8e-6de2-476a-ae13-397930a6f399",
+        "title": "Graduate Manufacturing Operations",
+        "active": true,
+        "date_updated": 1793236165,
+        "date_posted": 1792491677,
+        "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902064002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Graphcore",
+        "id": "84614b56-61f0-4ca1-acba-6071353d78d5",
+        "title": "Graduate Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1793236157,
+        "date_posted": 1792491484,
+        "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902058002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Graphcore",
+        "id": "6e534ed9-0112-4ac1-b75a-9ace1edc0747",
+        "title": "Graduate Hardware Engineer",
+        "active": true,
+        "date_updated": 1793236158,
+        "date_posted": 1792492435,
+        "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902076002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Graphcore",
+        "id": "36d6bd53-bdbe-48f2-bd48-50b7bc0bd7be",
+        "title": "Graduate SoC Architecture Engineer",
+        "active": true,
+        "date_updated": 1793236156,
+        "date_posted": 1792493243,
+        "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902095002",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pure",
+        "id": "4410c5c1-b6aa-4a86-af4c-c5ea5ee6b824",
+        "title": "iOS / UI Engineer",
+        "active": true,
+        "date_updated": 1793238336,
+        "date_posted": 1793232000,
+        "url": "https://jobs.ashbyhq.com/pureapp/86b9bbba-268a-49d0-8c07-904ee802ceb4/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Pure",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Indeed Flex",
+        "id": "0eab1b63-64ee-4583-972e-059f51e40b5e",
+        "title": "Product Builder",
+        "active": true,
+        "date_updated": 1793238130,
+        "date_posted": 1791360954,
+        "url": "https://job-boards.eu.greenhouse.io/indeedflex/jobs/4994921101",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Indeed-Flex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Human Interest",
+        "id": "326debcd-2734-42c8-91bd-bef6be0556e5",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1793237835,
+        "date_posted": 1787165629,
+        "url": "https://job-boards.greenhouse.io/humaninterestswe1/jobs/8083833",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Human-Interest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rocket Lab Corporation",
+        "id": "1d38abfa-a627-47bb-915b-392ec638832a",
+        "title": "Electrical Engineer 1",
+        "active": true,
+        "date_updated": 1793237835,
+        "date_posted": 1793228325,
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8055708003",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rocket Lab Corporation",
+        "id": "00541c11-5082-412d-b278-829473505007",
+        "title": "Harness Design Engineer 1",
+        "active": true,
+        "date_updated": 1793237837,
+        "date_posted": 1793228684,
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8055821003",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rocket-Lab-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "i360technologies",
+        "id": "2331133d-deba-41ac-9bfc-8972ef00c147",
+        "title": "Oracle Analytics FDI Developer",
+        "active": true,
+        "date_updated": 1793237586,
+        "date_posted": 1792019072,
+        "url": "https://job-boards.greenhouse.io/i360technologiesinc/jobs/4452547009",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/I360technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "S&P Global",
+        "id": "2598ba6a-238d-4150-9ce0-3d34ef2fb37f",
+        "title": "Investment Reporting Specialist - Quantitative Analysis",
+        "active": true,
+        "date_updated": 1793237652,
+        "date_posted": 1793232000,
+        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Guernsey-GG/Specialist--Quantitative-Analysis_332357-1",
+        "locations": [
+            "London, UK",
+            "Guernsey"
+        ],
+        "company_url": "https://simplify.jobs/c/SP-Global",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
