@@ -2,24 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "1X",
-        "id": "612596b6-9042-4431-a1c0-35d64314813a",
-        "title": "Electrical Harness Technician",
-        "active": false,
-        "date_updated": 1773451237,
-        "date_posted": 1773451237,
-        "url": "https://1x.recruitee.com/o/electrical-harness-technician",
-        "locations": [
-            "San Carlos, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/1x",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Varian",
         "id": "b737ca01-e7bc-45b5-940c-17323baf6335",
         "title": "Field Service Engineer - Proton Therapy",
@@ -35,204 +17,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cushman & Wakefield",
-        "id": "5bcb25ad-7214-4c42-a3d2-c51ecc47afae",
-        "title": "Sitecore Developer",
-        "active": false,
-        "date_updated": 1773452117,
-        "date_posted": 1773452117,
-        "url": "https://cw.wd1.myworkdayjobs.com/external/job/Remote-CW-Site---USA---Flexible-United-States/Sitecore-Developer_R310387",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cushman-And-Wakefield",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Astranis",
-        "id": "aa2872a5-8607-46a5-9083-e756e8fdc249",
-        "title": "Flight Software Engineer",
-        "active": false,
-        "date_updated": 1773451782,
-        "date_posted": 1773451782,
-        "url": "https://job-boards.greenhouse.io/astranis/jobs/4015622006",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Astranis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "MKS Instruments",
-        "id": "9920dfde-9f38-4823-8cfe-4a645a606fc6",
-        "title": "Software Engineer - Associate",
-        "active": false,
-        "date_updated": 1773451782,
-        "date_posted": 1773451782,
-        "url": "https://mksinst.wd1.myworkdayjobs.com/mkscareersamericas/job/Rochester-NY/Software-Engineer--Associate_R17005",
-        "locations": [
-            "Rochester, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/MKS-Instruments",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AEG",
-        "id": "955fbe43-537a-416d-beff-020d75b2fe3d",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1773451610,
-        "date_posted": 1773451610,
-        "url": "https://www.aegworldwide.com/jobs?gh_jid=8459974002",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/AEG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Abbott",
-        "id": "8a61f544-0560-4f6c-9973-3dd2a0672023",
-        "title": "Field Service Engineer 2",
-        "active": false,
-        "date_updated": 1773451640,
-        "date_posted": 1773451640,
-        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Minnesota---Minnetonka/Field-Service-Engineer-II--Minneapolis_31144396",
-        "locations": [
-            "Hopkins, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Abbott",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "d9938fb6-994a-4d94-864e-e4f36be1002b",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1773451164,
-        "date_posted": 1773451164,
-        "url": "https://jobs.l3harris.com/job/Carlsbad-Associate,-Software-Engineering-(Carlsbad,-CA)-CA-92009/1373076800/?ats=successfactors",
-        "locations": [
-            "Carlsbad, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d36d3290-77b0-4667-b96d-17fd6e1ceea2",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773450953,
-        "date_posted": 1773450953,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053063",
-        "locations": [
-            "Northwich, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Eulerity",
-        "id": "c729ed73-288d-4898-a06b-ecee5b410c4a",
-        "title": "Associate Product Manager - AI First",
-        "active": false,
-        "date_updated": 1773450794,
-        "date_posted": 1773450794,
-        "url": "https://job-boards.greenhouse.io/eulerity/jobs/4663370006",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Eulerity",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "PDF Solutions",
-        "id": "8158e69c-5d74-49b3-942b-5fa281ab8c6f",
-        "title": "Software Systems Engineer",
-        "active": false,
-        "date_updated": 1773450415,
-        "date_posted": 1773450415,
-        "url": "https://careers.pdf.com/jobs/1530?lang=en-us&icims=1",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/PDF-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Abbott",
-        "id": "ac2d947e-eba6-4039-8fa8-7fafea14593b",
-        "title": "Field Service Engineer 2",
-        "active": false,
-        "date_updated": 1773453365,
-        "date_posted": 1773453365,
-        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Minnetonka/Field-Service-Engineer-II--Minneapolis_31144396-1",
-        "locations": [
-            "Hopkins, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Abbott",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -146027,7 +145811,7 @@
         "company_name": "RoboForce",
         "id": "19b6c16e-d69f-4926-a7e1-ba07c39b6e18",
         "title": "Model Evaluation Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1782282061,
         "date_posted": 1780017155,
         "url": "https://job-boards.greenhouse.io/roboforce/jobs/5235044008",
@@ -180137,7 +179921,7 @@
         "company_name": "Cisco",
         "id": "12dd10fa-f03d-4a52-a087-77079f0680c4",
         "title": "Failure Analysis Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784586424,
         "date_posted": 1784073600,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Failure-Analysis-Engineer_2018947",
@@ -368543,7 +368327,7 @@
         "company_name": "Verizon Communications",
         "id": "23eb3ce6-e1fc-472c-a546-e4b2a19212cd",
         "title": "Engineer 1 - Systems Engineering (Generative AI & Agentic Systems)",
-        "active": true,
+        "active": false,
         "date_updated": 1793342896,
         "date_posted": 1793318400,
         "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Engineer-I-Systems-Engineering_R-1103177-1",
@@ -369297,7 +369081,7 @@
         "company_name": "Chicago Trading Company",
         "id": "6f52487e-12cd-4596-910d-b86917451347",
         "title": "Quant Trading Associate - Options Theory Intensive",
-        "active": true,
+        "active": false,
         "date_updated": 1793397963,
         "date_posted": 1793385621,
         "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4749020005",
@@ -369677,7 +369461,7 @@
         "company_name": "Wise",
         "id": "379c2dbc-a472-4d71-b0a8-d19e0355d1af",
         "title": "Graduate Product Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1793399997,
         "date_posted": 1793397357,
         "url": "https://jobs.smartrecruiters.com/Wise/744000158848229",
@@ -369841,7 +369625,7 @@
         "company_name": "Toyota",
         "id": "5c712195-09fe-4a31-81fb-2670eff7122c",
         "title": "Cloud Financial Operations Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1793399418,
         "date_posted": 1793318400,
         "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Cloud-Financial-Operations-Analyst_10338632",
@@ -373924,7 +373708,7 @@
         "company_name": "Pacific Northwest National Laboratory",
         "id": "b2c9f175-1887-4dcf-b927-2316b53e172f",
         "title": "Early Career Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793845623,
         "date_posted": 1793830620,
         "url": "https://careers.pnnl.gov/jobs/12900?icims=1",
@@ -376988,7 +376772,7 @@
         "company_name": "Booz Allen",
         "id": "79fca9d7-81e2-4685-8424-9e81f988d805",
         "title": "Software Sustainment Engineer - Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1793920202,
         "date_posted": 1793836800,
         "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--Software-Developer_R0249796",
@@ -377466,7 +377250,7 @@
         "company_name": "RTX",
         "id": "bac55bb0-5951-498b-9e5a-e62a2febea17",
         "title": "Systems Engineer 1 - Open Systems Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1793963123,
         "date_posted": 1793836800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-139--855-35Th-St-NE--BLDG-139/Systems-Engineer-I_01887271",
@@ -379138,6 +378922,46 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "M&T Bank",
+        "id": "a62bfe3c-827f-4d3c-b91c-b3a6768bd499",
+        "title": "Technology Development Program - Software Engineering - Enterprise & Wealth Application Development",
+        "active": true,
+        "date_updated": 1794190332,
+        "date_posted": 1794096000,
+        "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Enterprise---Wealth-Application-Development-_R92035",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/M-And-T-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "M&T Bank",
+        "id": "09189c3a-8701-428c-a334-fc2353eed8e3",
+        "title": "Technology Development Program - Software Engineering - Data & API Engineering",
+        "active": true,
+        "date_updated": 1794190326,
+        "date_posted": 1794096000,
+        "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data---API-Engineering-_R92036",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/M-And-T-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
