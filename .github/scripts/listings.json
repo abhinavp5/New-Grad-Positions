@@ -1,326 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "1e7e94cc-f63f-418f-b951-ab4e2eeb47e4",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773727918,
-        "date_posted": 1773727918,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053756",
-        "locations": [
-            "Maidstone, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Texas A&M University System",
-        "id": "c7450821-260f-44c6-b528-718201a0a604",
-        "title": "Postdoctoral Researcher",
-        "active": false,
-        "date_updated": 1773729163,
-        "date_posted": 1773729163,
-        "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Pioneering-Advanced-Materials-for-Renewable-Energy---2_R-089861-1",
-        "locations": [
-            "Prairie View, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Texas-AM-University-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Aurora Innovation",
-        "id": "c9cea194-4359-4677-af86-57f85ced4893",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1773728893,
-        "date_posted": 1773728893,
-        "url": "https://aurora.tech/jobs/8159549002?gh_jid=8159549002",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sumitomo Pharma America",
-        "id": "59a5b61d-26f5-4db9-80a1-cd792d1386a1",
-        "title": "Analytical Sciences Associate",
-        "active": false,
-        "date_updated": 1773728828,
-        "date_posted": 1773728828,
-        "url": "https://sumitomopharma.wd5.myworkdayjobs.com/smpa/job/US-Remote/Analytical-Sciences-Associate_R01229",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sumitomo-Pharma-America",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Texas A&M University - College Station",
-        "id": "38334fff-26a2-4a56-8ab2-7e2e7a4f7322",
-        "title": "Postdoctoral Research Associate - Postdoctoral Research Associate",
-        "active": false,
-        "date_updated": 1773728923,
-        "date_posted": 1773728923,
-        "url": "https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Postdoctoral-Research-Associate_R-089574-2",
-        "locations": [
-            "College Station, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Texas-AM-University-College-Station",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "TaylorMade Golf",
-        "id": "21f7377a-a85e-4d98-ac66-f91099df24bd",
-        "title": "Associate Product Evaluation Analyst",
-        "active": false,
-        "date_updated": 1773728850,
-        "date_posted": 1773728850,
-        "url": "https://taylormadegolf.wd5.myworkdayjobs.com/taylormadegolf/job/Carlsbad-California/Associate-Business-Analyst-Product-Evaluation_R0003330",
-        "locations": [
-            "Carlsbad, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TaylorMade-Golf",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Synchrony Financial",
-        "id": "053c1e68-0995-404a-9c2a-650f4aa636ea",
-        "title": "University Direct Hire Program",
-        "active": false,
-        "date_updated": 1773728846,
-        "date_posted": 1773728846,
-        "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Site/University-Direct-Hire-Program---Technology_2503733",
-        "locations": [
-            "Stamford, CT",
-            "Chicago, IL",
-            "NYC",
-            "Illinois"
-        ],
-        "company_url": "https://simplify.jobs/c/Synchrony-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Texas A&M University System",
-        "id": "ce824613-3baa-41e2-a520-21be64235707",
-        "title": "Postdoctoral Researcher",
-        "active": false,
-        "date_updated": 1773729199,
-        "date_posted": 1773729199,
-        "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Prairie-View-TX/Postdoctoral-Researcher--CREDIT-_R-079402-2",
-        "locations": [
-            "Prairie View, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Texas-AM-University-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Texas A&M University System",
-        "id": "c681a87c-690e-4631-88c3-f061ef750ddb",
-        "title": "Postdoctoral Research Associate",
-        "active": false,
-        "date_updated": 1773729184,
-        "date_posted": 1773729184,
-        "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Dallas-TX/Postdoctoral-Research-Associate_R-090331",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Texas-AM-University-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Texas A&M University System",
-        "id": "ee8231d2-7670-442e-8602-eea646ec9fbf",
-        "title": "Postdoctoral Research Associate - Postdoctoral Research Associate",
-        "active": false,
-        "date_updated": 1773729173,
-        "date_posted": 1773729173,
-        "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Postdoctoral-Research-Associate_R-089574-1",
-        "locations": [
-            "College Station, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Texas-AM-University-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Motorola",
-        "id": "db5cdba5-9dd9-485d-8a44-2234f5f2c3b9",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1773729472,
-        "date_posted": 1773729472,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/West-Valley-City-UT/Software-Engineer_R63109",
-        "locations": [
-            "West Valley City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "9a76f6af-701f-4d11-aa5b-5df0d87ef134",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773738817,
-        "date_posted": 1773738817,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053765",
-        "locations": [
-            "Watford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "568abc87-4956-4b41-9e10-430d5a285496",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773738787,
-        "date_posted": 1773738787,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053759",
-        "locations": [
-            "Lakenheath, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Texas A&M University System",
-        "id": "0281a477-dfbc-4274-890e-55545d0b6813",
-        "title": "Postdoctoral Researcher - Multiple Teams",
-        "active": false,
-        "date_updated": 1773729130,
-        "date_posted": 1773729130,
-        "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Trustworthy-Artificial-Intelligence--2_R-089885",
-        "locations": [
-            "Prairie View, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Texas-AM-University-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Texas A&M University System",
-        "id": "f9be6e35-3763-4d3c-8348-831837f7331d",
-        "title": "Postdoctoral Researcher - Trustworthy Artificial Intelligence",
-        "active": false,
-        "date_updated": 1773729134,
-        "date_posted": 1773729134,
-        "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Trustworthy-Artificial-Intelligence--1_R-089887",
-        "locations": [
-            "Prairie View, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Texas-AM-University-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Texas A&M AgriLife Research",
-        "id": "e57725f1-85e1-4e3d-8770-0456a982ecfe",
-        "title": "Postdoctoral Research Associate",
-        "active": false,
-        "date_updated": 1773730910,
-        "date_posted": 1773730910,
-        "url": "https://tamus.wd1.myworkdayjobs.com/AgriLife_Research_External/job/Dallas-TX/Postdoctoral-Research-Associate_R-090331-1",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Texas-AM-AgriLife-Research",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "John Deere",
         "id": "9e9ecd4e-fd20-4170-ac0b-c6622a9c5593",
@@ -61912,7 +61592,7 @@
         "company_name": "Welocalize",
         "id": "0f13303e-f2f1-4e7f-b71c-15603aa14803",
         "title": "Data Labeling Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1777453921,
         "date_posted": 1777453889,
         "url": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/CA-Client-Field-Office-San-Fran-Bay-Area/Data-Labeling-Associate_R0007638",
@@ -278948,7 +278628,7 @@
         "company_name": "Gradient Robotics",
         "id": "7900b65d-9f07-4d31-b68f-cfa6cc770e37",
         "title": "Electrical Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1786620961,
         "date_posted": 1784682921,
         "url": "https://jobs.ashbyhq.com/gradientrobotics/543e35d0-bca3-4b3f-bb09-1075355c9232/application?embed=true",
@@ -280454,7 +280134,7 @@
         "company_name": "Rivian",
         "id": "74d3cfe0-108f-4ef3-a165-129850dfcd1f",
         "title": "Electrical Engineer - Special Projects",
-        "active": false,
+        "active": true,
         "date_updated": 1788341969,
         "date_posted": 1779314839,
         "url": "https://careers.rivian.com/jobs/31207?icims=1",
@@ -325195,7 +324875,7 @@
         "company_name": "Sentry Insurance",
         "id": "d13ff407-faf1-4fda-a40c-e3da888d161d",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791240302,
         "date_posted": 1791158400,
         "url": "https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Stevens-Point-WI/Software-Engineer--Hybrid-Work-Model-_JR-142797-1",
@@ -329518,7 +329198,7 @@
         "company_name": "Rivian",
         "id": "c6de9e69-3c38-46eb-8533-e55050dcce1b",
         "title": "Early Career Validation Engineer - Vehicle Hardware",
-        "active": true,
+        "active": false,
         "date_updated": 1791369912,
         "date_posted": 1783548570,
         "url": "https://careers.rivian.com/jobs/32131?icims=1",
@@ -341655,7 +341335,7 @@
         "company_name": "Northrop Grumman",
         "id": "b5a395ae-42f1-46ba-a288-7d34298231bc",
         "title": "Associate Software Engineer - Pathways",
-        "active": true,
+        "active": false,
         "date_updated": 1792190280,
         "date_posted": 1792108800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
@@ -349202,7 +348882,7 @@
         "company_name": "ByteDance",
         "id": "4f856302-5fb4-4107-a203-d6af516b1220",
         "title": "Research Scientist - AI Infra",
-        "active": true,
+        "active": false,
         "date_updated": 1792745444,
         "date_posted": 1780438067,
         "url": "https://jobs.bytedance.com/en/position/7629789975396124981/detail",
@@ -362238,7 +361918,7 @@
         "company_name": "Dell Technologies",
         "id": "d840c912-8132-4067-918d-723702757692",
         "title": "Test Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1793285462,
         "date_posted": 1793285293,
         "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/296584",
@@ -362259,7 +361939,7 @@
         "company_name": "Dell Technologies",
         "id": "3fa19032-9a60-4980-aa90-789e3fd58171",
         "title": "Test Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1793285462,
         "date_posted": 1793285293,
         "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/296581",
@@ -365184,7 +364864,7 @@
         "company_name": "RTI International",
         "id": "d56cc19f-886c-4018-82d6-852700f3065d",
         "title": "Early-Career Marketing Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1793398682,
         "date_posted": 1793371980,
         "url": "https://careers.rti.org/jobs/13685?icims=1",
@@ -367950,7 +367630,7 @@
         "company_name": "Zefr",
         "id": "f16c20b3-32a1-4ef6-89fa-c359b3be7c77",
         "title": "Multilingual Data Annotation Specialist - Spanish",
-        "active": true,
+        "active": false,
         "date_updated": 1793662741,
         "date_posted": 1793577600,
         "url": "https://jobs.ashbyhq.com/zefr/28ba87e5-924b-498f-b54a-d26c6639aaff/application?embed=true",
@@ -368903,7 +368583,7 @@
         "company_name": "Morning Consult",
         "id": "8833c73c-b421-4740-acd1-7443ddcf3b19",
         "title": "Research Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1793747342,
         "date_posted": 1793664000,
         "url": "https://jobs.ashbyhq.com/morningconsult/ef45d90e-877e-4bfb-9635-29de8881aa89/application?embed=true",
@@ -370440,7 +370120,7 @@
         "company_name": "Microsoft",
         "id": "ec527e6a-082e-4155-a7f4-a114d18663c0",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793844780,
         "date_posted": 1793844575,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556982635",
@@ -370700,7 +370380,7 @@
         "company_name": "Myriad360",
         "id": "7b528d54-ffd1-46d0-b619-21281f247993",
         "title": "Junior AI and Automation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793846885,
         "date_posted": 1793812833,
         "url": "https://boards.greenhouse.io/myriad360/jobs/8930382002",
@@ -371429,7 +371109,7 @@
         "company_name": "Charles Schwab",
         "id": "386fb00c-2205-4a94-a2f2-6aabbaf179c2",
         "title": "Senior Specialist, Product Management - Digital Product Management - Trading Platform Team",
-        "active": true,
+        "active": false,
         "date_updated": 1793867116,
         "date_posted": 1793750400,
         "url": "https://career-schwab.icims.com/jobs/129259/job?mobile=true&needsRedirect=false",
@@ -371881,7 +371561,7 @@
         "company_name": "Panasonic Holdings",
         "id": "3193616f-905e-48d7-b889-aeda810223f3",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1793869017,
         "date_posted": 1792436160,
         "url": "https://careers.na.panasonic.com/jobs/51755?icims=1&lang=en-us",
@@ -376076,7 +375756,7 @@
         "company_name": "Region of Peel",
         "id": "16da4b05-eb02-4ec3-a362-2fcb2e956236",
         "title": "Assistant Technical - Audit Team",
-        "active": true,
+        "active": false,
         "date_updated": 1794267761,
         "date_posted": 1794237720,
         "url": "https://careers-peelregion.icims.com/jobs/17186/job?mobile=true&needsRedirect=false",
@@ -376314,7 +375994,7 @@
         "company_name": "Northrop Grumman",
         "id": "c356d84d-ba9c-41cd-8452-91ca46cd78f5",
         "title": "Associate Electronics Engineer/Electronics Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1794267047,
         "date_posted": 1794182400,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Associate-Electronics-Engineer-Electronics-Engineer_R10259867",
@@ -376476,7 +376156,7 @@
         "company_name": "RTX",
         "id": "1ad297e0-77dd-4070-947e-d7d32359b808",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1794278961,
         "date_posted": 1794182400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01888514",
@@ -376538,7 +376218,7 @@
         "company_name": "Intel",
         "id": "788c07d5-365e-4cd3-bd02-3414d364879c",
         "title": "SoC Logic Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1794295301,
         "date_posted": 1794182400,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/SoC-Logic-Design-Engineer_JR0288396-1",
@@ -379242,7 +378922,7 @@
         "company_name": "Verdantas",
         "id": "a10d7210-cc5a-4223-850b-55491ec158f7",
         "title": "Data Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1794412289,
         "date_posted": 1794355200,
         "url": "https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/San-Diego-CA-West/Data-Analyst-I_R-101337",
@@ -380447,5 +380127,199 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bask Health",
+        "id": "ca8d4e99-7c1a-43f6-9730-cb0083351686",
+        "title": "Frontend Engineer New Grad",
+        "active": true,
+        "date_updated": 1794467560,
+        "date_posted": 1794467524,
+        "url": "https://apply.workable.com/bask-health-1/j/95FB1074E4/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bask-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bask Health",
+        "id": "33b98fd9-daf3-45e9-9fd7-4ea7b235bf9c",
+        "title": "Junior Design Engineer",
+        "active": true,
+        "date_updated": 1794467529,
+        "date_posted": 1794467523,
+        "url": "https://apply.workable.com/bask-health-1/j/E8EA53DF48/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bask-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "84233195-c78a-453a-b511-5847d39d555b",
+        "title": "Associate Software Engineer 1 - CDS / Engine System Software",
+        "active": true,
+        "date_updated": 1794469356,
+        "date_posted": 1794355200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Associate-Software-Engineer-I---CDS---Engine-System-Software--Onsite-_01884197",
+        "locations": [
+            "East Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "5b43343a-c36f-43d1-8127-7ab1b792503b",
+        "title": "Associate Electrical Engineer",
+        "active": true,
+        "date_updated": 1794468835,
+        "date_posted": 1794468768,
+        "url": "https://jobs.l3harris.com/job/Ashburn-Associate,-Electrical-Engineer-VA-20147/1450077500/?ats=successfactors",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Perplexity AI",
+        "id": "37efe65e-5561-4755-9359-8c696108b7fb",
+        "title": "Product Manager - Legal",
+        "active": true,
+        "date_updated": 1794468792,
+        "date_posted": 1794441600,
+        "url": "https://jobs.ashbyhq.com/perplexity/f4312e0a-7d39-4af9-9a7d-b0fe041a228a/application?embed=true",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/PerplexityAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Markon",
+        "id": "9e5f2a4a-9ce5-441d-bb41-8f11f28a4fb8",
+        "title": "Software Engineer 0",
+        "active": true,
+        "date_updated": 1794468651,
+        "date_posted": 1780940640,
+        "url": "https://markonsolutions.jibeapply.com/jobs/8403?icims=1&lang=en-us",
+        "locations": [
+            "Fort Meade, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Markon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Markon",
+        "id": "6d58d484-4f54-48a9-bf20-be2c64214b60",
+        "title": "Software Engineer Level 0",
+        "active": true,
+        "date_updated": 1794468605,
+        "date_posted": 1794252600,
+        "url": "https://markonsolutions.jibeapply.com/jobs/8806?icims=1&lang=en-us",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Markon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "R3 Continuum",
+        "id": "4423003a-51d9-4306-89c5-849002dd6341",
+        "title": "Data Analyst 1",
+        "active": true,
+        "date_updated": 1794476378,
+        "date_posted": 1786058281,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4391300",
+        "locations": [
+            "Bloomington, MN",
+            "Minnesota"
+        ],
+        "company_url": "https://simplify.jobs/c/R3-Continuum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "exacare ai",
+        "id": "5d518279-1c4c-41c2-9b3f-6ed85dd35896",
+        "title": "Data Analyst New Grad",
+        "active": true,
+        "date_updated": 1794477087,
+        "date_posted": 1790288555,
+        "url": "https://ats.rippling.com/exacare-inc/jobs/d720fe3e-7a3d-48bb-8fa0-37ef5acdb80e",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Exacare-Ai",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Kiss Products",
+        "id": "61238957-34bf-4ec4-b05b-df693d5afe40",
+        "title": "Product Associate Product Development/Management",
+        "active": true,
+        "date_updated": 1794481742,
+        "date_posted": 1792972800,
+        "url": "https://kissusa.wd12.myworkdayjobs.com/KISS_Careers_External/job/USA-NY-Port-Washington-HQ/Product-Associate-Product-Development-Management_R4320",
+        "locations": [
+            "Port Washington, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Kiss-Products",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
