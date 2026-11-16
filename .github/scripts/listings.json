@@ -1,122 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AbbVie",
-        "id": "69cef731-5b2b-4069-b674-196ca8b3b39f",
-        "title": "Vendor Master Data Analyst",
-        "active": false,
-        "date_updated": 1774055965,
-        "date_posted": 1774055965,
-        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990012245626",
-        "locations": [
-            "Waukegan, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/AbbVie",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "2aee3072-9d60-46b2-8e0a-9e82147d8286",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774055728,
-        "date_posted": 1774055728,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054436",
-        "locations": [
-            "Tunbridge Wells, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "2ae996f9-8b11-4e98-929c-aa4a47d4c466",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774055606,
-        "date_posted": 1774055606,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054437",
-        "locations": [
-            "Workington, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "025b02c5-cfde-4516-a970-db1a620407a2",
-        "title": "Simulation Software Engineer",
-        "active": false,
-        "date_updated": 1774057286,
-        "date_posted": 1774057286,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/United-States---Remote/Simulation-Software-Engineer--Associate-or-Experienced---Virtual-_JR2026502082-1",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "EPRI",
-        "id": "617e40cf-97fb-41fc-a0a7-e6dbcdac9b2c",
-        "title": "Staff Level 1 - Data Scientist",
-        "active": false,
-        "date_updated": 1774056760,
-        "date_posted": 1774056760,
-        "url": "https://vhr-epri.wd1.myworkdayjobs.com/epricareers/job/Charlotte-NC/Staff---Level-I_REQ-3922",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/EPRI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cadence Design Systems",
-        "id": "3d4e3db3-0bd0-4a67-8ddc-0cfea7aa195d",
-        "title": "AI / Agentic AI / GenAI New College Grad",
-        "active": false,
-        "date_updated": 1774056829,
-        "date_posted": 1774056829,
-        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/AI---Agentic-AI---GenAI-Temp-Assignment-for-New-College-Grad---IT_R53714-1",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "95b77179-ef26-4b1c-9816-76f59dfd5ced",
@@ -4545,27 +4429,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Seagate Technology ",
-        "id": "caf1fb37-dfb0-4ec9-a61b-e7d8525dc522",
-        "title": "Data Scientist \u2013 GenAI & Autonomous Manufacturing Early Career",
-        "active": false,
-        "date_updated": 1774304208,
-        "date_posted": 1774055496,
-        "url": "https://seagatecareers.com/job/Bloomington-Data-Scientist-GenAI-&-Autonomous-Manufacturing-Early-Career-MN/1375513100/?ats=successfactors",
-        "locations": [
-            "Bloomington, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Seagate-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Philips",
         "id": "87eeda1a-48c8-4d13-96ec-035dde606e8c",
@@ -4623,28 +4486,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Stripe",
-        "id": "3f12b8ac-a406-4397-9458-ea07e6d144b3",
-        "title": "Product Manager",
-        "active": true,
-        "date_updated": 1774255374,
-        "date_posted": 1774055248,
-        "url": "https://stripe.com/jobs/search?gh_jid=7737124",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Stripe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -233956,7 +233797,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -261886,7 +261727,7 @@
         "company_name": "Zopa",
         "id": "eede34d8-3520-4881-b2a5-ed052a5b31e5",
         "title": "Graduate Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1788278806,
         "date_posted": 1788278712,
         "url": "https://jobs.lever.co/zopa/962f3756-6e45-480f-984c-64e024b57c4f/apply",
@@ -262536,7 +262377,7 @@
         "company_name": "American Express",
         "id": "20b23b0e-0297-4641-ae32-6db0fea0aef5",
         "title": "AI Engineer 1 - Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1788287740,
         "date_posted": 1788287452,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013255",
@@ -347885,7 +347726,7 @@
         "company_name": "Fife Council",
         "id": "2e46bdd4-7f22-406a-8d89-7edb68f1ff91",
         "title": "Geographical Information Systems/Spatial Data Officer",
-        "active": true,
+        "active": false,
         "date_updated": 1793023566,
         "date_posted": 1793023515,
         "url": "https://ekmu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_6009/job/24919",
@@ -366758,7 +366599,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "d214353d-3393-460d-802e-6966a8fbac28",
         "title": "Campus Switching Product Manager New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1794006761,
         "date_posted": 1793923200,
         "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California/Campus-Switching-Product-Manager-Graduate_1214267-1",
@@ -366801,7 +366642,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "e3f2f0aa-f254-467d-a1cb-7b6140686226",
         "title": "Campus Switching Product Manager New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1794006656,
         "date_posted": 1793923200,
         "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California/Campus-Switching-Product-Manager-Graduate_1214267",
@@ -369872,7 +369713,7 @@
         "company_name": "PA Consulting",
         "id": "505b8332-6a47-4be8-a898-d03e93941097",
         "title": "Graduate Analyst - Digital - Digital & Data",
-        "active": true,
+        "active": false,
         "date_updated": 1794324282,
         "date_posted": 1794318196,
         "url": "https://jobs.smartrecruiters.com/PAConsulting/744000160878550",
@@ -370895,7 +370736,7 @@
         "company_name": "Goldman Sachs",
         "id": "60ba5d46-1da9-4411-9d8c-797c4a1811f2",
         "title": "Software Engineer - Software Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1794353978,
         "date_posted": 1794351889,
         "url": "https://higher.gs.com/roles/188640",
@@ -371949,7 +371790,7 @@
         "company_name": "RTX",
         "id": "1b56aa53-70ee-4d8a-b139-61c2a1200d58",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1794409732,
         "date_posted": 1794355200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--CMA-P1-1-_01888038",
@@ -376831,5 +376672,45 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stripe",
+        "id": "3f12b8ac-a406-4397-9458-ea07e6d144b3",
+        "title": "Product Manager New Grad",
+        "active": true,
+        "date_updated": 1791885067,
+        "date_posted": 1789522300,
+        "url": "https://stripe.com/jobs/search?gh_jid=7737124",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Stripe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zuru",
+        "id": "ef061f55-a0b2-4574-aa37-b937ababd312",
+        "title": "Business Analyst",
+        "active": true,
+        "date_updated": 1794794942,
+        "date_posted": 1794794780,
+        "url": "https://jobs.ashbyhq.com/zuru/35a4eeb0-bdf4-4e8a-94f3-955e214777e1/application?embed=true",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Zuru",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
