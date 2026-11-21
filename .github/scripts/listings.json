@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Bank of America",
-        "id": "27cab98e-30cf-460f-8523-e89f0004f2d9",
-        "title": "Trading Assistant Commodities",
-        "active": false,
-        "date_updated": 1774538055,
-        "date_posted": 1774538055,
-        "url": "https://ghr.wd1.myworkdayjobs.com/lateral-emea/job/London/Trading-Assistant-Commodities_26011521-2",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Bank-Of-America",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "General Dynamics UK",
         "id": "2b9d485a-b648-4c5a-b636-dae08803d280",
@@ -258114,7 +258094,7 @@
         "company_name": "NXP Semiconductors",
         "id": "775cf795-bab4-41d3-b037-a631ffe4c267",
         "title": "Entry Level NVM Reliability Lab Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788409626,
         "date_posted": 1788134400,
         "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-NVM-Reliability-Lab-Engineer_R-10066302",
@@ -276944,7 +276924,7 @@
         "company_name": "NXP Semiconductors",
         "id": "f6552574-8bd8-4bcb-856a-f3131dfdad9f",
         "title": "Entry Level DFT Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788774842,
         "date_posted": 1788739200,
         "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Digital-Design-Engineer_R-10065554",
@@ -283001,7 +282981,7 @@
         "company_name": "NXP Semiconductors",
         "id": "6654a1ec-3f32-4ef6-984d-ac342fa21c2c",
         "title": "Graduate AI Software Engineer - Automotive MPUs",
-        "active": true,
+        "active": false,
         "date_updated": 1789137679,
         "date_posted": 1789084800,
         "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Glasgow/Graduate-AI-and-Software-Engineer---Automotive-MPUs_R-10065880-1",
@@ -295326,7 +295306,7 @@
         "company_name": "KLA",
         "id": "6e669047-2f20-4e25-a45b-351e66602800",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1790126656,
         "date_posted": 1790035200,
         "url": "https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Engr--Software-2_2640144",
@@ -340650,7 +340630,7 @@
         "company_name": "NXP Semiconductors",
         "id": "92db1359-7882-4b50-9a49-c30f1d9f11e4",
         "title": "Logic Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793052729,
         "date_posted": 1792972800,
         "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kanata/Logic-Design-Engineer_R-10067397",
@@ -376131,6 +376111,130 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/STV",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "7da54211-7443-4a5b-86bd-e49ac0409028",
+        "title": "Software Engineer Recent Grad - Verification IP Team",
+        "active": true,
+        "date_updated": 1795274661,
+        "date_posted": 1795046400,
+        "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/SAN-JOSE/Software-Engineering--Verification-IP-Team--Recent-Grad-2026-_R55884",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Veolia",
+        "id": "a86a8e03-2ee2-4791-8566-53feaf4ff217",
+        "title": "Digital Transformation Graduate",
+        "active": true,
+        "date_updated": 1795274462,
+        "date_posted": 1794960000,
+        "url": "https://veoliauki.wd3.myworkdayjobs.com/VESCareers/job/London/Digital-Transformation-Graduate_JR33710",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Veolia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walmart",
+        "id": "7ad57a9d-6cf2-4dea-bbb4-f6ad41b8a491",
+        "title": "Software Engineer 3",
+        "active": true,
+        "date_updated": 1795274353,
+        "date_posted": 1794960000,
+        "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-VIZIO-SERVICES-DENVER-CO-DENVER-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2674054-1",
+        "locations": [
+            "Seattle, WA",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Secureframe",
+        "id": "99cd5349-8e9e-40e3-966e-f41ccfd17d61",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1795276482,
+        "date_posted": 1795219200,
+        "url": "https://jobs.ashbyhq.com/secureframe/ab69f040-9b87-4420-9150-edc6e4f54cfb/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Secureframe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welocalize",
+        "id": "71a95f5f-3d72-4966-a93b-85a96d82d818",
+        "title": "Robotics Teleoperator",
+        "active": true,
+        "date_updated": 1795276121,
+        "date_posted": 1794960000,
+        "url": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/CA-Client-Field-Office-San-Fran-Bay-Area/Project-Dorado---Robotics-Teleoperator_R0008071",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "J.Crew",
+        "id": "13a0515c-5e6f-4021-bed0-229b0e023185",
+        "title": "Associate Product Manager - Web Experience",
+        "active": true,
+        "date_updated": 1795276904,
+        "date_posted": 1794787200,
+        "url": "https://jcrew.wd1.myworkdayjobs.com/FriendsFamilyCareers/job/New-York-NY-USA-Headquarters/Associate-Product-Manager_126672",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/JCrew",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
